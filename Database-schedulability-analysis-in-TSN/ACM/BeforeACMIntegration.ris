@@ -1,0 +1,3431 @@
+﻿TY  - JOUR
+AU  - André, Étienne
+AU  - Lime, Didier
+AU  - Marinho, Dylan
+AU  - Sun, Jun
+DO  - 10.1145/3502851
+IS  - 4
+KW  - Opacity, timed automata, IMITATOR, parameter synthesis
+PY  - 2022
+SN  - 1049-331X
+SP  - Article 64
+ST  - Guaranteeing Timed Opacity using Parametric Timed Model Checking
+T2  - ACM Trans. Softw. Eng. Methodol.
+TI  - Guaranteeing Timed Opacity using Parametric Timed Model Checking
+UR  - https://doi.org/10.1145/3502851
+VL  - 31
+ID  - 137
+ER  - 
+
+TY  - CPAPER
+AU  - André, Étienne
+AU  - Sun, Jun
+CY  - Taipei, Taiwan
+DO  - 10.1007/978-3-030-31784-3_7
+PB  - Springer-Verlag
+PY  - 2019
+SP  - 115–130
+T2  - Automated Technology for Verification and Analysis: 17th International Symposium, ATVA 2019, Taipei, Taiwan, October 28–31, 2019, Proceedings
+TI  - Parametric Timed Model Checking for Guaranteeing Timed Opacity
+UR  - https://doi.org/10.1007/978-3-030-31784-3_7
+ID  - 126
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Behnam, Moris
+AU  - Nolte, Thomas
+DO  - 10.1016/j.sysarc.2016.02.002
+IS  - C
+KW  - Ethernet AVB, Evaluation, FTT-SE protocol, Real-time networks, Simulation, Simulink, Switched Ethernet
+PY  - 2016
+SN  - 1383-7621
+SP  - 1–14
+ST  - SEtSim
+T2  - J. Syst. Archit.
+TI  - SEtSim
+UR  - https://doi.org/10.1016/j.sysarc.2016.02.002
+VL  - 65
+ID  - 147
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Behnam, Moris
+AU  - Nolte, Thomas
+DO  - 10.1016/j.sysarc.2016.02.002
+IS  - C
+KW  - Ethernet AVB, Evaluation, FTT-SE protocol, Real-time networks, Simulation, Simulink, Switched Ethernet
+PY  - 2016
+SN  - 1383-7621
+SP  - 1–14
+ST  - SEtSim
+T2  - J. Syst. Archit.
+TI  - SEtSim
+UR  - https://doi.org/10.1016/j.sysarc.2016.02.002
+VL  - 65
+ID  - 194
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Lo, Lucia
+AU  - nbsp
+AU  - Bello
+AU  - Daneshtalab, Masoud
+AU  - Patti, Gaetano
+AU  - Saponara, Sergio
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2021.102137
+IS  - C
+KW  - Time-Sensitive Networking, TSN, Automotive embedded systems
+PY  - 2021
+SN  - 1383-7621
+SP  - 15
+ST  - Time-Sensitive Networking in automotive embedded systems: State of the art and research opportunities
+T2  - J. Syst. Archit.
+TI  - Time-Sensitive Networking in automotive embedded systems: State of the art and research opportunities
+UR  - https://doi.org/10.1016/j.sysarc.2021.102137
+VL  - 117
+ID  - 109
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Lo, Lucia
+AU  - nbsp
+AU  - Bello
+AU  - Daneshtalab, Masoud
+AU  - Patti, Gaetano
+AU  - Saponara, Sergio
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2021.102137
+IS  - C
+KW  - Time-Sensitive Networking, TSN, Automotive embedded systems
+PY  - 2021
+SN  - 1383-7621
+SP  - 15
+ST  - Time-Sensitive Networking in automotive embedded systems: State of the art and research opportunities
+T2  - J. Syst. Archit.
+TI  - Time-Sensitive Networking in automotive embedded systems: State of the art and research opportunities
+UR  - https://doi.org/10.1016/j.sysarc.2021.102137
+VL  - 117
+ID  - 174
+ER  - 
+
+TY  - CPAPER
+AU  - Ashjaei, Mohammad
+AU  - Mubeen, Saad
+AU  - Lundbäck, John
+AU  - Gålnander, Mattias
+AU  - Lundbäck, Kurt-Lennart
+AU  - Nolte, Thomas
+CY  - Beijing, China
+DO  - 10.1109/iecon.2017.8217478
+PB  - IEEE Press
+PY  - 2017
+SP  - 8419–8424
+T2  - IECON 2017 - 43rd Annual Conference of the IEEE Industrial Electronics Society
+TI  - Modeling and timing analysis of vehicle functions distributed over switched ethernet
+UR  - https://doi.org/10.1109/IECON.2017.8217478
+ID  - 56
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Patti, Gaetano
+AU  - Behnam, Moris
+AU  - Nolte, Thomas
+AU  - Alderisi, Giuliana
+AU  - Bello, Lucia Lo
+DO  - 10.1007/s11241-017-9268-5
+IS  - 4
+KW  - Scheduled traffic, Schedulability analysis, Response time analysis, Over-reservation, Ethernet AVB, Bandwidth reservation
+PY  - 2017
+SN  - 0922-6443
+SP  - 526–577
+ST  - Schedulability analysis of Ethernet Audio Video Bridging networks with scheduled traffic support
+T2  - Real-Time Syst.
+TI  - Schedulability analysis of Ethernet Audio Video Bridging networks with scheduled traffic support
+UR  - https://doi.org/10.1007/s11241-017-9268-5
+VL  - 53
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Patti, Gaetano
+AU  - Behnam, Moris
+AU  - Nolte, Thomas
+AU  - Alderisi, Giuliana
+AU  - Bello, Lucia Lo
+DO  - 10.1007/s11241-017-9268-5
+IS  - 4
+KW  - Bandwidth reservation, Ethernet AVB, Over-reservation, Response time analysis, Schedulability analysis, Scheduled traffic
+PY  - 2017
+SN  - 0922-6443
+SP  - 526–577
+ST  - Schedulability analysis of Ethernet Audio Video Bridging networks with scheduled traffic support
+T2  - Real-Time Syst.
+TI  - Schedulability analysis of Ethernet Audio Video Bridging networks with scheduled traffic support
+UR  - https://doi.org/10.1007/s11241-017-9268-5
+VL  - 53
+ID  - 51
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Patti, Gaetano
+AU  - Behnam, Moris
+AU  - Nolte, Thomas
+AU  - Alderisi, Giuliana
+AU  - Bello, Lucia Lo
+DO  - 10.1007/s11241-017-9268-5
+IS  - 4
+KW  - Bandwidth reservation, Ethernet AVB, Over-reservation, Response time analysis, Schedulability analysis, Scheduled traffic
+PY  - 2017
+SN  - 0922-6443
+SP  - 526–577
+ST  - Schedulability analysis of Ethernet Audio Video Bridging networks with scheduled traffic support
+T2  - Real-Time Syst.
+TI  - Schedulability analysis of Ethernet Audio Video Bridging networks with scheduled traffic support
+UR  - https://doi.org/10.1007/s11241-017-9268-5
+VL  - 53
+ID  - 152
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2021.102037
+IS  - C
+KW  - Automotive networks, Frame preemption, Response times, Performance analysis, TSN, Time-sensitive networking
+PY  - 2021
+SN  - 1383-7621
+SP  - 15
+ST  - A novel frame preemption model in TSN networks
+T2  - J. Syst. Archit.
+TI  - A novel frame preemption model in TSN networks
+UR  - https://doi.org/10.1016/j.sysarc.2021.102037
+VL  - 116
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2021.102037
+IS  - C
+KW  - Time-sensitive networking, TSN, Performance analysis, Response times, Frame preemption, Automotive networks
+PY  - 2021
+SN  - 1383-7621
+SP  - 15
+ST  - A novel frame preemption model in TSN networks
+T2  - J. Syst. Archit.
+TI  - A novel frame preemption model in TSN networks
+UR  - https://doi.org/10.1016/j.sysarc.2021.102037
+VL  - 116
+ID  - 72
+ER  - 
+
+TY  - JOUR
+AU  - Ashjaei, Mohammad
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2021.102037
+IS  - C
+KW  - Time-sensitive networking, TSN, Performance analysis, Response times, Frame preemption, Automotive networks
+PY  - 2021
+SN  - 1383-7621
+SP  - 15
+ST  - A novel frame preemption model in TSN networks
+T2  - J. Syst. Archit.
+TI  - A novel frame preemption model in TSN networks
+UR  - https://doi.org/10.1016/j.sysarc.2021.102037
+VL  - 116
+ID  - 160
+ER  - 
+
+TY  - CPAPER
+AU  - Atallah, Ayman A.
+AU  - Hamad, Ghaith Bany
+AU  - Mohamed, Otmane Ait
+CY  - Graz, Austria
+DO  - 10.1007/978-3-030-22999-3_44
+KW  - Time-sensitive network, Routing optimization, Multipath routing, Integer linear programming, Mixed-critical traffic
+PB  - Springer-Verlag
+PY  - 2019
+SP  - 504–515
+T2  - Advances and Trends in Artificial Intelligence. From Theory to Practice: 32nd International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2019, Graz, Austria, July 9–11, 2019, Proceedings
+TI  - Multipath Routing of Mixed-Critical Traffic in Time Sensitive Networks
+UR  - https://doi.org/10.1007/978-3-030-22999-3_44
+ID  - 66
+ER  - 
+
+TY  - CPAPER
+AU  - Atallah, Ayman A.
+AU  - Hamad, Ghaith Bany
+AU  - Mohamed, Otmane Ait
+CY  - Graz, Austria
+DO  - 10.1007/978-3-030-22999-3_44
+KW  - Time-sensitive network, Routing optimization, Multipath routing, Integer linear programming, Mixed-critical traffic
+PB  - Springer-Verlag
+PY  - 2019
+SP  - 504–515
+T2  - Advances and Trends in Artificial Intelligence. From Theory to Practice: 32nd International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2019, Graz, Austria, July 9–11, 2019, Proceedings
+TI  - Multipath Routing of Mixed-Critical Traffic in Time Sensitive Networks
+UR  - https://doi.org/10.1007/978-3-030-22999-3_44
+ID  - 159
+ER  - 
+
+TY  - CPAPER
+AU  - Austad, Henrik
+AU  - Mathisen, Geir
+CY  - <conf-loc>, <city>San Antonio</city>, <state>TX</state>, <country>USA</country>, </conf-loc>
+DO  - 10.1145/3576914.3587499
+KW  - Cyber-Physical Systems, Deterministic Networks, Lingua Franca, Real-Time Systems, TSN, Tactile Internet
+PB  - Association for Computing Machinery
+PY  - 2023
+SP  - 343–348
+T2  - Proceedings of Cyber-Physical Systems and Internet of Things Week 2023
+TI  - Bounding the End-to-End Execution Time in Distributed Real-Time Systems: Arguing the case for Deterministic Networks in Lingua Franca
+UR  - https://doi.org/10.1145/3576914.3587499
+ID  - 179
+ER  - 
+
+TY  - CPAPER
+AU  - Axer, Philip
+AU  - Thiele, Daniel
+AU  - Ernst, Rolf
+AU  - Diemer, Jonas
+CY  - San Francisco, CA, USA
+DO  - 10.1145/2593069.2593136
+PB  - Association for Computing Machinery
+PY  - 2014
+SP  - 1–6
+T2  - Proceedings of the 51st Annual Design Automation Conference
+TI  - Exploiting Shaper Context to Improve Performance Bounds of Ethernet AVB Networks
+UR  - https://doi.org/10.1145/2593069.2593136
+ID  - 28
+ER  - 
+
+TY  - CPAPER
+AU  - Axer, Philip
+AU  - Thiele, Daniel
+AU  - Ernst, Rolf
+AU  - Diemer, Jonas
+CY  - San Francisco, CA, USA
+DO  - 10.1145/2593069.2593136
+PB  - Association for Computing Machinery
+PY  - 2014
+SP  - 1–6
+T2  - Proceedings of the 51st Annual Design Automation Conference
+TI  - Exploiting Shaper Context to Improve Performance Bounds of Ethernet AVB Networks
+UR  - https://doi.org/10.1145/2593069.2593136
+ID  - 111
+ER  - 
+
+TY  - CPAPER
+AU  - Azua, Joan Adrià Ruiz De
+AU  - Boyer, Marc
+CY  - Versaille, France
+DO  - 10.1145/2659787.2659810
+PB  - Association for Computing Machinery
+PY  - 2014
+SP  - 55–64
+T2  - Proceedings of the 22nd International Conference on Real-Time Networks and Systems
+TI  - Complete modelling of AVB in Network Calculus Framework
+UR  - https://doi.org/10.1145/2659787.2659810
+ID  - 20
+ER  - 
+
+TY  - CPAPER
+AU  - Azua, Joan Adrià Ruiz De
+AU  - Boyer, Marc
+CY  - Versaille, France
+DO  - 10.1145/2659787.2659810
+PB  - Association for Computing Machinery
+PY  - 2014
+SP  - 55–64
+T2  - Proceedings of the 22nd International Conference on Real-Time Networks and Systems
+TI  - Complete modelling of AVB in Network Calculus Framework
+UR  - https://doi.org/10.1145/2659787.2659810
+ID  - 61
+ER  - 
+
+TY  - CPAPER
+AU  - Barzegaran, Mohammadreza
+AU  - Reusch, Niklas
+AU  - Zhao, Luxi
+AU  - Craciunas, Silviu S.
+AU  - Pop, Paul
+CY  - Paris, France
+DO  - 10.1145/3534879.3534921
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 46–57
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - Real-Time Traffic Guarantees in Heterogeneous Time-sensitive Networks
+UR  - https://doi.org/10.1145/3534879.3534921
+ID  - 76
+ER  - 
+
+TY  - CPAPER
+AU  - Benammar, Nassima
+AU  - Bauer, Henri
+AU  - Ridouard, Frédéric
+AU  - Richard, Pascal
+CY  - Chasseneuil-du-Poitou, France
+DO  - 10.1145/3273905.3273922
+KW  - timing analysis, Real time networking, AVB Ethernet standard
+PB  - Association for Computing Machinery
+PY  - 2018
+SP  - 223–233
+T2  - Proceedings of the 26th International Conference on Real-Time Networks and Systems
+TI  - Timing analysis of AVB Ethernet network using the Forward end-to-end Delay Analysis
+UR  - https://doi.org/10.1145/3273905.3273922
+ID  - 2
+ER  - 
+
+TY  - CPAPER
+AU  - Benammar, Nassima
+AU  - Bauer, Henri
+AU  - Ridouard, Frédéric
+AU  - Richard, Pascal
+CY  - Chasseneuil-du-Poitou, France
+DO  - 10.1145/3273905.3273922
+KW  - AVB Ethernet standard, Real time networking, timing analysis
+PB  - Association for Computing Machinery
+PY  - 2018
+SP  - 223–233
+T2  - Proceedings of the 26th International Conference on Real-Time Networks and Systems
+TI  - Timing analysis of AVB Ethernet network using the Forward end-to-end Delay Analysis
+UR  - https://doi.org/10.1145/3273905.3273922
+ID  - 49
+ER  - 
+
+TY  - CPAPER
+AU  - Benammar, Nassima
+AU  - Bauer, Henri
+AU  - Ridouard, Frédéric
+AU  - Richard, Pascal
+CY  - Chasseneuil-du-Poitou, France
+DO  - 10.1145/3273905.3273922
+KW  - AVB Ethernet standard, Real time networking, timing analysis
+PB  - Association for Computing Machinery
+PY  - 2018
+SP  - 223–233
+T2  - Proceedings of the 26th International Conference on Real-Time Networks and Systems
+TI  - Timing analysis of AVB Ethernet network using the Forward end-to-end Delay Analysis
+UR  - https://doi.org/10.1145/3273905.3273922
+ID  - 150
+ER  - 
+
+TY  - CPAPER
+AU  - Berisa, Aldin
+AU  - Zhao, Luxi
+AU  - Craciunas, Silviu S.
+AU  - Ashjaei, Mohammad
+AU  - Mubeen, Saad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+CY  - Paris, France
+DO  - 10.1145/3534879.3534926
+KW  - Time sensitive networking, Scheduling, Network calculus., AVB
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 207–218
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - AVB-aware Routing and Scheduling for Critical Traffic in Time-sensitive Networks with Preemption
+UR  - https://doi.org/10.1145/3534879.3534926
+ID  - 19
+ER  - 
+
+TY  - CPAPER
+AU  - Berisa, Aldin
+AU  - Zhao, Luxi
+AU  - Craciunas, Silviu S.
+AU  - Ashjaei, Mohammad
+AU  - Mubeen, Saad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+CY  - Paris, France
+DO  - 10.1145/3534879.3534926
+KW  - AVB, Network calculus., Scheduling, Time sensitive networking
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 207–218
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - AVB-aware Routing and Scheduling for Critical Traffic in Time-sensitive Networks with Preemption
+UR  - https://doi.org/10.1145/3534879.3534926
+ID  - 62
+ER  - 
+
+TY  - CPAPER
+AU  - Berisa, Aldin
+AU  - Zhao, Luxi
+AU  - Craciunas, Silviu S.
+AU  - Ashjaei, Mohammad
+AU  - Mubeen, Saad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+CY  - Paris, France
+DO  - 10.1145/3534879.3534926
+KW  - AVB, Network calculus., Scheduling, Time sensitive networking
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 207–218
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - AVB-aware Routing and Scheduling for Critical Traffic in Time-sensitive Networks with Preemption
+UR  - https://doi.org/10.1145/3534879.3534926
+ID  - 162
+ER  - 
+
+TY  - JOUR
+AU  - Bezerra, Daniel
+AU  - Filho, Assis T. de Oliveira
+AU  - Rodrigues, Iago Richard
+AU  - Dantas, Marrone
+AU  - Barbosa, Gibson
+AU  - Souza, Ricardo
+AU  - Kelner, Judith
+AU  - Sadok, Djamel
+DO  - 10.1016/j.comcom.2022.09.011
+IS  - C
+KW  - ULL, Network optimization, End-to-end latency, TSN
+PY  - 2022
+SN  - 0140-3664
+SP  - 424–440
+ST  - A machine learning-based optimization for end-to-end latency in TSN networks
+T2  - Comput. Commun.
+TI  - A machine learning-based optimization for end-to-end latency in TSN networks
+UR  - https://doi.org/10.1016/j.comcom.2022.09.011
+VL  - 195
+ID  - 36
+ER  - 
+
+TY  - JOUR
+AU  - Bezerra, Daniel
+AU  - Filho, Assis T. de Oliveira
+AU  - Rodrigues, Iago Richard
+AU  - Dantas, Marrone
+AU  - Barbosa, Gibson
+AU  - Souza, Ricardo
+AU  - Kelner, Judith
+AU  - Sadok, Djamel
+DO  - 10.1016/j.comcom.2022.09.011
+IS  - C
+KW  - TSN, End-to-end latency, Network optimization, ULL
+PY  - 2022
+SN  - 0140-3664
+SP  - 424–440
+ST  - A machine learning-based optimization for end-to-end latency in TSN networks
+T2  - Comput. Commun.
+TI  - A machine learning-based optimization for end-to-end latency in TSN networks
+UR  - https://doi.org/10.1016/j.comcom.2022.09.011
+VL  - 195
+ID  - 121
+ER  - 
+
+TY  - JOUR
+AU  - Bezerra, Daniel
+AU  - Filho, Assis T. de Oliveira
+AU  - Rodrigues, Iago Richard
+AU  - Dantas, Marrone
+AU  - Barbosa, Gibson
+AU  - Souza, Ricardo
+AU  - Kelner, Judith
+AU  - Sadok, Djamel
+DO  - 10.1016/j.comcom.2022.09.011
+IS  - C
+KW  - TSN, End-to-end latency, Network optimization, ULL
+PY  - 2022
+SN  - 0140-3664
+SP  - 424–440
+ST  - A machine learning-based optimization for end-to-end latency in TSN networks
+T2  - Comput. Commun.
+TI  - A machine learning-based optimization for end-to-end latency in TSN networks
+UR  - https://doi.org/10.1016/j.comcom.2022.09.011
+VL  - 195
+ID  - 186
+ER  - 
+
+TY  - CPAPER
+AU  - Borela, Rodrigo
+AU  - Roy, Nimisha
+CY  - Chicago, IL, USA
+DO  - 10.1145/3568812.3603485
+KW  - Data Visualization, Grading Fairness, Rubrics, Teaching Assistant Training
+PB  - Association for Computing Machinery
+PY  - 2023
+SP  - 26–27
+T2  - Proceedings of the 2023 ACM Conference on International Computing Education Research - Volume 2
+TI  - Creating Equitable Grading Practices with Rubrics: A Teaching Assistant Training Activity
+UR  - https://doi.org/10.1145/3568812.3603485
+VL  - 2
+ID  - 136
+ER  - 
+
+TY  - JOUR
+AU  - Bouillard, Anne
+DO  - 10.1016/j.peva.2021.102250
+IS  - C
+KW  - Network Calculus, FIFO systems, Linear programming
+PY  - 2022
+SN  - 0166-5316
+SP  - 36
+ST  - Trade-off between accuracy and tractability of Network Calculus in FIFO networks
+T2  - Perform. Eval.
+TI  - Trade-off between accuracy and tractability of Network Calculus in FIFO networks
+UR  - https://doi.org/10.1016/j.peva.2021.102250
+VL  - 153
+ID  - 114
+ER  - 
+
+TY  - CPAPER
+AU  - Boyer, Marc
+AU  - Daigmorte, Hugo
+CY  - Toulouse, France
+DO  - 10.1145/3356401.3356412
+PB  - Association for Computing Machinery
+PY  - 2019
+SP  - 80–89
+T2  - Proceedings of the 27th International Conference on Real-Time Networks and Systems
+TI  - Impact on credit freeze before gate closing in CBS and GCL integration into TSN
+UR  - https://doi.org/10.1145/3356401.3356412
+ID  - 38
+ER  - 
+
+TY  - CPAPER
+AU  - Boyer, Marc
+AU  - Daigmorte, Hugo
+CY  - Toulouse, France
+DO  - 10.1145/3356401.3356412
+PB  - Association for Computing Machinery
+PY  - 2019
+SP  - 80–89
+T2  - Proceedings of the 27th International Conference on Real-Time Networks and Systems
+TI  - Impact on credit freeze before gate closing in CBS and GCL integration into TSN
+UR  - https://doi.org/10.1145/3356401.3356412
+ID  - 63
+ER  - 
+
+TY  - CPAPER
+AU  - Bujosa, Daniel
+AU  - Ashjaei, Mohammad
+AU  - Papadopoulos, Alessandro V.
+AU  - Nolte, Thomas
+AU  - Proenza, Julian
+CY  - Paris, France
+DO  - 10.1145/3534879.3534906
+KW  - zero jitter, time-triggered, scheduling, heuristics., TSN
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 70–80
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - HERMES: Heuristic Multi-queue Scheduler for TSN Time-Triggered Traffic with Zero Reception Jitter Capabilities
+UR  - https://doi.org/10.1145/3534879.3534906
+ID  - 37
+ER  - 
+
+TY  - CPAPER
+AU  - Bujosa, Daniel
+AU  - Ashjaei, Mohammad
+AU  - Papadopoulos, Alessandro V.
+AU  - Nolte, Thomas
+AU  - Proenza, Julian
+CY  - Paris, France
+DO  - 10.1145/3534879.3534906
+KW  - TSN, heuristics., scheduling, time-triggered, zero jitter
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 70–80
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - HERMES: Heuristic Multi-queue Scheduler for TSN Time-Triggered Traffic with Zero Reception Jitter Capabilities
+UR  - https://doi.org/10.1145/3534879.3534906
+ID  - 92
+ER  - 
+
+TY  - CPAPER
+AU  - Bujosa, Daniel
+AU  - Ashjaei, Mohammad
+AU  - Papadopoulos, Alessandro V.
+AU  - Nolte, Thomas
+AU  - Proenza, Julian
+CY  - Paris, France
+DO  - 10.1145/3534879.3534906
+KW  - TSN, heuristics., scheduling, time-triggered, zero jitter
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 70–80
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - HERMES: Heuristic Multi-queue Scheduler for TSN Time-Triggered Traffic with Zero Reception Jitter Capabilities
+UR  - https://doi.org/10.1145/3534879.3534906
+ID  - 183
+ER  - 
+
+TY  - JOUR
+AU  - Cao, Jingyue
+AU  - Cuijpers, Pieter J.
+AU  - Bril, Reinder J.
+AU  - Lukkien, Johan J.
+IS  - 4
+KW  - WCRT analysis, Ethernet TSN, Ethernet AVB, Eligible interval, Credit based shaping, Busy period analysis
+PY  - 2018
+SN  - 0922-6443
+SP  - 861–911
+ST  - Independent WCRT analysis for individual priority classes in Ethernet AVB
+T2  - Real-Time Syst.
+TI  - Independent WCRT analysis for individual priority classes in Ethernet AVB
+VL  - 54
+ID  - 24
+ER  - 
+
+TY  - JOUR
+AU  - Cao, Jingyue
+AU  - Cuijpers, Pieter J.
+AU  - Bril, Reinder J.
+AU  - Lukkien, Johan J.
+IS  - 4
+KW  - Busy period analysis, Credit based shaping, Eligible interval, Ethernet AVB, Ethernet TSN, WCRT analysis
+PY  - 2018
+SN  - 0922-6443
+SP  - 861–911
+ST  - Independent WCRT analysis for individual priority classes in Ethernet AVB
+T2  - Real-Time Syst.
+TI  - Independent WCRT analysis for individual priority classes in Ethernet AVB
+VL  - 54
+ID  - 104
+ER  - 
+
+TY  - JOUR
+AU  - Cao, Jingyue
+AU  - Cuijpers, Pieter J.
+AU  - Bril, Reinder J.
+AU  - Lukkien, Johan J.
+IS  - 4
+KW  - Busy period analysis, Credit based shaping, Eligible interval, Ethernet AVB, Ethernet TSN, WCRT analysis
+PY  - 2018
+SN  - 0922-6443
+SP  - 861–911
+ST  - Independent WCRT analysis for individual priority classes in Ethernet AVB
+T2  - Real-Time Syst.
+TI  - Independent WCRT analysis for individual priority classes in Ethernet AVB
+VL  - 54
+ID  - 173
+ER  - 
+
+TY  - CPAPER
+AU  - Cao, Jingyue
+AU  - Cuijpers, Pieter J.L.
+AU  - Bril, Reinder J.
+AU  - Lukkien, Johan J.
+CY  - Brest, France
+DO  - 10.1145/2997465.2997493
+KW  - WCRT Analysis, Ethernet AVB, Eligible Interval, Credit Based Shaping, Busy Period Analysis
+PB  - Association for Computing Machinery
+PY  - 2016
+SP  - 55–64
+T2  - Proceedings of the 24th International Conference on Real-Time Networks and Systems
+TI  - Independent yet Tight WCRT Analysis for Individual Priority Classes in Ethernet AVB
+UR  - https://doi.org/10.1145/2997465.2997493
+ID  - 27
+ER  - 
+
+TY  - CPAPER
+AU  - Cao, Jingyue
+AU  - Cuijpers, Pieter J.L.
+AU  - Bril, Reinder J.
+AU  - Lukkien, Johan J.
+CY  - Brest, France
+DO  - 10.1145/2997465.2997493
+KW  - Busy Period Analysis, Credit Based Shaping, Eligible Interval, Ethernet AVB, WCRT Analysis
+PB  - Association for Computing Machinery
+PY  - 2016
+SP  - 55–64
+T2  - Proceedings of the 24th International Conference on Real-Time Networks and Systems
+TI  - Independent yet Tight WCRT Analysis for Individual Priority Classes in Ethernet AVB
+UR  - https://doi.org/10.1145/2997465.2997493
+ID  - 110
+ER  - 
+
+TY  - CPAPER
+AU  - Cao, Jingyue
+AU  - Cuijpers, Pieter J.L.
+AU  - Bril, Reinder J.
+AU  - Lukkien, Johan J.
+CY  - Brest, France
+DO  - 10.1145/2997465.2997493
+KW  - Busy Period Analysis, Credit Based Shaping, Eligible Interval, Ethernet AVB, WCRT Analysis
+PB  - Association for Computing Machinery
+PY  - 2016
+SP  - 55–64
+T2  - Proceedings of the 24th International Conference on Real-Time Networks and Systems
+TI  - Independent yet Tight WCRT Analysis for Individual Priority Classes in Ethernet AVB
+UR  - https://doi.org/10.1145/2997465.2997493
+ID  - 181
+ER  - 
+
+TY  - CPAPER
+AU  - Chaine, Pierre-Julien
+AU  - Boyer, Marc
+AU  - Pagetti, Claire
+AU  - Wartel, Franck
+CY  - Paris, France
+DO  - 10.1145/3534879.3534885
+KW  - TSN, Satellite, Real-Time Networks, Embedded Networks, Configuration, 802.1Qbv
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 58–69
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - Egress-TT Configurations for TSN Networks
+UR  - https://doi.org/10.1145/3534879.3534885
+ID  - 34
+ER  - 
+
+TY  - CPAPER
+AU  - Chaine, Pierre-Julien
+AU  - Boyer, Marc
+AU  - Pagetti, Claire
+AU  - Wartel, Franck
+CY  - Paris, France
+DO  - 10.1145/3534879.3534885
+KW  - 802.1Qbv, Configuration, Embedded Networks, Real-Time Networks, Satellite, TSN
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 58–69
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - Egress-TT Configurations for TSN Networks
+UR  - https://doi.org/10.1145/3534879.3534885
+ID  - 191
+ER  - 
+
+TY  - JOUR
+AU  - Chang, Shih-Hung
+AU  - Chen, Huan
+AU  - Cheng, Bo-Chao
+DO  - 10.1016/j.comcom.2021.03.019
+IS  - C
+KW  - Cyber physical systems (CPS), Time-Sensitive Network (TSN), Real-Time Routing Scheduler (RTRS), Time-Triggered (TT), Shortest path first (SPF)
+PY  - 2021
+SN  - 0140-3664
+SP  - 183–195
+ST  - Time-predictable routing algorithm for Time-Sensitive Networking: Schedulable guarantee of Time-Triggered streams
+T2  - Comput. Commun.
+TI  - Time-predictable routing algorithm for Time-Sensitive Networking: Schedulable guarantee of Time-Triggered streams
+UR  - https://doi.org/10.1016/j.comcom.2021.03.019
+VL  - 172
+ID  - 82
+ER  - 
+
+TY  - JOUR
+AU  - Chang, Shih-Hung
+AU  - Chen, Huan
+AU  - Cheng, Bo-Chao
+DO  - 10.1016/j.comcom.2021.03.019
+IS  - C
+KW  - Cyber physical systems (CPS), Time-Sensitive Network (TSN), Real-Time Routing Scheduler (RTRS), Time-Triggered (TT), Shortest path first (SPF)
+PY  - 2021
+SN  - 0140-3664
+SP  - 183–195
+ST  - Time-predictable routing algorithm for Time-Sensitive Networking: Schedulable guarantee of Time-Triggered streams
+T2  - Comput. Commun.
+TI  - Time-predictable routing algorithm for Time-Sensitive Networking: Schedulable guarantee of Time-Triggered streams
+UR  - https://doi.org/10.1016/j.comcom.2021.03.019
+VL  - 172
+ID  - 165
+ER  - 
+
+TY  - CPAPER
+AU  - Chen, Mingsong
+AU  - Yue, Daian
+AU  - Qin, Xiaoke
+AU  - Fu, Xin
+AU  - Mishra, Prabhat
+CY  - Grenoble, France
+PB  - EDA Consortium
+PY  - 2015
+SP  - 199–204
+T2  - Proceedings of the 2015 Design, Automation &amp; Test in Europe Conference &amp; Exhibition
+TI  - Variation-aware evaluation of MPSoC task allocation and scheduling strategies using statistical model checking
+ID  - 133
+ER  - 
+
+TY  - CPAPER
+AU  - Cheng, Yufan
+AU  - Wang, Ying
+AU  - Wen, Jiachen
+AU  - Yu, Peng
+CY  - <conf-loc>, <city>Beijing</city>, <country>China</country>, </conf-loc>
+DO  - 10.1145/3579895.3579922
+KW  - Traffic scheduling, Time sensitive network, Flexible GCL based on Windows, Asynchronous passes
+PB  - Association for Computing Machinery
+PY  - 2023
+SP  - 173–177
+T2  - Proceedings of the 2022 11th International Conference on Networks, Communication and Computing
+TI  - Real-Time Scheduling of Asynchronous TSN Traffic
+UR  - https://doi.org/10.1145/3579895.3579922
+ID  - 31
+ER  - 
+
+TY  - CPAPER
+AU  - Cheng, Yufan
+AU  - Wang, Ying
+AU  - Wen, Jiachen
+AU  - Yu, Peng
+CY  - <conf-loc>, <city>Beijing</city>, <country>China</country>, </conf-loc>
+DO  - 10.1145/3579895.3579922
+KW  - Asynchronous passes, Flexible GCL based on Windows, Time sensitive network, Traffic scheduling
+PB  - Association for Computing Machinery
+PY  - 2023
+SP  - 173–177
+T2  - Proceedings of the 2022 11th International Conference on Networks, Communication and Computing
+TI  - Real-Time Scheduling of Asynchronous TSN Traffic
+UR  - https://doi.org/10.1145/3579895.3579922
+ID  - 85
+ER  - 
+
+TY  - CPAPER
+AU  - Cheng, Yufan
+AU  - Wang, Ying
+AU  - Wen, Jiachen
+AU  - Yu, Peng
+CY  - <conf-loc>, <city>Beijing</city>, <country>China</country>, </conf-loc>
+DO  - 10.1145/3579895.3579922
+KW  - Asynchronous passes, Flexible GCL based on Windows, Time sensitive network, Traffic scheduling
+PB  - Association for Computing Machinery
+PY  - 2023
+SP  - 173–177
+T2  - Proceedings of the 2022 11th International Conference on Networks, Communication and Computing
+TI  - Real-Time Scheduling of Asynchronous TSN Traffic
+UR  - https://doi.org/10.1145/3579895.3579922
+ID  - 166
+ER  - 
+
+TY  - CPAPER
+AU  - Dai, Xiaotian
+AU  - Zhao, Shuai
+AU  - Jiang, Yu
+AU  - Jiao, Xun
+AU  - Hu, Xiaobo Sharon
+AU  - Chang, Wanli
+CY  - Virtual Event, USA
+DO  - 10.1145/3400302.3415715
+KW  - fixed-priority scheduling, real-time communication, scheduling-controller co-design, time-sensitive networks
+PB  - Association for Computing Machinery
+PY  - 2020
+SP  - Article 99
+T2  - Proceedings of the 39th International Conference on Computer-Aided Design
+TI  - Fixed-priority scheduling and controller co-design for time-sensitive networks
+UR  - https://doi.org/10.1145/3400302.3415715
+ID  - 102
+ER  - 
+
+TY  - JOUR
+AU  - Dang, Fan
+AU  - Sun, Xi-Kai
+AU  - Liu, Ke-Bin
+AU  - Xu, Yi-Fan
+AU  - Liu, Yun-Hao
+DO  - 10.1007/s11390-023-2908-4
+IS  - 1
+KW  - clock synchronization, industrial communication, Industrial Internet, wireless sensor network
+PY  - 2023
+SN  - 1000-9000
+SP  - 146–165
+ST  - A Survey on Clock Synchronization in the Industrial Internet
+T2  - J. Comput. Sci. Technol.
+TI  - A Survey on Clock Synchronization in the Industrial Internet
+UR  - https://doi.org/10.1007/s11390-023-2908-4
+VL  - 38
+ID  - 141
+ER  - 
+
+TY  - JOUR
+AU  - Das, Debashis
+AU  - Banerjee, Sourav
+AU  - Chatterjee, Puspita
+AU  - Biswas, Manju
+AU  - Biswas, Utpal
+AU  - Alnumay, Waleed
+DO  - 10.1007/s10586-022-03536-z
+IS  - 3
+KW  - Blockchain, Smart contract, Decentralized electronic toll collection, Intelligent transportation management system, Blockchain-enabled ETC system
+PY  - 2022
+SN  - 1386-7857
+SP  - 1899–1913
+ST  - Design and development of an intelligent transportation management system using blockchain and smart contracts
+T2  - Cluster Computing
+TI  - Design and development of an intelligent transportation management system using blockchain and smart contracts
+UR  - https://doi.org/10.1007/s10586-022-03536-z
+VL  - 25
+ID  - 146
+ER  - 
+
+TY  - JOUR
+AU  - Demir, Ömer Kaǧan
+AU  - Cevher, Selçuk
+DO  - 10.1007/s11241-023-09394-1
+IS  - 2
+KW  - Deterministic communication, IEEE 802.1 TSN, Multi-topology routing, Route planning
+PY  - 2023
+SN  - 0922-6443
+SP  - 123–159
+ST  - Multi-Topology Routing based traffic optimization for IEEE 802.1 Time Sensitive Networking
+T2  - Real-Time Syst.
+TI  - Multi-Topology Routing based traffic optimization for IEEE 802.1 Time Sensitive Networking
+UR  - https://doi.org/10.1007/s11241-023-09394-1
+VL  - 59
+ID  - 113
+ER  - 
+
+TY  - JOUR
+AU  - Demir, Ömer Kaǧan
+AU  - Cevher, Selçuk
+DO  - 10.1007/s11241-023-09394-1
+IS  - 2
+KW  - Deterministic communication, IEEE 802.1 TSN, Multi-topology routing, Route planning
+PY  - 2023
+SN  - 0922-6443
+SP  - 123–159
+ST  - Multi-Topology Routing based traffic optimization for IEEE 802.1 Time Sensitive Networking
+T2  - Real-Time Syst.
+TI  - Multi-Topology Routing based traffic optimization for IEEE 802.1 Time Sensitive Networking
+UR  - https://doi.org/10.1007/s11241-023-09394-1
+VL  - 59
+ID  - 189
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Xiao, Xiongren
+AU  - Liu, Hong
+AU  - Li, Renfa
+AU  - Xie, Guoqi
+DO  - 10.1016/j.sysarc.2022.102586
+IS  - C
+KW  - Time-Sensitive Networking (TSN), Real-time scheduling, Audio-Video-Bridging (AVB)
+PY  - 2022
+SN  - 1383-7621
+SP  - 12
+ST  - A low-delay AVB flow scheduling method occupying the guard band in Time-Sensitive Networking
+T2  - J. Syst. Archit.
+TI  - A low-delay AVB flow scheduling method occupying the guard band in Time-Sensitive Networking
+UR  - https://doi.org/10.1016/j.sysarc.2022.102586
+VL  - 129
+ID  - 33
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Xiao, Xiongren
+AU  - Liu, Hong
+AU  - Li, Renfa
+AU  - Xie, Guoqi
+DO  - 10.1016/j.sysarc.2022.102586
+IS  - C
+KW  - Audio-Video-Bridging (AVB), Real-time scheduling, Time-Sensitive Networking (TSN)
+PY  - 2022
+SN  - 1383-7621
+SP  - 12
+ST  - A low-delay AVB flow scheduling method occupying the guard band in Time-Sensitive Networking
+T2  - J. Syst. Archit.
+TI  - A low-delay AVB flow scheduling method occupying the guard band in Time-Sensitive Networking
+UR  - https://doi.org/10.1016/j.sysarc.2022.102586
+VL  - 129
+ID  - 75
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Xiao, Xiongren
+AU  - Liu, Hong
+AU  - Li, Renfa
+AU  - Xie, Guoqi
+DO  - 10.1016/j.sysarc.2022.102586
+IS  - C
+KW  - Audio-Video-Bridging (AVB), Real-time scheduling, Time-Sensitive Networking (TSN)
+PY  - 2022
+SN  - 1383-7621
+SP  - 12
+ST  - A low-delay AVB flow scheduling method occupying the guard band in Time-Sensitive Networking
+T2  - J. Syst. Archit.
+TI  - A low-delay AVB flow scheduling method occupying the guard band in Time-Sensitive Networking
+UR  - https://doi.org/10.1016/j.sysarc.2022.102586
+VL  - 129
+ID  - 157
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Xie, Guoqi
+AU  - Liu, Hong
+AU  - Han, Yunbo
+AU  - Li, Renfa
+AU  - Li, Keqin
+DO  - 10.1145/3487330
+IS  - 2
+KW  - Time-Sensitive Networking (TSN), real-time Ethernet, Audio Video Bridging (AVB)
+PY  - 2022
+SN  - 0360-0300
+SP  - Article 31
+ST  - A Survey of Real-Time Ethernet Modeling and Design Methodologies: From AVB to TSN
+T2  - ACM Comput. Surv.
+TI  - A Survey of Real-Time Ethernet Modeling and Design Methodologies: From AVB to TSN
+UR  - https://doi.org/10.1145/3487330
+VL  - 55
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Xie, Guoqi
+AU  - Liu, Hong
+AU  - Han, Yunbo
+AU  - Li, Renfa
+AU  - Li, Keqin
+DO  - 10.1145/3487330
+IS  - 2
+KW  - Audio Video Bridging (AVB), real-time Ethernet, Time-Sensitive Networking (TSN)
+PY  - 2022
+SN  - 0360-0300
+SP  - Article 31
+ST  - A Survey of Real-Time Ethernet Modeling and Design Methodologies: From AVB to TSN
+T2  - ACM Comput. Surv.
+TI  - A Survey of Real-Time Ethernet Modeling and Design Methodologies: From AVB to TSN
+UR  - https://doi.org/10.1145/3487330
+VL  - 55
+ID  - 68
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Xie, Guoqi
+AU  - Liu, Hong
+AU  - Han, Yunbo
+AU  - Li, Renfa
+AU  - Li, Keqin
+DO  - 10.1145/3487330
+IS  - 2
+KW  - Audio Video Bridging (AVB), real-time Ethernet, Time-Sensitive Networking (TSN)
+PY  - 2022
+SN  - 0360-0300
+SP  - Article 31
+ST  - A Survey of Real-Time Ethernet Modeling and Design Methodologies: From AVB to TSN
+T2  - ACM Comput. Surv.
+TI  - A Survey of Real-Time Ethernet Modeling and Design Methodologies: From AVB to TSN
+UR  - https://doi.org/10.1145/3487330
+VL  - 55
+ID  - 154
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Zeng, Gang
+AU  - Kurachi, Ryo
+AU  - Takada, Hiroaki
+AU  - Xiao, Xiongren
+AU  - Li, Renfa
+AU  - Xie, Guoqi
+DO  - 10.1145/3637878
+IS  - 2
+KW  - Audio-video-bridging (AVB), real-time scheduling, time-sensitive networking (TSN), worst-case delay (WCD) analysis
+PY  - 2024
+SN  - 1084-4309
+SP  - Article 33
+ST  - Enhanced Real-time Scheduling of AVB Flows in Time-Sensitive Networking
+T2  - ACM Trans. Des. Autom. Electron. Syst.
+TI  - Enhanced Real-time Scheduling of AVB Flows in Time-Sensitive Networking
+UR  - https://doi.org/10.1145/3637878
+VL  - 29
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Zeng, Gang
+AU  - Kurachi, Ryo
+AU  - Takada, Hiroaki
+AU  - Xiao, Xiongren
+AU  - Li, Renfa
+AU  - Xie, Guoqi
+DO  - 10.1145/3637878
+IS  - 2
+KW  - Audio-video-bridging (AVB), real-time scheduling, time-sensitive networking (TSN), worst-case delay (WCD) analysis
+PY  - 2024
+SN  - 1084-4309
+SP  - Article 33
+ST  - Enhanced Real-time Scheduling of AVB Flows in Time-Sensitive Networking
+T2  - ACM Trans. Des. Autom. Electron. Syst.
+TI  - Enhanced Real-time Scheduling of AVB Flows in Time-Sensitive Networking
+UR  - https://doi.org/10.1145/3637878
+VL  - 29
+ID  - 54
+ER  - 
+
+TY  - JOUR
+AU  - Deng, Libing
+AU  - Zeng, Gang
+AU  - Kurachi, Ryo
+AU  - Takada, Hiroaki
+AU  - Xiao, Xiongren
+AU  - Li, Renfa
+AU  - Xie, Guoqi
+DO  - 10.1145/3637878
+IS  - 2
+KW  - Audio-video-bridging (AVB), real-time scheduling, time-sensitive networking (TSN), worst-case delay (WCD) analysis
+PY  - 2024
+SN  - 1084-4309
+SP  - Article 33
+ST  - Enhanced Real-time Scheduling of AVB Flows in Time-Sensitive Networking
+T2  - ACM Trans. Des. Autom. Electron. Syst.
+TI  - Enhanced Real-time Scheduling of AVB Flows in Time-Sensitive Networking
+UR  - https://doi.org/10.1145/3637878
+VL  - 29
+ID  - 153
+ER  - 
+
+TY  - CPAPER
+AU  - Feng, Jiaqi
+AU  - Zhang, Tong
+AU  - Yi, Changyan
+CY  - Dalian, China
+DO  - 10.1007/978-3-031-19214-2_20
+KW  - Time-Sensitive Networking, Optimization Modulo Theories, Routing, Scheduling, Reliability-aware
+PB  - Springer-Verlag
+PY  - 2022
+SP  - 243–254
+T2  - Wireless Algorithms, Systems, and Applications: 17th International Conference, WASA 2022, Dalian, China, November 24–26, 2022, Proceedings, Part II
+TI  - Reliability-Aware Comprehensive Routing and&nbsp;Scheduling in&nbsp;Time-Sensitive Networking
+UR  - https://doi.org/10.1007/978-3-031-19214-2_20
+ID  - 71
+ER  - 
+
+TY  - JOUR
+AU  - Feng, Zhiwei
+AU  - Wu, Chaoquan
+AU  - Deng, Qingxu
+AU  - Han, Meiling
+AU  - Lin, Yuhan
+DO  - 10.1016/j.sysarc.2023.102959
+IS  - C
+KW  - Time-sensitive networking, Industrial network, Cyclic queuing and forwarding, Fault-tolerant scheduling, Time-triggered streams
+PY  - 2023
+SN  - 1383-7621
+SP  - 11
+ST  - ReT-FTS: Re-transmission-based fault-tolerant scheduling in TSN
+T2  - J. Syst. Archit.
+TI  - ReT-FTS: Re-transmission-based fault-tolerant scheduling in TSN
+UR  - https://doi.org/10.1016/j.sysarc.2023.102959
+VL  - 142
+ID  - 46
+ER  - 
+
+TY  - JOUR
+AU  - Feng, Zhiwei
+AU  - Wu, Chaoquan
+AU  - Deng, Qingxu
+AU  - Han, Meiling
+AU  - Lin, Yuhan
+DO  - 10.1016/j.sysarc.2023.102959
+IS  - C
+KW  - Time-sensitive networking, Industrial network, Cyclic queuing and forwarding, Fault-tolerant scheduling, Time-triggered streams
+PY  - 2023
+SN  - 1383-7621
+SP  - 11
+ST  - ReT-FTS: Re-transmission-based fault-tolerant scheduling in TSN
+T2  - J. Syst. Archit.
+TI  - ReT-FTS: Re-transmission-based fault-tolerant scheduling in TSN
+UR  - https://doi.org/10.1016/j.sysarc.2023.102959
+VL  - 142
+ID  - 81
+ER  - 
+
+TY  - JOUR
+AU  - Feng, Zhiwei
+AU  - Wu, Chaoquan
+AU  - Deng, Qingxu
+AU  - Han, Meiling
+AU  - Lin, Yuhan
+DO  - 10.1016/j.sysarc.2023.102959
+IS  - C
+KW  - Time-sensitive networking, Industrial network, Cyclic queuing and forwarding, Fault-tolerant scheduling, Time-triggered streams
+PY  - 2023
+SN  - 1383-7621
+SP  - 11
+ST  - ReT-FTS: Re-transmission-based fault-tolerant scheduling in TSN
+T2  - J. Syst. Archit.
+TI  - ReT-FTS: Re-transmission-based fault-tolerant scheduling in TSN
+UR  - https://doi.org/10.1016/j.sysarc.2023.102959
+VL  - 142
+ID  - 163
+ER  - 
+
+TY  - JOUR
+AU  - Ferraro, Donato
+AU  - Palazzi, Luca
+AU  - Gavioli, Federico
+AU  - Guzzinati, Michele
+AU  - Bernardi, Andrea
+AU  - Rouxel, Benjamin
+AU  - Burgio, Paolo
+AU  - Solieri, Marco
+DO  - 10.1007/s11241-023-09404-2
+IS  - 4
+KW  - Autonomous driving, Virtualization, Time-sensitive networking, Embedded systems
+PY  - 2023
+SN  - 0922-6443
+SP  - 568–608
+ST  - Time-sensitive autonomous architectures
+T2  - Real-Time Syst.
+TI  - Time-sensitive autonomous architectures
+UR  - https://doi.org/10.1007/s11241-023-09404-2
+VL  - 59
+ID  - 132
+ER  - 
+
+TY  - BOOK
+AU  - Finn, N.
+AU  - Thubert, P.
+AU  - Varga, B.
+AU  - Farkas, J.
+PB  - RFC Editor
+PY  - 2019
+ST  - RFC 8655: Deterministic Networking Architecture
+TI  - RFC 8655: Deterministic Networking Architecture
+ID  - 144
+ER  - 
+
+TY  - BOOK
+AU  - Finn, N.
+AU  - Thubert, P.
+AU  - Varga, B.
+AU  - Farkas, J.
+PB  - RFC Editor
+PY  - 2019
+ST  - RFC 8655: Deterministic Networking Architecture
+TI  - RFC 8655: Deterministic Networking Architecture
+ID  - 190
+ER  - 
+
+TY  - JOUR
+AU  - Finzi, A.
+AU  - Mifdaoui, A.
+AU  - Frances, F.
+AU  - Lochin, E.
+DO  - 10.1145/3314206.3314209
+IS  - 1
+PY  - 2019
+SP  - 21–26
+ST  - Performance enhancement of extended AFDX via bandwidth reservation for TSN/BLS shapers
+T2  - SIGBED Rev.
+TI  - Performance enhancement of extended AFDX via bandwidth reservation for TSN/BLS shapers
+UR  - https://doi.org/10.1145/3314206.3314209
+VL  - 16
+ID  - 40
+ER  - 
+
+TY  - JOUR
+AU  - Finzi, A.
+AU  - Mifdaoui, A.
+AU  - Frances, F.
+AU  - Lochin, E.
+DO  - 10.1145/3314206.3314209
+IS  - 1
+PY  - 2019
+SP  - 21–26
+ST  - Performance enhancement of extended AFDX via bandwidth reservation for TSN/BLS shapers
+T2  - SIGBED Rev.
+TI  - Performance enhancement of extended AFDX via bandwidth reservation for TSN/BLS shapers
+UR  - https://doi.org/10.1145/3314206.3314209
+VL  - 16
+ID  - 130
+ER  - 
+
+TY  - JOUR
+AU  - Gärtner, Christoph
+AU  - Rizk, Amr
+AU  - Koldehofe, Boris
+AU  - Guillaume, René
+AU  - Kundel, Ralf
+AU  - Steinmetz, Ralf
+DO  - 10.1016/j.comnet.2023.109606
+IS  - C
+KW  - TSN, Scheduling, Flexibility
+PY  - 2023
+SN  - 1389-1286
+SP  - 13
+ST  - Fast incremental reconfiguration of dynamic time-sensitive networks at runtime
+T2  - Comput. Netw.
+TI  - Fast incremental reconfiguration of dynamic time-sensitive networks at runtime
+UR  - https://doi.org/10.1016/j.comnet.2023.109606
+VL  - 224
+ID  - 79
+ER  - 
+
+TY  - JOUR
+AU  - Gärtner, Christoph
+AU  - Rizk, Amr
+AU  - Koldehofe, Boris
+AU  - Guillaume, René
+AU  - Kundel, Ralf
+AU  - Steinmetz, Ralf
+DO  - 10.1016/j.comnet.2023.109606
+IS  - C
+KW  - TSN, Scheduling, Flexibility
+PY  - 2023
+SN  - 1389-1286
+SP  - 13
+ST  - Fast incremental reconfiguration of dynamic time-sensitive networks at runtime
+T2  - Comput. Netw.
+TI  - Fast incremental reconfiguration of dynamic time-sensitive networks at runtime
+UR  - https://doi.org/10.1016/j.comnet.2023.109606
+VL  - 224
+ID  - 180
+ER  - 
+
+TY  - JOUR
+AU  - Gavriluţ, Voica
+AU  - Pop, Paul
+DO  - 10.1145/3371708
+IS  - 2
+KW  - traffic types, metaheuristic optimization, deterministic Ethernet, IEEE 802.1 Time Sensitive Networking, Cyber-physical systems
+PY  - 2020
+SN  - 2378-962X
+SP  - Article 23
+ST  - Traffic-type Assignment for TSN-based Mixed-criticality Cyber-physical Systems
+T2  - ACM Trans. Cyber-Phys. Syst.
+TI  - Traffic-type Assignment for TSN-based Mixed-criticality Cyber-physical Systems
+UR  - https://doi.org/10.1145/3371708
+VL  - 4
+ID  - 26
+ER  - 
+
+TY  - JOUR
+AU  - Gavriluţ, Voica
+AU  - Pop, Paul
+DO  - 10.1145/3371708
+IS  - 2
+KW  - Cyber-physical systems, IEEE 802.1 Time Sensitive Networking, deterministic Ethernet, metaheuristic optimization, traffic types
+PY  - 2020
+SN  - 2378-962X
+SP  - Article 23
+ST  - Traffic-type Assignment for TSN-based Mixed-criticality Cyber-physical Systems
+T2  - ACM Trans. Cyber-Phys. Syst.
+TI  - Traffic-type Assignment for TSN-based Mixed-criticality Cyber-physical Systems
+UR  - https://doi.org/10.1145/3371708
+VL  - 4
+ID  - 70
+ER  - 
+
+TY  - CPAPER
+AU  - Gavrilut, Voica
+AU  - Zarrin, Bahram
+AU  - Pop, Paul
+AU  - Samii, Soheil
+CY  - Grenoble, France
+DO  - 10.1145/3139258.3139284
+KW  - TSN, fault-tolerant architectures, safety-critical systems
+PB  - Association for Computing Machinery
+PY  - 2017
+SP  - 267–276
+T2  - Proceedings of the 25th International Conference on Real-Time Networks and Systems
+TI  - Fault-tolerant topology and routing synthesis for IEEE time-sensitive networking
+UR  - https://doi.org/10.1145/3139258.3139284
+ID  - 93
+ER  - 
+
+TY  - CPAPER
+AU  - Gavrilut, Voica
+AU  - Zarrin, Bahram
+AU  - Pop, Paul
+AU  - Samii, Soheil
+CY  - Grenoble, France
+DO  - 10.1145/3139258.3139284
+KW  - TSN, fault-tolerant architectures, safety-critical systems
+PB  - Association for Computing Machinery
+PY  - 2017
+SP  - 267–276
+T2  - Proceedings of the 25th International Conference on Real-Time Networks and Systems
+TI  - Fault-tolerant topology and routing synthesis for IEEE time-sensitive networking
+UR  - https://doi.org/10.1145/3139258.3139284
+ID  - 182
+ER  - 
+
+TY  - JOUR
+AU  - Gong, Kai
+AU  - Yang, Dong
+AU  - Zhang, Weiting
+AU  - Ren, Jie
+DO  - 10.1016/j.comnet.2022.109516
+IS  - C
+KW  - Time-sensitive networking, Chain flow, Scheduling algorithm
+PY  - 2023
+SN  - 1389-1286
+SP  - 10
+ST  - An efficient scheduling approach for multi-level industrial chain flows in time-sensitive networking
+T2  - Comput. Netw.
+TI  - An efficient scheduling approach for multi-level industrial chain flows in time-sensitive networking
+UR  - https://doi.org/10.1016/j.comnet.2022.109516
+VL  - 221
+ID  - 117
+ER  - 
+
+TY  - BOOK
+AU  - Grossman, E.
+PB  - RFC Editor
+PY  - 2019
+ST  - RFC 8578: Deterministic Networking Use Cases
+TI  - RFC 8578: Deterministic Networking Use Cases
+ID  - 175
+ER  - 
+
+TY  - JOUR
+AU  - Gupta, Abhishek
+AU  - Anpalagan, Alagan
+AU  - Carvalho, Glaucio H.S.
+AU  - Khwaja, Ahmed S.
+AU  - Guan, Ling
+AU  - Woungang, Isaac
+DO  - 10.1016/j.jnca.2019.01.012
+IS  - C
+PY  - 2019
+SN  - 1084-8045
+SP  - 118–148
+ST  - RETRACTED: Prevailing and emerging cyber threats and security practices in IoT-Enabled smart grids: A survey
+T2  - J. Netw. Comput. Appl.
+TI  - RETRACTED: Prevailing and emerging cyber threats and security practices in IoT-Enabled smart grids: A survey
+UR  - https://doi.org/10.1016/j.jnca.2019.01.012
+VL  - 132
+ID  - 129
+ER  - 
+
+TY  - CPAPER
+AU  - Hamann, Arne
+AU  - Saidi, Selma
+AU  - Ginthoer, David
+AU  - Wietfeld, Christian
+AU  - Ziegenbein, Dirk
+CY  - Virtual Event, USA
+PB  - IEEE Press
+PY  - 2020
+SP  - Article 112
+T2  - Proceedings of the 57th ACM/EDAC/IEEE Design Automation Conference
+TI  - Building end-to-end IoT applications with QoS guarantees
+ID  - 135
+ER  - 
+
+TY  - JOUR
+AU  - Heilmann, Florian
+AU  - Fohler, Gerhard
+DO  - 10.1145/3314206.3314207
+IS  - 1
+KW  - time-sensitive networking, time-aware shaper, priority-queuing, guard-bands, bandwidth utilization
+PY  - 2019
+SP  - 9–14
+ST  - Size-based queuing: an approach to improve bandwidth utilization in TSN networks
+T2  - SIGBED Rev.
+TI  - Size-based queuing: an approach to improve bandwidth utilization in TSN networks
+UR  - https://doi.org/10.1145/3314206.3314207
+VL  - 16
+ID  - 47
+ER  - 
+
+TY  - JOUR
+AU  - Heilmann, Florian
+AU  - Fohler, Gerhard
+DO  - 10.1145/3314206.3314207
+IS  - 1
+KW  - bandwidth utilization, guard-bands, priority-queuing, time-aware shaper, time-sensitive networking
+PY  - 2019
+SP  - 9–14
+ST  - Size-based queuing: an approach to improve bandwidth utilization in TSN networks
+T2  - SIGBED Rev.
+TI  - Size-based queuing: an approach to improve bandwidth utilization in TSN networks
+UR  - https://doi.org/10.1145/3314206.3314207
+VL  - 16
+ID  - 101
+ER  - 
+
+TY  - JOUR
+AU  - Heilmann, Florian
+AU  - Fohler, Gerhard
+DO  - 10.1145/3314206.3314207
+IS  - 1
+KW  - bandwidth utilization, guard-bands, priority-queuing, time-aware shaper, time-sensitive networking
+PY  - 2019
+SP  - 9–14
+ST  - Size-based queuing: an approach to improve bandwidth utilization in TSN networks
+T2  - SIGBED Rev.
+TI  - Size-based queuing: an approach to improve bandwidth utilization in TSN networks
+UR  - https://doi.org/10.1145/3314206.3314207
+VL  - 16
+ID  - 168
+ER  - 
+
+TY  - CPAPER
+AU  - Herber, Christian
+AU  - Richter, Andre
+AU  - Wild, Thomas
+AU  - Herkersdorf, Andreas
+CY  - Grenoble, France
+KW  - gateway, controller area network, automotive electronics, audio/video bridging
+PB  - EDA Consortium
+PY  - 2015
+SP  - 61–66
+T2  - Proceedings of the 2015 Design, Automation &amp; Test in Europe Conference &amp; Exhibition
+TI  - Real-time capable CAN to AVB ethernet gateway using frame aggregation and scheduling
+ID  - 29
+ER  - 
+
+TY  - CPAPER
+AU  - Herber, Christian
+AU  - Richter, Andre
+AU  - Wild, Thomas
+AU  - Herkersdorf, Andreas
+CY  - Grenoble, France
+KW  - audio/video bridging, automotive electronics, controller area network, gateway
+PB  - EDA Consortium
+PY  - 2015
+SP  - 61–66
+T2  - Proceedings of the 2015 Design, Automation &amp; Test in Europe Conference &amp; Exhibition
+TI  - Real-time capable CAN to AVB ethernet gateway using frame aggregation and scheduling
+ID  - 69
+ER  - 
+
+TY  - CPAPER
+AU  - Herber, Christian
+AU  - Richter, Andre
+AU  - Wild, Thomas
+AU  - Herkersdorf, Andreas
+CY  - Grenoble, France
+KW  - audio/video bridging, automotive electronics, controller area network, gateway
+PB  - EDA Consortium
+PY  - 2015
+SP  - 61–66
+T2  - Proceedings of the 2015 Design, Automation &amp; Test in Europe Conference &amp; Exhibition
+TI  - Real-time capable CAN to AVB ethernet gateway using frame aggregation and scheduling
+ID  - 155
+ER  - 
+
+TY  - CPAPER
+AU  - Hofstätter, Sebastian
+AU  - Lin, Sheng-Chieh
+AU  - Yang, Jheng-Hong
+AU  - Lin, Jimmy
+AU  - Hanbury, Allan
+CY  - <conf-loc>, <city>Virtual Event</city>, <country>Canada</country>, </conf-loc>
+DO  - 10.1145/3404835.3462891
+KW  - batch sampling, dense retrieval, knowledge distillation
+PB  - Association for Computing Machinery
+PY  - 2021
+SP  - 113–122
+T2  - Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
+TI  - Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling
+UR  - https://doi.org/10.1145/3404835.3462891
+ID  - 134
+ER  - 
+
+TY  - CPAPER
+AU  - Houtan, Bahar
+AU  - Ashjaei, Mohammad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Afshar, Sara
+AU  - Mubeen, Saad
+CY  - Vasteras, Sweden
+DO  - 10.1109/etfa45728.2021.9613511
+PB  - IEEE Press
+PY  - 2021
+SP  - 1–8
+T2  - 2021 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA )
+TI  - Schedulability Analysis of Best-Effort Traffic in TSN Networks
+UR  - https://doi.org/10.1109/ETFA45728.2021.9613511
+ID  - 8
+ER  - 
+
+TY  - CPAPER
+AU  - Houtan, Bahar
+AU  - Ashjaei, Mohammad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Afshar, Sara
+AU  - Mubeen, Saad
+CY  - Vasteras, Sweden
+DO  - 10.1109/etfa45728.2021.9613511
+PB  - IEEE Press
+PY  - 2021
+SP  - 1–8
+T2  - 2021 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA )
+TI  - Schedulability Analysis of Best-Effort Traffic in TSN Networks
+UR  - https://doi.org/10.1109/ETFA45728.2021.9613511
+ID  - 53
+ER  - 
+
+TY  - CPAPER
+AU  - Houtan, Bahar
+AU  - Ashjaei, Mohammad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+CY  - NANTES, France
+DO  - 10.1145/3453417.3453423
+KW  - scheduled traffic., schedule optimization, Time sensitive networking, TSN
+PB  - Association for Computing Machinery
+PY  - 2021
+SP  - 68–77
+T2  - Proceedings of the 29th International Conference on Real-Time Networks and Systems
+TI  - Synthesising Schedules to Improve QoS of Best-effort Traffic in TSN Networks
+UR  - https://doi.org/10.1145/3453417.3453423
+ID  - 25
+ER  - 
+
+TY  - CPAPER
+AU  - Houtan, Bahar
+AU  - Ashjaei, Mohammad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+CY  - NANTES, France
+DO  - 10.1145/3453417.3453423
+KW  - TSN, Time sensitive networking, schedule optimization, scheduled traffic.
+PB  - Association for Computing Machinery
+PY  - 2021
+SP  - 68–77
+T2  - Proceedings of the 29th International Conference on Real-Time Networks and Systems
+TI  - Synthesising Schedules to Improve QoS of Best-effort Traffic in TSN Networks
+UR  - https://doi.org/10.1145/3453417.3453423
+ID  - 77
+ER  - 
+
+TY  - CPAPER
+AU  - Houtan, Bahar
+AU  - Ashjaei, Mohammad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+CY  - NANTES, France
+DO  - 10.1145/3453417.3453423
+KW  - TSN, Time sensitive networking, schedule optimization, scheduled traffic.
+PB  - Association for Computing Machinery
+PY  - 2021
+SP  - 68–77
+T2  - Proceedings of the 29th International Conference on Real-Time Networks and Systems
+TI  - Synthesising Schedules to Improve QoS of Best-effort Traffic in TSN Networks
+UR  - https://doi.org/10.1145/3453417.3453423
+ID  - 172
+ER  - 
+
+TY  - JOUR
+AU  - Houtan, Bahar
+AU  - Ashjaei, Mohammad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2023.102911
+IS  - C
+KW  - Time-sensitive networking, Real-time systems, Distributed embedded systems
+PY  - 2023
+SN  - 1383-7621
+SP  - 21
+ST  - Supporting end-to-end data propagation delay analysis for TSN-based distributed vehicular embedded systems
+T2  - J. Syst. Archit.
+TI  - Supporting end-to-end data propagation delay analysis for TSN-based distributed vehicular embedded systems
+UR  - https://doi.org/10.1016/j.sysarc.2023.102911
+VL  - 141
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AU  - Houtan, Bahar
+AU  - Ashjaei, Mohammad
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2023.102911
+IS  - C
+KW  - Distributed embedded systems, Real-time systems, Time-sensitive networking
+PY  - 2023
+SN  - 1383-7621
+SP  - 21
+ST  - Supporting end-to-end data propagation delay analysis for TSN-based distributed vehicular embedded systems
+T2  - J. Syst. Archit.
+TI  - Supporting end-to-end data propagation delay analysis for TSN-based distributed vehicular embedded systems
+UR  - https://doi.org/10.1016/j.sysarc.2023.102911
+VL  - 141
+ID  - 59
+ER  - 
+
+TY  - CPAPER
+AU  - Kapinski, Ryan
+AU  - Pantelic, Vera
+AU  - Bandur, Victor
+AU  - Wassyng, Alan
+AU  - Lawford, Mark
+CY  - Toulouse, France
+DO  - 10.1007/978-3-031-40953-0_3
+KW  - Timing properties, Time-Sensitive Networking (TSN), Automotive Ethernet, Assurance case
+PB  - Springer-Verlag
+PY  - 2023
+SP  - 26–31
+T2  - Computer Safety, Reliability, and Security. SAFECOMP 2023 Workshops: ASSURE, DECSoS, SASSUR, SENSEI, SRToITS, and WAISE, Toulouse, France, September 19, 2023, Proceedings
+TI  - Assurance Cases for Timing Properties of Automotive TSN Networks
+UR  - https://doi.org/10.1007/978-3-031-40953-0_3
+ID  - 35
+ER  - 
+
+TY  - CPAPER
+AU  - Kapinski, Ryan
+AU  - Pantelic, Vera
+AU  - Bandur, Victor
+AU  - Wassyng, Alan
+AU  - Lawford, Mark
+CY  - Toulouse, France
+DO  - 10.1007/978-3-031-40953-0_3
+KW  - Assurance case, Automotive Ethernet, Time-Sensitive Networking (TSN), Timing properties
+PB  - Springer-Verlag
+PY  - 2023
+SP  - 26–31
+T2  - Computer Safety, Reliability, and Security. SAFECOMP 2023 Workshops: ASSURE, DECSoS, SASSUR, SENSEI, SRToITS, and WAISE, Toulouse, France, September 19, 2023, Proceedings
+TI  - Assurance Cases for Timing Properties of Automotive TSN Networks
+UR  - https://doi.org/10.1007/978-3-031-40953-0_3
+ID  - 127
+ER  - 
+
+TY  - CPAPER
+AU  - Kapinski, Ryan
+AU  - Pantelic, Vera
+AU  - Bandur, Victor
+AU  - Wassyng, Alan
+AU  - Lawford, Mark
+CY  - Toulouse, France
+DO  - 10.1007/978-3-031-40953-0_3
+KW  - Assurance case, Automotive Ethernet, Time-Sensitive Networking (TSN), Timing properties
+PB  - Springer-Verlag
+PY  - 2023
+SP  - 26–31
+T2  - Computer Safety, Reliability, and Security. SAFECOMP 2023 Workshops: ASSURE, DECSoS, SASSUR, SENSEI, SRToITS, and WAISE, Toulouse, France, September 19, 2023, Proceedings
+TI  - Assurance Cases for Timing Properties of Automotive TSN Networks
+UR  - https://doi.org/10.1007/978-3-031-40953-0_3
+ID  - 193
+ER  - 
+
+TY  - CPAPER
+AU  - Keller, Patrick
+AU  - Navet, Nicolas
+CY  - Paris, France
+DO  - 10.1145/3534879.3534886
+KW  - Worst-Case Traversal Times, Worst-Case Response Times, Time-Sensitive Networking, Simulation Initial Conditions., Schedulability Analysis Pessimism, Network Simulation, Ethernet
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 196–206
+T2  - Proceedings of the 30th International Conference on Real-Time Networks and Systems
+TI  - Approximating WCRT through the aggregation of short simulations with different initial conditions: application to TSN
+UR  - https://doi.org/10.1145/3534879.3534886
+ID  - 15
+ER  - 
+
+TY  - CPAPER
+AU  - Kong, Weijiang
+AU  - Nabi, Majid
+AU  - Goossens, Kees
+CY  - Stuttgart, Germany
+DO  - 10.1109/etfa52439.2022.9921456
+PB  - IEEE Press
+PY  - 2022
+SP  - 1–8
+T2  - 2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA)
+TI  - SynAVB: Route and Slope Synthesis Ensuring Guaranteed Service in Ethernet AVB
+UR  - https://doi.org/10.1109/ETFA52439.2022.9921456
+ID  - 22
+ER  - 
+
+TY  - CPAPER
+AU  - Kong, Weijiang
+AU  - Nabi, Majid
+AU  - Goossens, Kees
+CY  - Stuttgart, Germany
+DO  - 10.1109/etfa52439.2022.9921456
+PB  - IEEE Press
+PY  - 2022
+SP  - 1–8
+T2  - 2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA)
+TI  - SynAVB: Route and Slope Synthesis Ensuring Guaranteed Service in Ethernet AVB
+UR  - https://doi.org/10.1109/ETFA52439.2022.9921456
+ID  - 67
+ER  - 
+
+TY  - JOUR
+AU  - Kostenko, V. A.
+AU  - Morkvin, A. A.
+DO  - 10.1134/s0361768822060056
+IS  - 6
+PY  - 2022
+SN  - 0361-7688
+SP  - 399–406
+ST  - Construction of a Minimum Complexity Onboard Switched Network with Time Synchronization
+T2  - Program. Comput. Softw.
+TI  - Construction of a Minimum Complexity Onboard Switched Network with Time Synchronization
+UR  - https://doi.org/10.1134/S0361768822060056
+VL  - 48
+ID  - 138
+ER  - 
+
+TY  - CPAPER
+AU  - Kyriakakis, Eleftherios
+AU  - Sparsø, Jens
+AU  - Schoeberl, Martin
+CY  - Chasseneuil-du-Poitou, France
+DO  - 10.1145/3273905.3273920
+KW  - Clock synchronization, FPGA implementation, Hardware assist, IEEE 1588-2008, Precise Time Protocol, WCET analysis
+PB  - Association for Computing Machinery
+PY  - 2018
+SP  - 51–60
+T2  - Proceedings of the 26th International Conference on Real-Time Networks and Systems
+TI  - Hardware Assisted Clock Synchronization with the IEEE 1588-2008 Precision Time Protocol
+UR  - https://doi.org/10.1145/3273905.3273920
+ID  - 120
+ER  - 
+
+TY  - JOUR
+AU  - Laursen, Sune Mølgaard
+AU  - Pop, Paul
+AU  - Steiner, Wilfried
+DO  - 10.1145/3015037.3015044
+IS  - 4
+PY  - 2016
+SP  - 43–48
+ST  - Routing optimization of AVB streams in TSN networks
+T2  - SIGBED Rev.
+TI  - Routing optimization of AVB streams in TSN networks
+UR  - https://doi.org/10.1145/3015037.3015044
+VL  - 13
+ID  - 17
+ER  - 
+
+TY  - JOUR
+AU  - Laursen, Sune Mølgaard
+AU  - Pop, Paul
+AU  - Steiner, Wilfried
+DO  - 10.1145/3015037.3015044
+IS  - 4
+PY  - 2016
+SP  - 43–48
+ST  - Routing optimization of AVB streams in TSN networks
+T2  - SIGBED Rev.
+TI  - Routing optimization of AVB streams in TSN networks
+UR  - https://doi.org/10.1145/3015037.3015044
+VL  - 13
+ID  - 65
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Youngmoon
+AU  - Shin, Kang G.
+AU  - Chwa, Hoon Sung
+DO  - 10.1145/3358235
+IS  - 5s
+KW  - GPU, Thermal management, embedded systems, real-time systems
+PY  - 2019
+SN  - 1539-9087
+SP  - Article 90
+ST  - Thermal-Aware Scheduling for Integrated CPUs--GPU Platforms
+T2  - ACM Trans. Embed. Comput. Syst.
+TI  - Thermal-Aware Scheduling for Integrated CPUs--GPU Platforms
+UR  - https://doi.org/10.1145/3358235
+VL  - 18
+ID  - 122
+ER  - 
+
+TY  - JOUR
+AU  - Li, Guoqiang
+AU  - Liu, Li
+AU  - Fukuda, Akira
+DO  - 10.1007/s11219-017-9380-8
+IS  - 3
+KW  - Asynchronous multi-process timed automata, Coverability, Read-arc timed Petri nets, Timed automata
+PY  - 2018
+SN  - 0963-9314
+SP  - 961–989
+ST  - Asynchronous multi-process timed automata
+T2  - Software Quality Journal
+TI  - Asynchronous multi-process timed automata
+UR  - https://doi.org/10.1007/s11219-017-9380-8
+VL  - 26
+ID  - 116
+ER  - 
+
+TY  - JOUR
+AU  - Li, Shuhao
+AU  - Balaguer, Sandie
+AU  - David, Alexandre
+AU  - Larsen, Kim G.
+AU  - Nielsen, Brian
+AU  - Pusinskas, Saulius
+DO  - 10.1007/s10703-010-0103-z
+IS  - 2–3
+KW  - Live sequence chart, Modeling, Real-time system, Scenario, Timed automata, Verification
+PY  - 2010
+SN  - 0925-9856
+SP  - 200–264
+ST  - Scenario-based verification of real-time systems using Uppaal
+T2  - Form. Methods Syst. Des.
+TI  - Scenario-based verification of real-time systems using Uppaal
+UR  - https://doi.org/10.1007/s10703-010-0103-z
+VL  - 37
+ID  - 142
+ER  - 
+
+TY  - JOUR
+AU  - Li, Xiaoting
+AU  - George, Laurent
+DO  - 10.1007/s11241-016-9260-5
+IS  - 1
+KW  - Trajectory Approach, Real-time, Deterministic delay analysis, Automotive, AVB switched Ethernet
+PY  - 2017
+SN  - 0922-6443
+SP  - 121–186
+ST  - Deterministic delay analysis of AVB switched Ethernet networks using an extended Trajectory Approach
+T2  - Real-Time Syst.
+TI  - Deterministic delay analysis of AVB switched Ethernet networks using an extended Trajectory Approach
+UR  - https://doi.org/10.1007/s11241-016-9260-5
+VL  - 53
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AU  - Li, Xiaoting
+AU  - George, Laurent
+DO  - 10.1007/s11241-016-9260-5
+IS  - 1
+KW  - AVB switched Ethernet, Automotive, Deterministic delay analysis, Real-time, Trajectory Approach
+PY  - 2017
+SN  - 0922-6443
+SP  - 121–186
+ST  - Deterministic delay analysis of AVB switched Ethernet networks using an extended Trajectory Approach
+T2  - Real-Time Syst.
+TI  - Deterministic delay analysis of AVB switched Ethernet networks using an extended Trajectory Approach
+UR  - https://doi.org/10.1007/s11241-016-9260-5
+VL  - 53
+ID  - 50
+ER  - 
+
+TY  - JOUR
+AU  - Li, Xiaoting
+AU  - George, Laurent
+DO  - 10.1007/s11241-016-9260-5
+IS  - 1
+KW  - AVB switched Ethernet, Automotive, Deterministic delay analysis, Real-time, Trajectory Approach
+PY  - 2017
+SN  - 0922-6443
+SP  - 121–186
+ST  - Deterministic delay analysis of AVB switched Ethernet networks using an extended Trajectory Approach
+T2  - Real-Time Syst.
+TI  - Deterministic delay analysis of AVB switched Ethernet networks using an extended Trajectory Approach
+UR  - https://doi.org/10.1007/s11241-016-9260-5
+VL  - 53
+ID  - 151
+ER  - 
+
+TY  - JOUR
+AU  - Lin, Yuhan
+AU  - Jin, Xi
+AU  - Zhang, Tianyu
+AU  - Han, Meiling
+AU  - Guan, Nan
+AU  - Deng, Qingxu
+DO  - 10.1016/j.sysarc.2021.102141
+IS  - C
+KW  - Resource management, Industrial internet of things, Real-time scheduling, Time-sensitive networks
+PY  - 2021
+SN  - 1383-7621
+SP  - 11
+ST  - Queue assignment for fixed-priority real-time flows in time-sensitive networks: Hardness and algorithm
+T2  - J. Syst. Archit.
+TI  - Queue assignment for fixed-priority real-time flows in time-sensitive networks: Hardness and algorithm
+UR  - https://doi.org/10.1016/j.sysarc.2021.102141
+VL  - 116
+ID  - 80
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Chang
+AU  - Hong, Yue
+AU  - Wang, Jin
+AU  - Sr., Chang Liu
+AU  - Tian, Li
+AU  - Xu, Jiangpei
+AU  - Petros, Bithas
+DO  - 10.1155/2024/8882006
+PY  - 2024
+SN  - 1530-8669
+SP  - 9
+ST  - Hierarchical Cross Traffic Scheduling Based on Time-Aware Shapers for Mobile Time-Sensitive Fronthaul Network
+T2  - Wirel. Commun. Mob. Comput.
+TI  - Hierarchical Cross Traffic Scheduling Based on Time-Aware Shapers for Mobile Time-Sensitive Fronthaul Network
+UR  - https://doi.org/10.1155/2024/8882006
+VL  - 2024
+ID  - 88
+ER  - 
+
+TY  - JOUR
+AU  - Luo, Feng
+AU  - Wang, Zitong
+AU  - Zhang, Baoyin
+DO  - 10.1016/j.comnet.2023.109936
+IS  - C
+KW  - Time-Sensitive Networking (TSN), Time-Delay Attacks (TDAs), Anomaly detection
+PY  - 2023
+SN  - 1389-1286
+SP  - 14
+ST  - Impact analysis and detection of time-delay attacks in time-sensitive networking
+T2  - Comput. Netw.
+TI  - Impact analysis and detection of time-delay attacks in time-sensitive networking
+UR  - https://doi.org/10.1016/j.comnet.2023.109936
+VL  - 234
+ID  - 91
+ER  - 
+
+TY  - JOUR
+AU  - Luo, Feng
+AU  - Wang, Zitong
+AU  - Zhang, Baoyin
+DO  - 10.1016/j.comnet.2023.109936
+IS  - C
+KW  - Time-Sensitive Networking (TSN), Time-Delay Attacks (TDAs), Anomaly detection
+PY  - 2023
+SN  - 1389-1286
+SP  - 14
+ST  - Impact analysis and detection of time-delay attacks in time-sensitive networking
+T2  - Comput. Netw.
+TI  - Impact analysis and detection of time-delay attacks in time-sensitive networking
+UR  - https://doi.org/10.1016/j.comnet.2023.109936
+VL  - 234
+ID  - 192
+ER  - 
+
+TY  - JOUR
+AU  - Mahfouzi, Rouhollah
+AU  - Aminifar, Amir
+AU  - Samii, Soheil
+AU  - Eles, Petru
+AU  - Peng, Zebo
+DO  - 10.1145/3358604
+IS  - 1
+KW  - real-time control systems, joint routing and scheduling, ethernet TSN, Resilience optimization
+PY  - 2019
+SN  - 1084-4309
+SP  - Article 1
+ST  - Security-aware Routing and Scheduling for Control Applications on Ethernet&nbsp;TSN Networks
+T2  - ACM Trans. Des. Autom. Electron. Syst.
+TI  - Security-aware Routing and Scheduling for Control Applications on Ethernet&nbsp;TSN Networks
+UR  - https://doi.org/10.1145/3358604
+VL  - 25
+ID  - 30
+ER  - 
+
+TY  - JOUR
+AU  - Mahfouzi, Rouhollah
+AU  - Aminifar, Amir
+AU  - Samii, Soheil
+AU  - Eles, Petru
+AU  - Peng, Zebo
+DO  - 10.1145/3358604
+IS  - 1
+KW  - Resilience optimization, ethernet TSN, joint routing and scheduling, real-time control systems
+PY  - 2019
+SN  - 1084-4309
+SP  - Article 1
+ST  - Security-aware Routing and Scheduling for Control Applications on Ethernet&nbsp;TSN Networks
+T2  - ACM Trans. Des. Autom. Electron. Syst.
+TI  - Security-aware Routing and Scheduling for Control Applications on Ethernet&nbsp;TSN Networks
+UR  - https://doi.org/10.1145/3358604
+VL  - 25
+ID  - 185
+ER  - 
+
+TY  - CPAPER
+AU  - Mai, Tieu Long
+AU  - Navet, Nicolas
+AU  - Migge, Jörn
+CY  - Toulouse, France
+DO  - 10.1145/3356401.3356409
+KW  - timing verification, time sensitive networking (TSN), schedulability analysis, machine learning
+PB  - Association for Computing Machinery
+PY  - 2019
+SP  - 143–153
+T2  - Proceedings of the 27th International Conference on Real-Time Networks and Systems
+TI  - On the use of supervised machine learning for assessing schedulability: application to ethernet TSN
+UR  - https://doi.org/10.1145/3356401.3356409
+ID  - 18
+ER  - 
+
+TY  - CPAPER
+AU  - Mai, Tieu Long
+AU  - Navet, Nicolas
+AU  - Migge, Jörn
+CY  - Toulouse, France
+DO  - 10.1145/3356401.3356409
+KW  - machine learning, schedulability analysis, time sensitive networking (TSN), timing verification
+PB  - Association for Computing Machinery
+PY  - 2019
+SP  - 143–153
+T2  - Proceedings of the 27th International Conference on Real-Time Networks and Systems
+TI  - On the use of supervised machine learning for assessing schedulability: application to ethernet TSN
+UR  - https://doi.org/10.1145/3356401.3356409
+ID  - 74
+ER  - 
+
+TY  - CPAPER
+AU  - Mai, Tieu Long
+AU  - Navet, Nicolas
+AU  - Migge, Jörn
+CY  - Toulouse, France
+DO  - 10.1145/3356401.3356409
+KW  - machine learning, schedulability analysis, time sensitive networking (TSN), timing verification
+PB  - Association for Computing Machinery
+PY  - 2019
+SP  - 143–153
+T2  - Proceedings of the 27th International Conference on Real-Time Networks and Systems
+TI  - On the use of supervised machine learning for assessing schedulability: application to ethernet TSN
+UR  - https://doi.org/10.1145/3356401.3356409
+ID  - 164
+ER  - 
+
+TY  - CPAPER
+AU  - Maile, Lisa
+AU  - Voitlein, Dominik
+AU  - Grigorjew, Alexej
+AU  - Hielscher, Kai-Steffen J.
+AU  - German, Reinhard
+CY  - Dortmund, Germany
+DO  - 10.1145/3575757.3593644
+KW  - Time-Sensitive Networking, Resource Allocation, Reservation Protocol, Network Calculus, Latency, Decentralized Network
+PB  - Association for Computing Machinery
+PY  - 2023
+SP  - 108–118
+T2  - Proceedings of the 31st International Conference on Real-Time Networks and Systems
+TI  - On the Validity of Credit-Based Shaper Delay Guarantees in Decentralized Reservation Protocols
+UR  - https://doi.org/10.1145/3575757.3593644
+ID  - 4
+ER  - 
+
+TY  - CPAPER
+AU  - Maile, Lisa
+AU  - Voitlein, Dominik
+AU  - Grigorjew, Alexej
+AU  - Hielscher, Kai-Steffen J.
+AU  - German, Reinhard
+CY  - Dortmund, Germany
+DO  - 10.1145/3575757.3593644
+KW  - Decentralized Network, Latency, Network Calculus, Reservation Protocol, Resource Allocation, Time-Sensitive Networking
+PB  - Association for Computing Machinery
+PY  - 2023
+SP  - 108–118
+T2  - Proceedings of the 31st International Conference on Real-Time Networks and Systems
+TI  - On the Validity of Credit-Based Shaper Delay Guarantees in Decentralized Reservation Protocols
+UR  - https://doi.org/10.1145/3575757.3593644
+ID  - 83
+ER  - 
+
+TY  - JOUR
+AU  - Mao, Ming
+AU  - Yi, Peng
+AU  - Hou, Lilong
+AU  - Zhao, Wei
+DO  - 10.1007/s10586-023-04007-9
+IS  - 2
+KW  - Software-defined internet of vehicles (SD-IoV), RSU plane, Control plane architecture, Controller placement
+PY  - 2023
+SN  - 1386-7857
+SP  - 1235–1249
+ST  - A controller-based roadside unit plane architecture for software-defined internet of vehicles
+T2  - Cluster Computing
+TI  - A controller-based roadside unit plane architecture for software-defined internet of vehicles
+UR  - https://doi.org/10.1007/s10586-023-04007-9
+VL  - 27
+ID  - 106
+ER  - 
+
+TY  - JOUR
+AU  - Máté, Miklós
+AU  - Simon, Csaba
+AU  - Maliosz, Markosz
+DO  - 10.1007/s10922-022-09688-y
+IS  - 4
+KW  - Adaptive, Prediction, Self-configuration, Priority queueing, Traffic shaper
+PY  - 2022
+SN  - 1064-7570
+SP  - 28
+ST  - Asynchronous Time-Aware Shaper for Time-Sensitive Networking
+T2  - J. Netw. Syst. Manage.
+TI  - Asynchronous Time-Aware Shaper for Time-Sensitive Networking
+UR  - https://doi.org/10.1007/s10922-022-09688-y
+VL  - 30
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AU  - Máté, Miklós
+AU  - Simon, Csaba
+AU  - Maliosz, Markosz
+DO  - 10.1007/s10922-022-09688-y
+IS  - 4
+KW  - Traffic shaper, Priority queueing, Self-configuration, Prediction, Adaptive
+PY  - 2022
+SN  - 1064-7570
+SP  - 28
+ST  - Asynchronous Time-Aware Shaper for Time-Sensitive Networking
+T2  - J. Netw. Syst. Manage.
+TI  - Asynchronous Time-Aware Shaper for Time-Sensitive Networking
+UR  - https://doi.org/10.1007/s10922-022-09688-y
+VL  - 30
+ID  - 103
+ER  - 
+
+TY  - CPAPER
+AU  - Maxim, Dorin
+AU  - Song, Ye-Qiong
+CY  - Grenoble, France
+DO  - 10.1145/3139258.3139283
+KW  - time sensitive network (TSN), real-time, ethernet, delay analysis, automotive, audio-video bridging (AVB)
+PB  - Association for Computing Machinery
+PY  - 2017
+SP  - 18–27
+T2  - Proceedings of the 25th International Conference on Real-Time Networks and Systems
+TI  - Delay analysis of AVB traffic in time-sensitive networks (TSN)
+UR  - https://doi.org/10.1145/3139258.3139283
+ID  - 6
+ER  - 
+
+TY  - CPAPER
+AU  - Maxim, Dorin
+AU  - Song, Ye-Qiong
+CY  - Grenoble, France
+DO  - 10.1145/3139258.3139283
+KW  - audio-video bridging (AVB), automotive, delay analysis, ethernet, real-time, time sensitive network (TSN)
+PB  - Association for Computing Machinery
+PY  - 2017
+SP  - 18–27
+T2  - Proceedings of the 25th International Conference on Real-Time Networks and Systems
+TI  - Delay analysis of AVB traffic in time-sensitive networks (TSN)
+UR  - https://doi.org/10.1145/3139258.3139283
+ID  - 52
+ER  - 
+
+TY  - CPAPER
+AU  - Maxim, Dorin
+AU  - Song, Ye-Qiong
+CY  - Grenoble, France
+DO  - 10.1145/3139258.3139283
+KW  - audio-video bridging (AVB), automotive, delay analysis, ethernet, real-time, time sensitive network (TSN)
+PB  - Association for Computing Machinery
+PY  - 2017
+SP  - 18–27
+T2  - Proceedings of the 25th International Conference on Real-Time Networks and Systems
+TI  - Delay analysis of AVB traffic in time-sensitive networks (TSN)
+UR  - https://doi.org/10.1145/3139258.3139283
+ID  - 149
+ER  - 
+
+TY  - JOUR
+AU  - Min, Junhong
+AU  - Kim, Yongjun
+AU  - Kim, Moonbeom
+AU  - Paek, Jeongyeup
+AU  - Govindan, Ramesh
+DO  - 10.1016/j.comnet.2023.109983
+IS  - C
+KW  - Network performance evaluation, Network simulation, Scheduling, Routing, Reinforcement learning, Time-Sensitive Network (TSN), Time-Aware Shaper (TAS)
+PY  - 2023
+SN  - 1389-1286
+SP  - 12
+ST  - Reinforcement learning based routing for time-aware shaper scheduling in time-sensitive networks
+T2  - Comput. Netw.
+TI  - Reinforcement learning based routing for time-aware shaper scheduling in time-sensitive networks
+UR  - https://doi.org/10.1016/j.comnet.2023.109983
+VL  - 235
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AU  - Min, Junhong
+AU  - Kim, Yongjun
+AU  - Kim, Moonbeom
+AU  - Paek, Jeongyeup
+AU  - Govindan, Ramesh
+DO  - 10.1016/j.comnet.2023.109983
+IS  - C
+KW  - Time-Aware Shaper (TAS), Time-Sensitive Network (TSN), Reinforcement learning, Routing, Scheduling, Network simulation, Network performance evaluation
+PY  - 2023
+SN  - 1389-1286
+SP  - 12
+ST  - Reinforcement learning based routing for time-aware shaper scheduling in time-sensitive networks
+T2  - Comput. Netw.
+TI  - Reinforcement learning based routing for time-aware shaper scheduling in time-sensitive networks
+UR  - https://doi.org/10.1016/j.comnet.2023.109983
+VL  - 235
+ID  - 90
+ER  - 
+
+TY  - JOUR
+AU  - Min, Junhong
+AU  - Kim, Yongjun
+AU  - Kim, Moonbeom
+AU  - Paek, Jeongyeup
+AU  - Govindan, Ramesh
+DO  - 10.1016/j.comnet.2023.109983
+IS  - C
+KW  - Time-Aware Shaper (TAS), Time-Sensitive Network (TSN), Reinforcement learning, Routing, Scheduling, Network simulation, Network performance evaluation
+PY  - 2023
+SN  - 1389-1286
+SP  - 12
+ST  - Reinforcement learning based routing for time-aware shaper scheduling in time-sensitive networks
+T2  - Comput. Netw.
+TI  - Reinforcement learning based routing for time-aware shaper scheduling in time-sensitive networks
+UR  - https://doi.org/10.1016/j.comnet.2023.109983
+VL  - 235
+ID  - 158
+ER  - 
+
+TY  - JOUR
+AU  - Mohammadpour, Ehsan
+AU  - Boudec, Jean-Yves Le
+DO  - 10.1109/tnet.2021.3129590
+IS  - 3
+PY  - 2021
+SN  - 1063-6692
+SP  - 1045–1057
+ST  - On Packet Reordering in Time-Sensitive Networks
+T2  - IEEE/ACM Trans. Netw.
+TI  - On Packet Reordering in Time-Sensitive Networks
+UR  - https://doi.org/10.1109/TNET.2021.3129590
+VL  - 30
+ID  - 78
+ER  - 
+
+TY  - JOUR
+AU  - Mohammadpour, Ehsan
+AU  - Boudec, Jean-Yves Le
+DO  - 10.1109/tnet.2022.3152178
+IS  - 4
+PY  - 2022
+SN  - 1063-6692
+SP  - 1780–1794
+ST  - Analysis of Dampers in Time-Sensitive Networks With Non-Ideal Clocks
+T2  - IEEE/ACM Trans. Netw.
+TI  - Analysis of Dampers in Time-Sensitive Networks With Non-Ideal Clocks
+UR  - https://doi.org/10.1109/TNET.2022.3152178
+VL  - 30
+ID  - 95
+ER  - 
+
+TY  - JOUR
+AU  - Mohammadpour, Ehsan
+AU  - Stai, Eleni
+AU  - Boudec, Jean-Yves Le
+DO  - 10.1109/tnet.2023.3275910
+IS  - 6
+PY  - 2023
+SN  - 1063-6692
+SP  - 2902–2917
+ST  - Improved Network-Calculus Nodal Delay-Bounds in Time-Sensitive Networks
+T2  - IEEE/ACM Trans. Netw.
+TI  - Improved Network-Calculus Nodal Delay-Bounds in Time-Sensitive Networks
+UR  - https://doi.org/10.1109/TNET.2023.3275910
+VL  - 31
+ID  - 124
+ER  - 
+
+TY  - JOUR
+AU  - Muthukumar, S.
+AU  - Rajesh, D. Hevin
+DO  - 10.1007/s11277-022-09721-y
+IS  - 4
+KW  - Wireless sensor network, Optimal clustering, Cluster formation, Cluster head, Network lifetime, Energy consumption
+PY  - 2022
+SN  - 0929-6212
+SP  - 3479–3500
+ST  - Optimal Cluster Based Routing Technique for Wireless Sensor Networks using Hybrid Optimization Algorithm for Maximizing Life of Sensors
+T2  - Wirel. Pers. Commun.
+TI  - Optimal Cluster Based Routing Technique for Wireless Sensor Networks using Hybrid Optimization Algorithm for Maximizing Life of Sensors
+UR  - https://doi.org/10.1007/s11277-022-09721-y
+VL  - 125
+ID  - 143
+ER  - 
+
+TY  - CPAPER
+AU  - Nsaibi, Seifeddine
+AU  - Leurs, Ludwig
+AU  - Schotten, Hans D.
+CY  - Rome, Italy
+KW  - topologies, time-sensitive networking, real-time communication, industrial-ethernet, gigabit, end-to-end latency, OMNEST network simulation
+PB  - IEEE Press
+PY  - 2017
+SP  - 83–90
+T2  - Proceedings of the 21st International Symposium on Distributed Simulation and Real Time Applications
+TI  - Formal and simulation-based timing analysis of industrial-ethernet sercos III over TSN
+ID  - 12
+ER  - 
+
+TY  - CPAPER
+AU  - Nsaibi, Seifeddine
+AU  - Leurs, Ludwig
+AU  - Schotten, Hans D.
+CY  - Rome, Italy
+KW  - OMNEST network simulation, end-to-end latency, gigabit, industrial-ethernet, real-time communication, time-sensitive networking, topologies
+PB  - IEEE Press
+PY  - 2017
+SP  - 83–90
+T2  - Proceedings of the 21st International Symposium on Distributed Simulation and Real Time Applications
+TI  - Formal and simulation-based timing analysis of industrial-ethernet sercos III over TSN
+ID  - 60
+ER  - 
+
+TY  - JOUR
+AU  - Ojewale, Mubarak Adetunji
+AU  - Yomsi, Patrick Meumeu
+AU  - Nikolić, Borislav
+DO  - 10.1016/j.sysarc.2021.102079
+IS  - C
+KW  - Real-time networks, Time-sensitive networking, Ethernet, Frame preemption
+PY  - 2021
+SN  - 1383-7621
+SP  - 15
+ST  - Worst-case traversal time analysis of TSN with multi-level preemption
+T2  - J. Syst. Archit.
+TI  - Worst-case traversal time analysis of TSN with multi-level preemption
+UR  - https://doi.org/10.1016/j.sysarc.2021.102079
+VL  - 116
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AU  - Ojewale, Mubarak Adetunji
+AU  - Yomsi, Patrick Meumeu
+AU  - Nikolić, Borislav
+DO  - 10.1016/j.sysarc.2021.102079
+IS  - C
+KW  - Frame preemption, Ethernet, Time-sensitive networking, Real-time networks
+PY  - 2021
+SN  - 1383-7621
+SP  - 15
+ST  - Worst-case traversal time analysis of TSN with multi-level preemption
+T2  - J. Syst. Archit.
+TI  - Worst-case traversal time analysis of TSN with multi-level preemption
+UR  - https://doi.org/10.1016/j.sysarc.2021.102079
+VL  - 116
+ID  - 64
+ER  - 
+
+TY  - JOUR
+AU  - Park, Taejune
+AU  - Lee, Kilho
+DO  - 10.1016/j.jnca.2022.103401
+IS  - C
+KW  - Real-time networking, Mixed-criticality systems, Time-sensitive network, Software-defined networking, Ultra-low latency, Cyber–physical systems, NetFPGA
+PY  - 2022
+SN  - 1084-8045
+SP  - 12
+ST  - Supporting ultra-low latency mixed-criticality communication using hardware-based data plane architecture
+T2  - J. Netw. Comput. Appl.
+TI  - Supporting ultra-low latency mixed-criticality communication using hardware-based data plane architecture
+UR  - https://doi.org/10.1016/j.jnca.2022.103401
+VL  - 204
+ID  - 171
+ER  - 
+
+TY  - JOUR
+AU  - Peeck, Jonas
+AU  - Ernst, Rolf
+DO  - 10.1145/3609120
+IS  - 5s
+KW  - TSN, automated driving, verification, Ethernet, real-time, Safety
+PY  - 2023
+SN  - 1539-9087
+SP  - Article 139
+ST  - Improving Worst-case TSN Communication Times of Large Sensor Data Samples by Exploiting Synchronization
+T2  - ACM Trans. Embed. Comput. Syst.
+TI  - Improving Worst-case TSN Communication Times of Large Sensor Data Samples by Exploiting Synchronization
+UR  - https://doi.org/10.1145/3609120
+VL  - 22
+ID  - 23
+ER  - 
+
+TY  - JOUR
+AU  - Peeck, Jonas
+AU  - Ernst, Rolf
+DO  - 10.1145/3609120
+IS  - 5s
+KW  - Safety, real-time, Ethernet, verification, automated driving, TSN
+PY  - 2023
+SN  - 1539-9087
+SP  - Article 139
+ST  - Improving Worst-case TSN Communication Times of Large Sensor Data Samples by Exploiting Synchronization
+T2  - ACM Trans. Embed. Comput. Syst.
+TI  - Improving Worst-case TSN Communication Times of Large Sensor Data Samples by Exploiting Synchronization
+UR  - https://doi.org/10.1145/3609120
+VL  - 22
+ID  - 96
+ER  - 
+
+TY  - JOUR
+AU  - Peeck, Jonas
+AU  - Ernst, Rolf
+DO  - 10.1145/3609120
+IS  - 5s
+KW  - Safety, real-time, Ethernet, verification, automated driving, TSN
+PY  - 2023
+SN  - 1539-9087
+SP  - Article 139
+ST  - Improving Worst-case TSN Communication Times of Large Sensor Data Samples by Exploiting Synchronization
+T2  - ACM Trans. Embed. Comput. Syst.
+TI  - Improving Worst-case TSN Communication Times of Large Sensor Data Samples by Exploiting Synchronization
+UR  - https://doi.org/10.1145/3609120
+VL  - 22
+ID  - 170
+ER  - 
+
+TY  - JOUR
+AU  - Pérez, Héctor
+AU  - Gutiérrez, J. Javier
+DO  - 10.1016/j.sysarc.2022.102742
+IS  - C
+KW  - Distributed systems, EDF, Clock synchronization, Real-time, Schedulability analysis, Scheduling deadline assignment
+PY  - 2022
+SN  - 1383-7621
+SP  - 11
+ST  - EDF scheduling for distributed systems built upon the IEEE 802.1AS clock - A theoretical-practical comparison
+T2  - J. Syst. Archit.
+TI  - EDF scheduling for distributed systems built upon the IEEE 802.1AS clock - A theoretical-practical comparison
+UR  - https://doi.org/10.1016/j.sysarc.2022.102742
+VL  - 132
+ID  - 73
+ER  - 
+
+TY  - JOUR
+AU  - Polachan, Kurian
+AU  - Singh, Chandramani
+AU  - Prabhakar, T. V.
+DO  - 10.1145/3498729
+IS  - 4
+KW  - Time-sensitive networking, Time-Aware Shaper, tactile internet, Tactile Cyber-Physical Systems, network simulator
+PY  - 2022
+SN  - 1533-5399
+SP  - Article 94
+ST  - Decentralized Dynamic Scheduling of TCPS Flows and a Simulator for Time-sensitive Networking
+T2  - ACM Trans. Internet Technol.
+TI  - Decentralized Dynamic Scheduling of TCPS Flows and a Simulator for Time-sensitive Networking
+UR  - https://doi.org/10.1145/3498729
+VL  - 22
+ID  - 97
+ER  - 
+
+TY  - JOUR
+AU  - Polachan, Kurian
+AU  - Singh, Chandramani
+AU  - Prabhakar, T. V.
+DO  - 10.1145/3498729
+IS  - 4
+KW  - Time-sensitive networking, Time-Aware Shaper, tactile internet, Tactile Cyber-Physical Systems, network simulator
+PY  - 2022
+SN  - 1533-5399
+SP  - Article 94
+ST  - Decentralized Dynamic Scheduling of TCPS Flows and a Simulator for Time-sensitive Networking
+T2  - ACM Trans. Internet Technol.
+TI  - Decentralized Dynamic Scheduling of TCPS Flows and a Simulator for Time-sensitive Networking
+UR  - https://doi.org/10.1145/3498729
+VL  - 22
+ID  - 169
+ER  - 
+
+TY  - CPAPER
+AU  - Ren, Yanyan
+AU  - Krishnamurthi, Shriram
+AU  - Fisler, Kathi
+CY  - Toronto ON, Canada
+DO  - 10.1145/3291279.3339418
+KW  - program design method, student self-assessment, teaching assistants
+PB  - Association for Computing Machinery
+PY  - 2019
+SP  - 41–49
+T2  - Proceedings of the 2019 ACM Conference on International Computing Education Research
+TI  - What Help Do Students Seek in TA Office Hours?
+UR  - https://doi.org/10.1145/3291279.3339418
+ID  - 145
+ER  - 
+
+TY  - JOUR
+AU  - Reusch, Niklas
+AU  - Barzegaran, Mohammadreza
+AU  - Zhao, Luxi
+AU  - Craciunas, Silviu S.
+AU  - Pop, Paul
+DO  - 10.1007/s11241-023-09414-0
+IS  - 4
+KW  - Time-Sensitive Networking (TSN), Scheduled traffic, Metaheuristics, Constraint programming
+PY  - 2023
+SN  - 0922-6443
+SP  - 705–747
+ST  - Configuration optimization for heterogeneous time-sensitive networks
+T2  - Real-Time Syst.
+TI  - Configuration optimization for heterogeneous time-sensitive networks
+UR  - https://doi.org/10.1007/s11241-023-09414-0
+VL  - 59
+ID  - 107
+ER  - 
+
+TY  - JOUR
+AU  - Reusch, Niklas
+AU  - Barzegaran, Mohammadreza
+AU  - Zhao, Luxi
+AU  - Craciunas, Silviu S.
+AU  - Pop, Paul
+DO  - 10.1007/s11241-023-09414-0
+IS  - 4
+KW  - Time-Sensitive Networking (TSN), Scheduled traffic, Metaheuristics, Constraint programming
+PY  - 2023
+SN  - 0922-6443
+SP  - 705–747
+ST  - Configuration optimization for heterogeneous time-sensitive networks
+T2  - Real-Time Syst.
+TI  - Configuration optimization for heterogeneous time-sensitive networks
+UR  - https://doi.org/10.1007/s11241-023-09414-0
+VL  - 59
+ID  - 177
+ER  - 
+
+TY  - JOUR
+AU  - Salami, Bagher
+AU  - Noori, Hamid
+AU  - Mehdipour, Farhad
+AU  - Baharani, Mohammadreza
+DO  - 10.1016/j.jpdc.2016.03.008
+IS  - C
+KW  - DVFS, Dynamic thermal management, Multi-core processors, Physical features, Task migration
+PY  - 2016
+SN  - 0743-7315
+SP  - 42–56
+ST  - Physical-aware predictive dynamic thermal management of multi-core processors
+T2  - J. Parallel Distrib. Comput.
+TI  - Physical-aware predictive dynamic thermal management of multi-core processors
+UR  - https://doi.org/10.1016/j.jpdc.2016.03.008
+VL  - 95
+ID  - 148
+ER  - 
+
+TY  - JOUR
+AU  - Satka, Zenepe
+AU  - Ashjaei, Mohammad
+AU  - Fotouhi, Hossein
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2023.102852
+IS  - C
+KW  - Time-sensitive networking, TSN, 5G, URLLC, Industry 4.0
+PY  - 2023
+SN  - 1383-7621
+SP  - 22
+ST  - A comprehensive systematic review of integration of time sensitive networking and 5G communication
+T2  - J. Syst. Archit.
+TI  - A comprehensive systematic review of integration of time sensitive networking and 5G communication
+UR  - https://doi.org/10.1016/j.sysarc.2023.102852
+VL  - 138
+ID  - 118
+ER  - 
+
+TY  - JOUR
+AU  - Satka, Zenepe
+AU  - Ashjaei, Mohammad
+AU  - Fotouhi, Hossein
+AU  - Daneshtalab, Masoud
+AU  - Sjödin, Mikael
+AU  - Mubeen, Saad
+DO  - 10.1016/j.sysarc.2023.102852
+IS  - C
+KW  - Time-sensitive networking, TSN, 5G, URLLC, Industry 4.0
+PY  - 2023
+SN  - 1383-7621
+SP  - 22
+ST  - A comprehensive systematic review of integration of time sensitive networking and 5G communication
+T2  - J. Syst. Archit.
+TI  - A comprehensive systematic review of integration of time sensitive networking and 5G communication
+UR  - https://doi.org/10.1016/j.sysarc.2023.102852
+VL  - 138
+ID  - 184
+ER  - 
+
+TY  - CPAPER
+AU  - Smirnov, Fedor
+AU  - Glaß, Michael
+AU  - Reimann, Felix
+AU  - Teich, Jürgen
+CY  - Lausanne, Switzerland
+PB  - European Design and Automation Association
+PY  - 2017
+SP  - 1647–1650
+T2  - Proceedings of the Conference on Design, Automation &amp; Test in Europe
+TI  - Formal timing analysis of non-scheduled traffic in automotive scheduled TSN networks
+ID  - 10
+ER  - 
+
+TY  - CPAPER
+AU  - Smirnov, Fedor
+AU  - Glaß, Michael
+AU  - Reimann, Felix
+AU  - Teich, Jürgen
+CY  - Lausanne, Switzerland
+PB  - European Design and Automation Association
+PY  - 2017
+SP  - 1647–1650
+T2  - Proceedings of the Conference on Design, Automation &amp; Test in Europe
+TI  - Formal timing analysis of non-scheduled traffic in automotive scheduled TSN networks
+ID  - 58
+ER  - 
+
+TY  - JOUR
+AU  - Syed, Ammad Ali
+AU  - Ayaz, Serkan
+AU  - Leinmüller, Tim
+AU  - Chandra, Madhu
+DO  - 10.1007/s10922-022-09719-8
+IS  - 1
+KW  - Time-sensitive networking (TSN), Frame replication and elimination (FRER), Network coding (NC), In-vehicle network (IVN), Vector bin packing (VBP), Area control unit (ACU), Telematic control unit (TCU), Gate control list (GCL), Centralized network contr
+PY  - 2023
+SN  - 1064-7570
+SP  - 25
+ST  - Network Coding Based Fault-Tolerant Dynamic Scheduling and Routing for In-Vehicle Networks
+T2  - J. Netw. Syst. Manage.
+TI  - Network Coding Based Fault-Tolerant Dynamic Scheduling and Routing for In-Vehicle Networks
+UR  - https://doi.org/10.1007/s10922-022-09719-8
+VL  - 31
+ID  - 123
+ER  - 
+
+TY  - JOUR
+AU  - Syed, Ammad Ali
+AU  - Ayaz, Serkan
+AU  - Leinmüller, Tim
+AU  - Chandra, Madhu
+DO  - 10.1007/s10922-022-09719-8
+IS  - 1
+KW  - Time-sensitive networking (TSN), Frame replication and elimination (FRER), Network coding (NC), In-vehicle network (IVN), Vector bin packing (VBP), Area control unit (ACU), Telematic control unit (TCU), Gate control list (GCL), Centralized network contr
+PY  - 2023
+SN  - 1064-7570
+SP  - 25
+ST  - Network Coding Based Fault-Tolerant Dynamic Scheduling and Routing for In-Vehicle Networks
+T2  - J. Netw. Syst. Manage.
+TI  - Network Coding Based Fault-Tolerant Dynamic Scheduling and Routing for In-Vehicle Networks
+UR  - https://doi.org/10.1007/s10922-022-09719-8
+VL  - 31
+ID  - 176
+ER  - 
+
+TY  - CPAPER
+AU  - Thangamuthu, Sivakumar
+AU  - Concer, Nicola
+AU  - Cuijpers, Pieter J. L.
+AU  - Lukkien, Johan J.
+CY  - Grenoble, France
+KW  - IEEE 802.1AVB, IEEE 802.1TSN, ethernet switching, in vehicle networks
+PB  - EDA Consortium
+PY  - 2015
+SP  - 55–60
+T2  - Proceedings of the 2015 Design, Automation &amp; Test in Europe Conference &amp; Exhibition
+TI  - Analysis of ethernet-switch traffic shapers for in-vehicle networking applications
+ID  - 84
+ER  - 
+
+TY  - CPAPER
+AU  - Thiele, Daniel
+AU  - Axer, Philip
+AU  - Ernst, Rolf
+CY  - San Francisco, California
+DO  - 10.1145/2744769.2744854
+PB  - Association for Computing Machinery
+PY  - 2015
+SP  - Article 41
+T2  - Proceedings of the 52nd Annual Design Automation Conference
+TI  - Improving formal timing analysis of switched ethernet by exploiting FIFO scheduling
+UR  - https://doi.org/10.1145/2744769.2744854
+ID  - 57
+ER  - 
+
+TY  - CPAPER
+AU  - Thiele, Daniel
+AU  - Ernst, Rolf
+CY  - Dresden, Germany
+PB  - EDA Consortium
+PY  - 2016
+SP  - 187–192
+T2  - Proceedings of the 2016 Conference on Design, Automation &amp; Test in Europe
+TI  - Formal worst-case timing analysis of ethernet TSN's burst-limiting shaper
+ID  - 9
+ER  - 
+
+TY  - CPAPER
+AU  - Thiele, Daniel
+AU  - Ernst, Rolf
+CY  - Dresden, Germany
+PB  - EDA Consortium
+PY  - 2016
+SP  - 187–192
+T2  - Proceedings of the 2016 Conference on Design, Automation &amp; Test in Europe
+TI  - Formal worst-case timing analysis of ethernet TSN's burst-limiting shaper
+ID  - 55
+ER  - 
+
+TY  - CPAPER
+AU  - Thiele, Daniel
+AU  - Ernst, Rolf
+CY  - Berlin, Germany
+DO  - 10.1109/etfa.2016.7733740
+PB  - IEEE Press
+PY  - 2016
+SP  - 1–9
+T2  - 2016 IEEE 21st International Conference on Emerging Technologies and Factory Automation (ETFA)
+TI  - Formal worst-case performance analysis of time-sensitive Ethernet with frame preemption
+UR  - https://doi.org/10.1109/ETFA.2016.7733740
+ID  - 115
+ER  - 
+
+TY  - JOUR
+AU  - Thomas, Ludovic
+AU  - Boudec, Jean-Yves Le
+DO  - 10.1145/3392145
+IS  - 2
+KW  - interleaved regulator, network calculus, per-flow regulator, per-flow shaper, time sensitive networks, time synchronization
+PY  - 2020
+SP  - Article 27
+ST  - On Time Synchronization Issues in Time-Sensitive Networks with Regulators and Nonideal Clocks
+T2  - Proc. ACM Meas. Anal. Comput. Syst.
+TI  - On Time Synchronization Issues in Time-Sensitive Networks with Regulators and Nonideal Clocks
+UR  - https://doi.org/10.1145/3392145
+VL  - 4
+ID  - 94
+ER  - 
+
+TY  - JOUR
+AU  - Thomas, Ludovic
+AU  - Boudec, Jean-Yves Le
+DO  - 10.1145/3410048.3410078
+IS  - 1
+KW  - interleaved regulator, network calculus, per-flow regulator, per-flow shaper, time sensitive networks, time synchronization
+PY  - 2020
+SN  - 0163-5999
+SP  - 51–52
+ST  - On Time Synchronization Issues in Time-Sensitive Networks with Regulators and Nonideal Clocks
+T2  - SIGMETRICS Perform. Eval. Rev.
+TI  - On Time Synchronization Issues in Time-Sensitive Networks with Regulators and Nonideal Clocks
+UR  - https://doi.org/10.1145/3410048.3410078
+VL  - 48
+ID  - 98
+ER  - 
+
+TY  - CPAPER
+AU  - Thomas, Ludovic
+AU  - Boudec, Jean-Yves Le
+CY  - Boston, MA, USA
+DO  - 10.1145/3393691.3394206
+KW  - interleaved regulator, network calculus, per-flow regulator, per-flow shaper, time sensitive networks, time synchronization
+PB  - Association for Computing Machinery
+PY  - 2020
+SP  - 51–52
+T2  - Abstracts of the 2020 SIGMETRICS/Performance Joint International Conference on Measurement and Modeling of Computer Systems
+TI  - On Time Synchronization Issues in Time-Sensitive Networks with Regulators and Nonideal Clocks
+UR  - https://doi.org/10.1145/3393691.3394206
+ID  - 99
+ER  - 
+
+TY  - JOUR
+AU  - Thomas, Ludovic
+AU  - Mifdaoui, Ahlem
+AU  - Boudec, Jean-Yves Le
+DO  - 10.1109/tnet.2022.3180763
+IS  - 6
+PY  - 2022
+SN  - 1063-6692
+SP  - 2701–2715
+ST  - Worst-Case Delay Bounds in Time-Sensitive Networks With Packet Replication and Elimination
+T2  - IEEE/ACM Trans. Netw.
+TI  - Worst-Case Delay Bounds in Time-Sensitive Networks With Packet Replication and Elimination
+UR  - https://doi.org/10.1109/TNET.2022.3180763
+VL  - 30
+ID  - 48
+ER  - 
+
+TY  - CPAPER
+AU  - Tschöke, Simon
+AU  - Lynker, Frederic
+AU  - Buhr, Hauke
+AU  - Schreiner, Florian
+AU  - Willner, Alexander
+AU  - Vick, Axel
+AU  - Chemnitz, Moritz
+CY  - Valencia, Spain
+DO  - 10.1109/ds-rt52167.2021.9576141
+KW  - 5G, IIoT, Industry 4.0, IoT, MAN, PLC, PTP, TSN, URLLC, edge computing, gPTP, vPLC
+PB  - IEEE Press
+PY  - 2022
+SP  - Article 22
+T2  - Proceedings of the 2021 IEEE/ACM 25th International Symposium on Distributed Simulation and Real Time Applications
+TI  - Time-sensitive networking over metropolitan area networks for remote industrial control
+UR  - https://doi.org/10.1109/DS-RT52167.2021.9576141
+ID  - 119
+ER  - 
+
+TY  - CPAPER
+AU  - Tschöke, Simon
+AU  - Lynker, Frederic
+AU  - Buhr, Hauke
+AU  - Schreiner, Florian
+AU  - Willner, Alexander
+AU  - Vick, Axel
+AU  - Chemnitz, Moritz
+CY  - Valencia, Spain
+DO  - 10.1109/ds-rt52167.2021.9576141
+KW  - 5G, IIoT, Industry 4.0, IoT, MAN, PLC, PTP, TSN, URLLC, edge computing, gPTP, vPLC
+PB  - IEEE Press
+PY  - 2022
+SP  - Article 22
+T2  - Proceedings of the 2021 IEEE/ACM 25th International Symposium on Distributed Simulation and Real Time Applications
+TI  - Time-sensitive networking over metropolitan area networks for remote industrial control
+UR  - https://doi.org/10.1109/DS-RT52167.2021.9576141
+ID  - 187
+ER  - 
+
+TY  - BOOK
+AU  - Varga, B.
+AU  - Farkas, J.
+AU  - Malis, A.
+AU  - Bryant, S.
+PB  - RFC Editor
+PY  - 2021
+ST  - RFC 9037: Deterministic Networking (DetNet) Data Plane: MPLS over IEEE 802.1 Time-Sensitive Networking (TSN)
+TI  - RFC 9037: Deterministic Networking (DetNet) Data Plane: MPLS over IEEE 802.1 Time-Sensitive Networking (TSN)
+ID  - 44
+ER  - 
+
+TY  - BOOK
+AU  - Varga, B.
+AU  - Farkas, J.
+AU  - Malis, A.
+AU  - Bryant, S.
+PB  - RFC Editor
+PY  - 2021
+ST  - RFC 9023: Deterministic Networking (DetNet) Data Plane: IP over IEEE 802.1 Time-Sensitive Networking (TSN)
+TI  - RFC 9023: Deterministic Networking (DetNet) Data Plane: IP over IEEE 802.1 Time-Sensitive Networking (TSN)
+ID  - 45
+ER  - 
+
+TY  - BOOK
+AU  - Varga, B.
+AU  - Farkas, J.
+AU  - Malis, A.
+AU  - Bryant, S.
+PB  - RFC Editor
+PY  - 2021
+ST  - RFC 9037: Deterministic Networking (DetNet) Data Plane: MPLS over IEEE 802.1 Time-Sensitive Networking (TSN)
+TI  - RFC 9037: Deterministic Networking (DetNet) Data Plane: MPLS over IEEE 802.1 Time-Sensitive Networking (TSN)
+ID  - 139
+ER  - 
+
+TY  - BOOK
+AU  - Varga, B.
+AU  - Farkas, J.
+AU  - Malis, A.
+AU  - Bryant, S.
+PB  - RFC Editor
+PY  - 2021
+ST  - RFC 9023: Deterministic Networking (DetNet) Data Plane: IP over IEEE 802.1 Time-Sensitive Networking (TSN)
+TI  - RFC 9023: Deterministic Networking (DetNet) Data Plane: IP over IEEE 802.1 Time-Sensitive Networking (TSN)
+ID  - 140
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Jin
+AU  - Liu, Chang
+AU  - Zhou, Liang
+AU  - Wang, Jie
+AU  - Yu, Xiao
+DO  - 10.1016/j.comcom.2023.08.013
+IS  - C
+KW  - Time-sensitive network, Network routing, Industrial internet, Time triggered flow, Path selection
+PY  - 2023
+SN  - 0140-3664
+SP  - 285–293
+ST  - DA-DMPF: Delay-aware differential multi-path forwarding of industrial time-triggered flows in deterministic network
+T2  - Comput. Commun.
+TI  - DA-DMPF: Delay-aware differential multi-path forwarding of industrial time-triggered flows in deterministic network
+UR  - https://doi.org/10.1016/j.comcom.2023.08.013
+VL  - 210
+ID  - 105
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Jin
+AU  - Liu, Chang
+AU  - Zhou, Liang
+AU  - Wang, Jie
+AU  - Yu, Xiao
+DO  - 10.1016/j.comcom.2023.08.013
+IS  - C
+KW  - Time-sensitive network, Network routing, Industrial internet, Time triggered flow, Path selection
+PY  - 2023
+SN  - 0140-3664
+SP  - 285–293
+ST  - DA-DMPF: Delay-aware differential multi-path forwarding of industrial time-triggered flows in deterministic network
+T2  - Comput. Commun.
+TI  - DA-DMPF: Delay-aware differential multi-path forwarding of industrial time-triggered flows in deterministic network
+UR  - https://doi.org/10.1016/j.comcom.2023.08.013
+VL  - 210
+ID  - 167
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Xiaolong
+AU  - Yao, Haipeng
+AU  - Mai, Tianle
+AU  - Guo, Song
+AU  - Liu, Yunjie
+DO  - 10.1109/tnet.2023.3276363
+IS  - 6
+PY  - 2023
+SN  - 1063-6692
+SP  - 3254–3268
+ST  - Reinforcement Learning-Based Particle Swarm Optimization for End-to-End Traffic Scheduling in TSN-5G Networks
+T2  - IEEE/ACM Trans. Netw.
+TI  - Reinforcement Learning-Based Particle Swarm Optimization for End-to-End Traffic Scheduling in TSN-5G Networks
+UR  - https://doi.org/10.1109/TNET.2023.3276363
+VL  - 31
+ID  - 43
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Xiaolong
+AU  - Yao, Haipeng
+AU  - Mai, Tianle
+AU  - Guo, Song
+AU  - Liu, Yunjie
+DO  - 10.1109/tnet.2023.3276363
+IS  - 6
+PY  - 2023
+SN  - 1063-6692
+SP  - 3254–3268
+ST  - Reinforcement Learning-Based Particle Swarm Optimization for End-to-End Traffic Scheduling in TSN-5G Networks
+T2  - IEEE/ACM Trans. Netw.
+TI  - Reinforcement Learning-Based Particle Swarm Optimization for End-to-End Traffic Scheduling in TSN-5G Networks
+UR  - https://doi.org/10.1109/TNET.2023.3276363
+VL  - 31
+ID  - 131
+ER  - 
+
+TY  - CPAPER
+AU  - Wüsteney, Lukas
+AU  - Hellmanns, David
+AU  - Schramm, Markus
+AU  - Osswald, Lukas
+AU  - Hummen, René
+AU  - Menth, Michael
+AU  - Heer, Tobias
+CY  - <conf-loc>, <city>Roma</city>, <country>Italy</country>, </conf-loc>
+DO  - 10.1145/3555050.3569138
+KW  - worst-case model, real time, latency model, TSN, DetNet
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 91–109
+T2  - Proceedings of the 18th International Conference on emerging Networking EXperiments and Technologies
+TI  - Analyzing and modeling the latency and jitter behavior of mixed industrial TSN and DetNet networks
+UR  - https://doi.org/10.1145/3555050.3569138
+ID  - 32
+ER  - 
+
+TY  - CPAPER
+AU  - Wüsteney, Lukas
+AU  - Hellmanns, David
+AU  - Schramm, Markus
+AU  - Osswald, Lukas
+AU  - Hummen, René
+AU  - Menth, Michael
+AU  - Heer, Tobias
+CY  - <conf-loc>, <city>Roma</city>, <country>Italy</country>, </conf-loc>
+DO  - 10.1145/3555050.3569138
+KW  - DetNet, TSN, latency model, real time, worst-case model
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 91–109
+T2  - Proceedings of the 18th International Conference on emerging Networking EXperiments and Technologies
+TI  - Analyzing and modeling the latency and jitter behavior of mixed industrial TSN and DetNet networks
+UR  - https://doi.org/10.1145/3555050.3569138
+ID  - 112
+ER  - 
+
+TY  - CPAPER
+AU  - Wüsteney, Lukas
+AU  - Hellmanns, David
+AU  - Schramm, Markus
+AU  - Osswald, Lukas
+AU  - Hummen, René
+AU  - Menth, Michael
+AU  - Heer, Tobias
+CY  - <conf-loc>, <city>Roma</city>, <country>Italy</country>, </conf-loc>
+DO  - 10.1145/3555050.3569138
+KW  - DetNet, TSN, latency model, real time, worst-case model
+PB  - Association for Computing Machinery
+PY  - 2022
+SP  - 91–109
+T2  - Proceedings of the 18th International Conference on emerging Networking EXperiments and Technologies
+TI  - Analyzing and modeling the latency and jitter behavior of mixed industrial TSN and DetNet networks
+UR  - https://doi.org/10.1145/3555050.3569138
+ID  - 178
+ER  - 
+
+TY  - JOUR
+AU  - Yang, Dong
+AU  - Cheng, Zongrong
+AU  - Zhang, Weiting
+AU  - Zhang, Hongke
+AU  - Shen, Xuemin
+DO  - 10.1109/tnet.2023.3264583
+IS  - 6
+PY  - 2023
+SN  - 1063-6692
+SP  - 2809–2824
+ST  - Burst-Aware Time-Triggered Flow Scheduling With Enhanced Multi-CQF in Time-Sensitive Networks
+T2  - IEEE/ACM Trans. Netw.
+TI  - Burst-Aware Time-Triggered Flow Scheduling With Enhanced Multi-CQF in Time-Sensitive Networks
+UR  - https://doi.org/10.1109/TNET.2023.3264583
+VL  - 31
+ID  - 125
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Yinghui
+AU  - Wu, Jiamin
+AU  - Liu, Mingli
+AU  - Tan, Aiping
+DO  - 10.1016/j.engappai.2022.105314
+IS  - C
+KW  - WSN, Routing, Real-time scheduling, IIoT, TSN
+PY  - 2022
+SN  - 0952-1976
+SP  - 9
+ST  - TSN-based routing and scheduling scheme for Industrial Internet of Things in underground mining
+T2  - Eng. Appl. Artif. Intell.
+TI  - TSN-based routing and scheduling scheme for Industrial Internet of Things in underground mining
+UR  - https://doi.org/10.1016/j.engappai.2022.105314
+VL  - 115
+ID  - 41
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Yinghui
+AU  - Wu, Jiamin
+AU  - Liu, Mingli
+AU  - Tan, Aiping
+DO  - 10.1016/j.engappai.2022.105314
+IS  - C
+KW  - TSN, IIoT, Real-time scheduling, Routing, WSN
+PY  - 2022
+SN  - 0952-1976
+SP  - 9
+ST  - TSN-based routing and scheduling scheme for Industrial Internet of Things in underground mining
+T2  - Eng. Appl. Artif. Intell.
+TI  - TSN-based routing and scheduling scheme for Industrial Internet of Things in underground mining
+UR  - https://doi.org/10.1016/j.engappai.2022.105314
+VL  - 115
+ID  - 128
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Yinghui
+AU  - Wu, Jiamin
+AU  - Liu, Mingli
+AU  - Tan, Aiping
+DO  - 10.1016/j.engappai.2022.105314
+IS  - C
+KW  - TSN, IIoT, Real-time scheduling, Routing, WSN
+PY  - 2022
+SN  - 0952-1976
+SP  - 9
+ST  - TSN-based routing and scheduling scheme for Industrial Internet of Things in underground mining
+T2  - Eng. Appl. Artif. Intell.
+TI  - TSN-based routing and scheduling scheme for Industrial Internet of Things in underground mining
+UR  - https://doi.org/10.1016/j.engappai.2022.105314
+VL  - 115
+ID  - 188
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, Zhe
+AU  - Gao, Lu
+AU  - Pan, Weitao
+AU  - Qiu, Zhiliang
+AU  - Guo, Xu
+AU  - Gao, Ya
+AU  - Zheng, Ling
+DO  - 10.1016/j.comnet.2023.109805
+IS  - C
+KW  - Time-sensitive network, Jittered period flows, Access mechanism, Send delay control, Integer linear programming-based scheduling
+PY  - 2023
+SN  - 1389-1286
+SP  - 17
+ST  - Access mechanism for period flows of non-deterministic end systems for time-sensitive networks
+T2  - Comput. Netw.
+TI  - Access mechanism for period flows of non-deterministic end systems for time-sensitive networks
+UR  - https://doi.org/10.1016/j.comnet.2023.109805
+VL  - 231
+ID  - 156
+ER  - 
+
+TY  - JOUR
+AU  - Zheng, Xiao
+AU  - Liu, Yan
+AU  - Zhan, Shuangping
+AU  - Xin, Yao
+AU  - Wang, Yi
+DO  - 10.1016/j.comnet.2024.110184
+IS  - C
+KW  - Time-sensitive networks, Cyclic queuing and forwarding, Scheduling algorithm, Queue mapping, Deterministic networks
+PY  - 2024
+SN  - 1389-1286
+SP  - 10
+ST  - A novel low-latency scheduling approach of TSN for multi-link rate networking
+T2  - Comput. Netw.
+TI  - A novel low-latency scheduling approach of TSN for multi-link rate networking
+UR  - https://doi.org/10.1016/j.comnet.2024.110184
+VL  - 240
+ID  - 42
+ER  - 
+
+TY  - JOUR
+AU  - Zheng, Xiao
+AU  - Liu, Yan
+AU  - Zhan, Shuangping
+AU  - Xin, Yao
+AU  - Wang, Yi
+DO  - 10.1016/j.comnet.2024.110184
+IS  - C
+KW  - Time-sensitive networks, Cyclic queuing and forwarding, Scheduling algorithm, Queue mapping, Deterministic networks
+PY  - 2024
+SN  - 1389-1286
+SP  - 10
+ST  - A novel low-latency scheduling approach of TSN for multi-link rate networking
+T2  - Comput. Netw.
+TI  - A novel low-latency scheduling approach of TSN for multi-link rate networking
+UR  - https://doi.org/10.1016/j.comnet.2024.110184
+VL  - 240
+ID  - 86
+ER  - 
+
+TY  - JOUR
+AU  - Zheng, Xiao
+AU  - Liu, Yan
+AU  - Zhan, Shuangping
+AU  - Xin, Yao
+AU  - Wang, Yi
+DO  - 10.1016/j.comnet.2024.110184
+IS  - C
+KW  - Time-sensitive networks, Cyclic queuing and forwarding, Scheduling algorithm, Queue mapping, Deterministic networks
+PY  - 2024
+SN  - 1389-1286
+SP  - 10
+ST  - A novel low-latency scheduling approach of TSN for multi-link rate networking
+T2  - Comput. Netw.
+TI  - A novel low-latency scheduling approach of TSN for multi-link rate networking
+UR  - https://doi.org/10.1016/j.comnet.2024.110184
+VL  - 240
+ID  - 161
+ER  - 
+
+TY  - CPAPER
+AU  - Zhou, Boyang
+AU  - Cheng, Liang
+CY  - Virtual Event, USA
+DO  - 10.1145/3472735.3473385
+KW  - Deep Deterministic Policy Gradient, Scheduling, Time-Sensitive Networking
+PB  - Association for Computing Machinery
+PY  - 2021
+SP  - 32–37
+T2  - Proceedings of the 4th FlexNets Workshop on Flexible Networks Artificial Intelligence Supported Network Flexibility and Agility
+TI  - Mitigation of Scheduling Violations in Time-Sensitive Networking using Deep Deterministic Policy Gradient
+UR  - https://doi.org/10.1145/3472735.3473385
+ID  - 89
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Boyang
+AU  - Howenstine, Isaac
+AU  - Cheng, Liang
+AU  - Bondorf, Steffen
+DO  - 10.1145/3649477.3649495
+IS  - 4
+PY  - 2024
+SN  - 0163-5999
+SP  - 32–42
+ST  - Breaking Cyclic Dependencies for Network Calculus using Service Partitioning
+T2  - SIGMETRICS Perform. Eval. Rev.
+TI  - Breaking Cyclic Dependencies for Network Calculus using Service Partitioning
+UR  - https://doi.org/10.1145/3649477.3649495
+VL  - 51
+ID  - 100
+ER  - 
+
+TY  - CPAPER
+AU  - Zhu, Jinyu
+AU  - Li, He
+AU  - Duan, Shihui
+AU  - Zhu, Youyang
+AU  - Zhao, Chenglin
+AU  - Deng, Haojiang
+CY  - <conf-loc>, <city>Zhengzhou</city>, <country>China</country>, </conf-loc>
+DO  - 10.1145/3640912.3640934
+PB  - Association for Computing Machinery
+PY  - 2024
+SP  - 111–114
+T2  - Proceedings of the 2023 International Conference on Communication Network and Machine Learning
+TI  - End-to-End Performance Verification of 5G-TSN Converged Network
+UR  - https://doi.org/10.1145/3640912.3640934
+ID  - 39
+ER  - 
+
+TY  - CPAPER
+AU  - Zhu, Jinyu
+AU  - Li, He
+AU  - Duan, Shihui
+AU  - Zhu, Youyang
+AU  - Zhao, Chenglin
+AU  - Deng, Haojiang
+CY  - <conf-loc>, <city>Zhengzhou</city>, <country>China</country>, </conf-loc>
+DO  - 10.1145/3640912.3640934
+PB  - Association for Computing Machinery
+PY  - 2024
+SP  - 111–114
+T2  - Proceedings of the 2023 International Conference on Communication Network and Machine Learning
+TI  - End-to-End Performance Verification of 5G-TSN Converged Network
+UR  - https://doi.org/10.1145/3640912.3640934
+ID  - 87
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, Meng-yuan
+AU  - Chen, Ke-fan
+AU  - Chen, Zhuo
+AU  - Lv, Na
+DO  - 10.1016/j.adhoc.2022.102912
+IS  - C
+KW  - UAV-assisted IoT, Programmable packet schedule, Freshness, Traffic shaping, AoI
+PY  - 2022
+SN  - 1570-8705
+SP  - 13
+ST  - FAIFO: UAV-assisted IoT programmable packet scheduling considering freshness
+T2  - Ad Hoc Netw.
+TI  - FAIFO: UAV-assisted IoT programmable packet scheduling considering freshness
+UR  - https://doi.org/10.1016/j.adhoc.2022.102912
+VL  - 134
+ID  - 108
+ER  - 
+

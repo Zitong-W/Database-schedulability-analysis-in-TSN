@@ -1,0 +1,253 @@
+TY  - CONF
+TI  - Wireless TSN Extension to Enable Deterministic Connectivity: Implementation and Performance Evaluation
+T2  - 2023 IEEE 9th World Forum on Internet of Things (WF-IoT)
+SP  - 1
+EP  - 7
+AU  - M. Seliem
+AU  - A. Zahran
+AU  - D. Pesch
+PY  - 2023
+KW  - Wireless communication
+KW  - Industries
+KW  - Automation
+KW  - Service robots
+KW  - Reliability engineering
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Time-Sensitive Networking (TSN)
+KW  - Industrial networks
+KW  - Wi-Fi
+KW  - Collaborative robots
+KW  - Deterministic Latency
+DO  - 10.1109/WF-IoT58464.2023.10539420
+JO  - 2023 IEEE 9th World Forum on Internet of Things (WF-IoT)
+IS  - 
+SN  - 2768-1734
+VO  - 
+VL  - 
+JA  - 2023 IEEE 9th World Forum on Internet of Things (WF-IoT)
+Y1  - 12-27 Oct. 2023
+AB  - Wi-Fi promises to revolutionize wireless connectivity through the integration of time-sensitive networking (TSN) capabilities, ensuring low latency and unmatched reliability within license-exempt spectrum bands. This study delves into the seamless amalgamation of TSN functionalities with Wi-Fi, with a particular focus on its implications for Internet of Things (IoT) applications, notably industrial automation and collaborative robots. In this paper, we examine diverse network configurations to assess their impact on latency and reliability in industrial automation scenarios. Furthermore, the efficacy of prioritization, preemption, and credit-based shaping policies is evaluated to optimize time-sensitive traffic management and enhance overall performance. The findings highlight Wi-Fi's enhanced suitability for industrial automation, showcasing how collaborative robots can leverage reduced latency and real-time communication to achieve height-ened precision, safety, and seamless human-robot interaction. By considering several network setups and traffic shaping policies, this paper provides invaluable insights for industrial practitioners and researchers, shedding light on the potential impact of Wi-Fi in industrial automation and collaborative robotics domains.
+ER  - 
+
+TY  - CONF
+TI  - Flow Prioritization for TSN Asynchronous Traffic Shapers
+T2  - 2023 IFIP Networking Conference (IFIP Networking)
+SP  - 1
+EP  - 6
+AU  - J. Caleya-Sanchez
+AU  - J. Prados-Garzon
+AU  - L. Chinchilla-Romero
+AU  - P. Muñoz
+AU  - P. Ameigeiras
+PY  - 2023
+KW  - Shape
+KW  - Scalability
+KW  - Force
+KW  - Quality of service
+KW  - Delays
+KW  - Proposals
+DO  - 10.23919/IFIPNetworking57963.2023.10186427
+JO  - 2023 IFIP Networking Conference (IFIP Networking)
+IS  - 
+SN  - 1861-2288
+VO  - 
+VL  - 
+JA  - 2023 IFIP Networking Conference (IFIP Networking)
+Y1  - 12-15 June 2023
+AB  - Time-Sensitive Networking (TSN) technology is key to the development of current networks due to its capacity to provide a deterministic Quality of Service (QoS) mainly in terms of delay for different industrial traffic. It also simplifies management and improves the scalability of industrial networks. This articles focuses on Asynchronous Traffic Shape (ATS) for TSN. The key aspect of ATS is that by prioritizing flows delay requirement can be satisfied for each priority level. To that end, we formally formulate the problem of flow priority assignment in an network and we demonstrate the optimality of our proposed algorithm. We have compared our algorithm with the brute force search obtaining that the execution time of brute force is much higher than ours with exactly the same prioritization results.
+ER  - 
+
+TY  - CONF
+TI  - Time-Predictable Software-Based TSN-Enabled Network Stack for Mixed Criticality Traffic
+T2  - 2024 IEEE 20th International Conference on Factory Communication Systems (WFCS)
+SP  - 1
+EP  - 8
+AU  - P. Denzler
+AU  - T. Frühwirth
+AU  - C. Lehr
+AU  - J. Auffray
+PY  - 2024
+KW  - Automation
+KW  - Communication systems
+KW  - Real-time systems
+KW  - Production facilities
+KW  - Time-Sensitive Networking (TSN)
+KW  - real-time communication
+KW  - time-predictable network stack
+DO  - 10.1109/WFCS60972.2024.10540916
+JO  - 2024 IEEE 20th International Conference on Factory Communication Systems (WFCS)
+IS  - 
+SN  - 2835-8414
+VO  - 
+VL  - 
+JA  - 2024 IEEE 20th International Conference on Factory Communication Systems (WFCS)
+Y1  - 17-19 April 2024
+AB  - The ongoing transition in industrial automation towards a highly interconnected architecture underscores the importance of time-sensitive networking (TSN). This paper addresses the implementation of a time-predictable software-based TSN-enabled network stack for mixed criticality traffic in TSN end stations. The findings demonstrate the network stack’s worst-case execution time (WCET) analysability, effective management of mixed critical traffic, and real-time transmission of UDP frames. Additionally, the stack offers modularity, configurability, and TSN support for transferring messages across different priorities using either UDP or TCP. Evaluation on the time-predictable open-source T-CREST platform yields representative WCET estimates comparable to related research. The paper concludes by outlining further research.
+ER  - 
+
+TY  - CONF
+TI  - Advanced Modeling and Analysis of Individual and Combined TSN Shapers in OMNeT++
+T2  - 2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+SP  - 176
+EP  - 185
+AU  - R. Debnath
+AU  - P. Hortig
+AU  - L. Zhao
+AU  - S. Steinhorst
+PY  - 2023
+KW  - Performance evaluation
+KW  - Upper bound
+KW  - Simulation
+KW  - Quality of service
+KW  - Computer architecture
+KW  - Telecommunication traffic
+KW  - Real-time systems
+KW  - time sensitive network
+KW  - time aware shaper
+KW  - audio-video bridging
+KW  - credit based shaper
+KW  - asynchronous traffic shaper
+KW  - performance analysis
+KW  - OMNeT++
+KW  - real-time networks
+DO  - 10.1109/RTCSA58653.2023.00029
+JO  - 2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+IS  - 
+SN  - 2325-1301
+VO  - 
+VL  - 
+JA  - 2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+Y1  - 30 Aug.-1 Sept. 2023
+AB  - The selection of a Time-Sensitive Networking (TSN) shaping mechanism is a crucial design decision that impacts the Quality of Service (QoS) of applications and configuration complexity. However, current research has mainly evaluated TSN shapers individually, despite them being designed to work together in an egress port. Hence, the lack of investigation of the mixed TSN shaping mechanism is a major limitation of the current state of the art. Combined TSN traffic shaping provides greater flexibility to improve QoS than individual shapers, making it particularly beneficial for real-time applications. This paper aims to bridge this research gap by implementing the Asynchronous Traffic Shaper (ATS) in a plug-and-play manner, enabling its use individually or in combination with other TSN shapers. We propose various models of mixed TSN shaper architectures and implement the frozen and non-frozen credit behavior of the Time Aware Shaper (TAS) + Credit Based Shaper (CBS) during the guard band (GB) using OMNeT++. Furthermore, we compare the simulation results of ATS and CBS with the Network Calculus (NC) upper bounds. Our results indicate that the simulated delays (SMDs) were significantly lower than the theoretical worst-case delays (WCDs) obtained from the NC, indicating the need for tighter theoretical upper bounds, particularly for higher network loads. To the best of our knowledge, we are the first to provide simulation-based performance analysis of the combined $\text{TAS}+\text{ATS}+\text{CBS}$ and $\text{TAS}+\text{ATS}+\text{Strict}$ Priority (SP) architecture. Overall, this paper highlights the benefits of combining TSN shapers and encourages further research into the potential advantages of utilizing multiple shapers simultaneously to decrease reliance on TAS and CBS.
+ER  - 
+
+TY  - JOUR
+TI  - Loosely Coupled Hybrid Scheduling of Processing and Communication for TSN-Based IMA Systems
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 8884
+EP  - 8895
+AU  - X. Zhou
+AU  - F. He
+AU  - L. Zhao
+PY  - 2024
+KW  - Task analysis
+KW  - Job shop scheduling
+KW  - Delays
+KW  - Aerospace electronics
+KW  - Scalability
+KW  - Real-time systems
+KW  - Time factors
+KW  - End-to-end delay
+KW  - integrated modular avionics (IMA)
+KW  - partition
+KW  - time-sensitive networking
+KW  - time-triggered (TT) schedule
+DO  - 10.1109/TII.2024.3373894
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 6
+SN  - 1941-0050
+VO  - 20
+VL  - 20
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - June 2024
+AB  - Time-sensitive networking (TSN) has great potential as an airborne network to interconnect modules in integrated modular avionics (IMA) system. For TSN-based IMA system, the hybrid scheduling of processing in modules and communication in TSN can guarantee its real-time performance. However, traditional task-message scheduling methods still lack applicability and scalability due to their incompatibility with the partition-task hierarchical architecture in modules and high complexity brought by the tight coupling of tasks and messages. Partition-message scheduling methods can ensure this applicability and scalability, but cannot coordinate tasks with messages well, thus sacrificing real-time guarantee capabilities. Namely, existing methods cannot comprehensively ensure the scheduling performance, including applicability, real-time, and scalability. Therefore, we propose a novel loosely coupled partition-(task)-message scheduling framework. It takes partitions and messages as scheduling objects and uses tasks as their coordination medium, to overcome the dependencies of existing methods on time-triggered tasks and guarantee applicability. Besides, it can also enhance real-time performance by analyzing task execution boundaries and application-layer end-to-end delays, and improve scalability through parallel optimizing and the incremental solving with block identification and adaptive adjustment. Experiments validate that it can schedule complex systems with up to 150 partitions, 1000 tasks, and 600 messages. Compared with the existing methods, it can accelerate the solving speed by 41% and reduce end-to-end delays by 27%.
+ER  - 
+
+TY  - CONF
+TI  - A Unified Model for Integrated Modular Architecture-TSN based Systems
+T2  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+SP  - 1
+EP  - 8
+AU  - M. Houssin
+AU  - O. Hotescu
+AU  - F. Boniol
+PY  - 2023
+KW  - Industries
+KW  - Computer architecture
+KW  - Aerospace electronics
+KW  - Market research
+KW  - Software
+KW  - Explosions
+KW  - Resource management
+KW  - Time-Sensitive Networking
+KW  - Integrated Modular Architecture
+KW  - system-network
+DO  - 10.1109/ETFA54631.2023.10275342
+JO  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 
+VL  - 
+JA  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+Y1  - 12-15 Sept. 2023
+AB  - A recent trend in embedded industry is to mix Integrated Modular Architectures (IMA) with Time Sensitive Networking (TSN). IMA principles allow resource sharing between numerous software functions in a deterministic way. On the other side TSN is considered a promising communication solution for distributed architectures. However, TSN has not been fully exploited with IMA, while it would meet the increasing communication needs due to the explosion of the number of on-board software functions. In order to better understand the challenges of designing IMA-TSN systems, this paper proposes a joint model which unifies task and message management and allows evaluation of end-to-end latency properties. The model is illustrated by simulation on an avionic case study.
+ER  - 
+
+TY  - JOUR
+TI  - Time-Sensitive Networking Standards
+T2  - IEEE Communications Standards Magazine
+SP  - 20
+EP  - 21
+AU  - J. Farkas
+AU  - L. L. Bello
+AU  - C. Gunther
+PY  - 2018
+KW  - Special issues and sections
+KW  - Sensitivity analysis
+KW  - Time measurement
+KW  - Telecommunication traffic
+KW  - Mission critical systems
+DO  - 10.1109/MCOMSTD.2018.8412457
+JO  - IEEE Communications Standards Magazine
+IS  - 2
+SN  - 2471-2833
+VO  - 2
+VL  - 2
+JA  - IEEE Communications Standards Magazine
+Y1  - JUNE 2018
+AB  - The seven articles in this special section focus on time sensitive networking (TSN), an IEEE 802.1 standard. TSN makes it possible to carry data traffic of time-critical and/or mission- critical applications over a bridged Ethernet network shared by various kinds of applications having different Quality of Service (QoS) requirements, i.e., time and/or mission critical TSN traffic and non-TSN best effort traffic. TSN provides guaranteed data transport with bounded low latency, low delay variation, and extremely low data loss for time and/or mission critical traffic. By reserving resources for critical traffic, and applying various queuing and shaping techniques, TSN achieves zero congestion loss for critical data traffic. This, in turn, allows TSN to guarantee a worst-case end-to-end latency for critical data. TSN also provides ultra-reliability for data traffic via a data packet level reliability mechanism as well as protection against bandwidth violation, malfunctioning, malicious attacks, etc. TSN includes reliable time synchronization, a profile of IEEE 1588, which provides the basis for many other TSN functions.
+ER  - 
+
+TY  - JOUR
+TI  - Avnu Alliance: Advancing Time Sensitive Networking with IEEE
+T2  - IEEE Communications Standards Magazine
+SP  - 6
+EP  - 8
+AU  - G. Schlechter
+AU  - G. Hiertz
+AU  - I. Friese
+AU  - J. D'Ambrosia
+AU  - T. Wang
+PY  - 2021
+DO  - 10.1109/MCOMSTD.2021.9392783
+JO  - IEEE Communications Standards Magazine
+IS  - 1
+SN  - 2471-2833
+VO  - 5
+VL  - 5
+JA  - IEEE Communications Standards Magazine
+Y1  - March 2021
+AB  - Founded in 2009 by a group of companies with delegates active in the IEEE work group that is now the 802.1 TSN work group [1] and wanting to provide an interoperable ecosystem, Avnu Alliance [2] is now moving past a decade of bringing companies together to facilitate time sensitive capabilities in networking.
+ER  - 
+
+TY  - CONF
+TI  - Comparison of IEEE AVB and AFDX
+T2  - 2012 IEEE/AIAA 31st Digital Avionics Systems Conference (DASC)
+SP  - 1
+EP  - 24
+AU  - S. Schneele
+AU  - F. Geyer
+PY  - 2012
+DO  - 10.1109/DASC.2012.6383085
+JO  - 2012 IEEE/AIAA 31st Digital Avionics Systems Conference (DASC)
+IS  - 
+SN  - 2155-7209
+VO  - 
+VL  - 
+JA  - 2012 IEEE/AIAA 31st Digital Avionics Systems Conference (DASC)
+Y1  - 14-18 Oct. 2012
+AB  - Comprehensive overview about the basic principles behind IEEE AVB Especially the credit based shaper algorithm (CBS) and the clock synchronization algorithm could be implemented accordingly to Aeronautic requirements Multiple onboard applications dealing with video and audio in a non-safety critical environment could benefit with immediate effect of AVB The set of AVB standards offer a complete framework and toolbox for sending real-time audio and video streams based on standard Ethernet Combination of different traffic classes not sufficient solved (best effort, starvation due to SPQ) Future work of our group will address the second generation of the AVB standard with focus on timing / latency analysis and failure modes.
+ER  - 
+
+

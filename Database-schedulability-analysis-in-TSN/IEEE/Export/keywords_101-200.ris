@@ -1,0 +1,3329 @@
+TY  - CONF
+TI  - Timing Analysis of AVB Traffic in TSN Networks Using Network Calculus
+T2  - 2018 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)
+SP  - 25
+EP  - 36
+AU  - L. Zhao
+AU  - P. Pop
+AU  - Z. Zheng
+AU  - Q. Li
+PY  - 2018
+KW  - Logic gates
+KW  - Schedules
+KW  - Real-time systems
+KW  - Routing
+KW  - Delays
+KW  - Protocols
+KW  - TSN
+KW  - real time network
+KW  - timing analysis
+KW  - delay
+KW  - upper bound
+DO  - 10.1109/RTAS.2018.00009
+JO  - 2018 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)
+Y1  - 11-13 April 2018
+AB  - Time-Sensitive Networking (TSN) is a collection of standards that extend Ethernet to support safety-critical and real-time applications. TSN integrates multiple traffic types, i.e., Time-Triggered (TT) traffic scheduled based on Gate-Control-Lists (GCLs), Audio-Video-Bridging (AVB) traffic that requires bounded latencies, and Best-Effort (BE) traffic, for which no guarantees are provided. This paper proposes a Network Calculus-based approach to determine the worst-case end-to-end delays of AVB traffic in a TSN network with both non-preemption and preemption modes. We consider the effects of TT traffic due to GCLs, "guard bands", i.e., time windows that block other traffic from transmitting, and preemption overhead on the service for AVB traffic. We provide a proof of non-overflow condition for AVB credit, which is used to control the AVB traffic transmission. The analysis method is evaluated on realistic test cases, and compared to related work.
+ER  - 
+
+TY  - STD
+TI  - IEEE Standard for Layer 2 Transport Protocol for Time Sensitive Applications in a Bridged Local Area Network
+T2  - IEEE Std 1722-2011
+SP  - 1
+EP  - 65
+PY  - 2011
+KW  - IEEE standards
+KW  - Time factors
+KW  - Transport protocols
+KW  - IP networks
+KW  - Local area networks
+KW  - bridged LAN
+KW  - IEC 61883
+KW  - IEEE 802.1 AVB protocols
+KW  - IEEE 802.1AS
+KW  - IEEE 802.1BA
+KW  - IEEE 802.1Qat
+KW  - IEEE 802.1Qav
+KW  - IEEE 1722
+KW  - local area network (LAN)
+KW  - quality of service
+KW  - timesensitive media streaming
+KW  - time synchronization
+DO  - 10.1109/IEEESTD.2011.5764875
+JO  - IEEE Std 1722-2011
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Std 1722-2011
+Y1  - 6 May 2011
+AB  - The protocol, data encapsulations, and presentation time procedures used to ensure interoperability between audio- and video-based end stations that use standard networking services provided by all IEEE 802 networks meeting quality-of-service requirements for time sensitive applications by leveraging concepts of IEC 61883 are specified in this standard.
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of Time-Triggered Traffic in Time-Sensitive Networks Using the OPNET Simulation Framework
+T2  - 2018 26th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)
+SP  - 283
+EP  - 287
+AU  - M. Pahlevan
+AU  - R. Obermaisser
+PY  - 2018
+KW  - Switches
+KW  - Standards
+KW  - Protocols
+KW  - Schedules
+KW  - Logic gates
+KW  - Bandwidth
+KW  - Task analysis
+KW  - Temporal Constraints
+KW  - Cyber Physical Systems
+KW  - Time Sensitive Networking
+KW  - OPNET
+KW  - Simulation Models
+DO  - 10.1109/PDP2018.2018.00048
+JO  - 2018 26th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)
+IS  - 
+SN  - 2377-5750
+VO  - 
+VL  - 
+JA  - 2018 26th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)
+Y1  - 21-23 March 2018
+AB  - Highly reliable, scalable and deployable net-works with strict temporal constraints are inevitable for future cyber physical systems. Due to widespread usage and success of Ethernet technologies, the Time Sensitive Networking task group introduces a series of protocol extensions to the IEEE 802.1 Ethernet standard. These standards provide real time capabilities and performance improvements. Simulation environments are intensively used to investigate correctness and applicability of new protocol suites. This paper presents an OPNET simulation framework for simulating TSN time-based features. Our framework implements ingress time-based policing and enhancements for scheduled traffic as an extensions of the Ethernet standard. We describe the implementation details of our simulation models which provide temporal properties. We also evaluate and compare our results with the expected behaviors of the aforementioned protocols.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Fault Detection in Time Sensitive Networks using Machine Learning
+T2  - 2020 International Conference on COMmunication Systems & NETworkS (COMSNETS)
+SP  - 714
+EP  - 719
+AU  - N. Desai
+AU  - S. Punnekkat
+PY  - 2020
+KW  - Standards
+KW  - Redundancy
+KW  - Fault detection
+KW  - Bandwidth
+KW  - Fault tolerant systems
+KW  - Real-time systems
+KW  - Time sensitive networking
+KW  - network configuration
+KW  - machine learning
+KW  - safety-critical systems
+KW  - fault-tolerance
+KW  - redundancy
+KW  - fault-detection
+DO  - 10.1109/COMSNETS48256.2020.9027357
+JO  - 2020 International Conference on COMmunication Systems & NETworkS (COMSNETS)
+IS  - 
+SN  - 2155-2509
+VO  - 
+VL  - 
+JA  - 2020 International Conference on COMmunication Systems & NETworkS (COMSNETS)
+Y1  - 7-11 Jan. 2020
+AB  - Time sensitive networking (TSN) is gaining attention in industrial automation networks since it brings essential real-time capabilities to the Ethernet layer. Safety-critical realtime applications based on TSN require both timeliness as well as fault-tolerance guarantees. The TSN standard 802.1CB introduces seamless redundancy mechanisms for time-sensitive data whereby each data frame is sequenced and duplicated across a redundant link to prevent single points of failure (most commonly, link failures). However, a major shortcoming of 802.1CB is the lack of fault detection mechanisms which can result in unnecessary replications even under good link conditions - clearly inefficient in terms of bandwidth use. This paper proposes a machine learning-based intelligent configuration synthesis mechanism that enhances bandwidth utilization by replicating frames only when a link has a higher propensity for failure.
+ER  - 
+
+TY  - CONF
+TI  - Options for time-sensitive networking for 5G fronthaul
+T2  - 45th European Conference on Optical Communication (ECOC 2019)
+SP  - 1
+EP  - 3
+AU  - J. Zou
+AU  - S. A. Sasu
+AU  - J. Messenger
+AU  - J. Elbers
+PY  - 2019
+KW  - time-sensitive networking
+KW  - radio access network
+KW  - 5G
+KW  - fronthaul
+DO  - 10.1049/cp.2019.0765
+JO  - 45th European Conference on Optical Communication (ECOC 2019)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 45th European Conference on Optical Communication (ECOC 2019)
+Y1  - 22-26 Sept. 2019
+AB  - Mobile networks towards 5G impose increasingly stringent requirement on high throughput, low packet jitter and low latency due to emerging time-sensitive applications. Ethernet-based mobile fronthaul is low-cost and flexible, but lacking in determinism. We review and discuss the options for time-sensitive networking based on Ethernet.
+ER  - 
+
+TY  - CONF
+TI  - A Reconfigurable Architecture for Packet Based 5G Transport Networks
+T2  - 2018 IEEE 5G World Forum (5GWF)
+SP  - 474
+EP  - 477
+AU  - R. M. Rao
+AU  - M. Fontaine
+AU  - R. Veisllari
+PY  - 2018
+KW  - Delays
+KW  - 5G mobile communication
+KW  - Protocols
+KW  - Job shop scheduling
+KW  - Encapsulation
+KW  - 5G
+KW  - CRAN
+KW  - RoE
+KW  - NGFI
+KW  - Fronthaul
+KW  - Midhaul
+KW  - Backhaul
+KW  - Xhaul
+KW  - Time Sensitive Networking
+KW  - eCPRI
+KW  - CPRI
+KW  - Scheduling
+KW  - Preemption.
+DO  - 10.1109/5GWF.2018.8517039
+JO  - 2018 IEEE 5G World Forum (5GWF)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 5G World Forum (5GWF)
+Y1  - 9-11 July 2018
+AB  - The 5G system architecture envisions a converged backhaul and fronthaul network which necessitates the fronthaul links to move to an Ethernet packet based network with preemption capabilities to ensure bounded delays. Furthermore, the introduction of the PDCP aggregation node as part of the Telco Cloud introduces a lower priority midhaul link but still requiring bounded delays. This paper presents a realistic Ethernet packet based 5G transport network with fronthaul express traffic and lower priority, preemptable, midhaul/backhaul traffic in a multi-hop network connecting the remote radio units and the baseband unit to the Telco Cloud and the packet core. The system includes an intelligent scheduler that aggregates and schedules midhaul/backhaul traffic by exploiting the inter-packet gaps without impacting the delay or PDV of the fronthaul streams. Analytical and experimental results are presented to demonstrate the effectiveness of the scheduling algorithm.
+ER  - 
+
+TY  - CONF
+TI  - Network Anomaly Detection in Cars based on Time-Sensitive Ingress Control
+T2  - 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall)
+SP  - 1
+EP  - 5
+AU  - P. Meyer
+AU  - T. Häckel
+AU  - F. Korf
+AU  - T. C. Schmidt
+PY  - 2020
+KW  - Vehicular and wireless technologies
+KW  - Connected vehicles
+KW  - Network topology
+KW  - Conferences
+KW  - Reliability
+KW  - Automobiles
+KW  - Anomaly detection
+KW  - Vehicular network security
+KW  - Time-Sensitive Networking
+KW  - 802.1Qci
+KW  - Software-Defined Networking
+DO  - 10.1109/VTC2020-Fall49728.2020.9348746
+JO  - 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall)
+IS  - 
+SN  - 2577-2465
+VO  - 
+VL  - 
+JA  - 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall)
+Y1  - 18 Nov.-16 Dec. 2020
+AB  - Connected cars need robust protection against network attacks. Network anomaly detection and prevention on board will be particularly fast and reliable when situated on the lowest possible layer. Blocking traffic on a low layer, however, causes severe harm if triggered erroneously by falsely positive alarms. In this paper, we introduce and evaluate a concept for detecting anomalous traffic using the ingress control of Time-Sensitive Networking (TSN). We build on the idea that already defined TSN traffic descriptors for in-car network configurations are rigorous, and hence any observed violation should not be a false positive. Also, we use Software-Defined Networking (SDN) technologies to collect and evaluate ingress anomaly reports, to identify the generating flows, and to ban them from the network. We evaluate our concept by simulating a real-world zonal network topology of a future car. Our findings confirm that abnormally behaving individual flows can indeed be reliably segregated with zero false positives.
+ER  - 
+
+TY  - CONF
+TI  - SMT-based Task- and Network-level Static Schedule for Time Sensitive Network
+T2  - 2021 International Conference on Communications, Information System and Computer Engineering (CISCE)
+SP  - 764
+EP  - 770
+AU  - T. Feng
+AU  - H. Yang
+PY  - 2021
+KW  - Schedules
+KW  - Network topology
+KW  - Scheduling algorithms
+KW  - Jitter
+KW  - Search problems
+KW  - Propagation losses
+KW  - Delays
+KW  - time-sensitive network
+KW  - time-triggered
+KW  - application layer scheduling
+KW  - distributed system
+DO  - 10.1109/CISCE52179.2021.9446030
+JO  - 2021 International Conference on Communications, Information System and Computer Engineering (CISCE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Communications, Information System and Computer Engineering (CISCE)
+Y1  - 14-16 May 2021
+AB  - Time Sensitive Network (TSN) is a high-quality realtime transmission network with bounded transmission delay, low transmission jitter and extremely low data loss rate. This paper studies the application-level scheduling problem of time-triggered traffic in time-sensitive networks. Firstly, we define a network systematization model, which communicates through time-triggered traffic classes, and treats tasks and network communication as the same scheduling problem, and search the whole solution space. Secondly, the design goal is set to minimize the total delay of all applications, use the defined model to construct logical constraints, and correctly describe the combination of network and task scheduling. At the same time, unnecessary constraints are reduced and the scheduling model is simplified. Finally, a comprehensive method of distributed system application layer scheduling using time-triggered traffic in Ethernet communication is proposed. Different optimization goals are considered in the method, and the work is focused on application-level optimization. The experimental evaluation uses various comprehensive network topologies and system configurations, which show that the comprehensive scheduling method can effectively solve the scheduling problem and meet the requirements of time-critical tasks.
+ER  - 
+
+TY  - CONF
+TI  - Implementation Aspects of Multi-Level Frame Preemption in TSN
+T2  - 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+SP  - 1127
+EP  - 1130
+AU  - M. Knezic
+AU  - M. Kovacevic
+AU  - Z. Ivanovic
+PY  - 2020
+KW  - Conferences
+KW  - IEEE 802.3 Standard
+KW  - Interference
+KW  - EPON
+KW  - Timing
+KW  - Field programmable gate arrays
+KW  - Manufacturing automation
+KW  - ethernet
+KW  - frame preemption
+KW  - IEEE 802.3 standard
+KW  - time sensitive networking
+DO  - 10.1109/ETFA46521.2020.9211914
+JO  - 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 1
+VL  - 1
+JA  - 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+Y1  - 8-11 Sept. 2020
+AB  - To enable bandwidth-efficient temporal isolation of time critical scheduled traffic, an approach for frame preemption was defined in IEEE 802.3br and 802.1Qbu amendments. However, the proposed solution only offers single-level preemption, which means that low-priority frames can still hinder transmission of other, possibly more important frames. In this paper, we discuss implementation aspects of multi-level frame preemption paradigm, an extension of the original mechanism, aimed at providing an opportunity for frames with firm timing requirements, yet not qualified as scheduled traffic, to benefit from preventing interference caused by low-priority frames. We propose a scalable architecture that is suitable for implementation both on ASIC (Application-Specific Integrated Circuit) and FPGA (Field-Programmable Gate Array) platforms.
+ER  - 
+
+TY  - CONF
+TI  - Joint Routing and Scheduling for CQF
+T2  - 2022 7th International Conference on Computer and Communication Systems (ICCCS)
+SP  - 1
+EP  - 5
+AU  - Y. Liu
+AU  - Z. Cheng
+AU  - J. Ren
+AU  - D. Yang
+PY  - 2022
+KW  - Performance evaluation
+KW  - Scheduling algorithms
+KW  - Systems architecture
+KW  - Transforms
+KW  - Reinforcement learning
+KW  - Routing
+KW  - Stability analysis
+KW  - time-sensitive networking
+KW  - CQF
+KW  - reinforcement learning
+KW  - scheduling algorithm
+DO  - 10.1109/ICCCS55155.2022.9846349
+JO  - 2022 7th International Conference on Computer and Communication Systems (ICCCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 7th International Conference on Computer and Communication Systems (ICCCS)
+Y1  - 22-25 April 2022
+AB  - Cyclic Queuing and Forwarding (CQF, a.k.a IEEE 802.1Qch) has been proposed to satisfy the demands of predictable deterministic latency only related to the number of hops. However, IEEE 802.1Qch only introduces the principle and working mechanism of CQF. There are still many open problems worth exploring to make CQF practical in real dynamic application scenarios. To achieve deterministic end-to-end latency by efficiently allocating the real flows with limited bandwidth resources, this paper proposes a reinforcement learning based joint routing and scheduling algorithm. We transform the CQF into formulated model and orchestrate path in consideration of hardware resources and latency requirements to accommodate more scheduled flows. Experimental results show that the proposed algorithm can achieve good performance in transmission stability and latency certainty than RIP.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Substation Switch Traffic Scheduling Model Based on Time-Sensitive Network
+T2  - 2022 9th International Forum on Electrical Engineering and Automation (IFEEA)
+SP  - 696
+EP  - 700
+AU  - H. Liang
+AU  - L. Zhang
+AU  - C. Tang
+AU  - L. Yuan
+AU  - Y. Tang
+PY  - 2022
+KW  - Substations
+KW  - Sensitivity
+KW  - Switches
+KW  - Quality of service
+KW  - Jitter
+KW  - Reliability engineering
+KW  - Scheduling
+KW  - Intelligent Substation
+KW  - Time-Sensitive Network
+KW  - Traffic Scheduling
+KW  - Frame Preemption
+KW  - Low Latency Jitter
+DO  - 10.1109/IFEEA57288.2022.10037945
+JO  - 2022 9th International Forum on Electrical Engineering and Automation (IFEEA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 9th International Forum on Electrical Engineering and Automation (IFEEA)
+Y1  - 4-6 Nov. 2022
+AB  - In order to solve the contradiction between data traffic growth and real-time control information in intelligent substation, this paper proposes a time-sensitive network (TSN)based intelligent substation switch traffic scheduling model, which uses new technologies to dispatch data link layer traffic. This technology adopts the idea of monopolizing and sharing the time slot window for traffic transmission time, using the mechanism of frame preemption in the traffic transmission channel, realizing traffic classification according to the traffic characteristics, and is used to improve the traffic scheduling mechanism of the process layer of the intelligent substation on the traditional switch, improve the effect of determining the time-sensitive traffic delay scheduling, provide traffic transmission services with low latency jitter for the Ethernet network of the intelligent substation, and put forward a new idea for the improvement of the service quality (QoS) of the power system.
+ER  - 
+
+TY  - CONF
+TI  - Upper Bound Analysis of TSN End-to-End Delay Based on Network Calculus
+T2  - 2023 5th International Conference on Natural Language Processing (ICNLP)
+SP  - 394
+EP  - 399
+AU  - J. Guo
+AU  - H. Wang
+AU  - Z. Wang
+AU  - Z. Chang
+PY  - 2023
+KW  - Knowledge engineering
+KW  - Analytical models
+KW  - Upper bound
+KW  - Logic gates
+KW  - Calculus
+KW  - Natural language processing
+KW  - Delays
+KW  - Time-sensitive networks
+KW  - end-to-end delay
+KW  - deterministic network calculus
+KW  - gate control lists
+DO  - 10.1109/ICNLP58431.2023.00078
+JO  - 2023 5th International Conference on Natural Language Processing (ICNLP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 5th International Conference on Natural Language Processing (ICNLP)
+Y1  - 24-26 March 2023
+AB  - To analyze the upper bound of end-to-end delay in time-sensitive networks, an improved calculation model of end-to-end transmission delay based on network calculus is derived according to the relevant knowledge of deterministic network calculus. The effects of GCL gate opening time, scheduling period, the overlap of transmission Windows, and different priorities of traffic on the delay index were analyzed experimentally, and the end-to-end worst-case transmission delay of time triggered (TT) traffic in the whole process of traffic transmission was calculated. Finally, through comprehensive analysis of GCL and reasonable configuration of parameters, good transmission capacity of the communication network is ensured, which provides a theoretical basis for efficient deployment of the communication network and optimal allocation of network resources.
+ER  - 
+
+TY  - CONF
+TI  - Time-Aware Traffic Scheduling with Virtual Queues in Time-Sensitive Networking
+T2  - 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM)
+SP  - 604
+EP  - 607
+AU  - J. Xue
+AU  - G. Shou
+AU  - Y. Liu
+AU  - Y. Hu
+AU  - Z. Guo
+PY  - 2021
+KW  - Schedules
+KW  - Job shop scheduling
+KW  - Automation
+KW  - Scheduling algorithms
+KW  - Simulation
+KW  - Packet loss
+KW  - Delays
+KW  - Time-Aware Scheduling
+KW  - Time-Sensitive Networking
+KW  - virtual queues
+DO  - 
+JO  - 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM)
+IS  - 
+SN  - 1573-0077
+VO  - 
+VL  - 
+JA  - 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM)
+Y1  - 17-21 May 2021
+AB  - Time-Sensitive Networking is a promising technology that supports deterministic services with bounded delay, low packet delay variation, and low packet loss. Time-Sensitive Networking consists of several components, in which traffic scheduling plays an important role to provide the delay guarantee. The traffic scheduling on the level of flow is challenging for dense traffic demands. In this paper, we propose a time-aware traffic scheduling scheme based on network virtualization to schedule a large number of flows. In the scheme, the physical queues of a network node are abstracted as virtual queues, which isolate each flow with a time offset parameter. A scheduling algorithm is designed into two stages of virtual queues mapping and schedule computation. The simulation results in a use case of industrial automation show the effectiveness of the proposed scheme.
+ER  - 
+
+TY  - CONF
+TI  - Token Regulated Credit Based Shaper for Time Sensitive Networks
+T2  - 2020 International Conference on Computer, Information and Telecommunication Systems (CITS)
+SP  - 1
+EP  - 6
+AU  - B. Fang
+AU  - Q. Li
+AU  - H. Hu
+AU  - H. Xiong
+PY  - 2020
+KW  - Quality of service
+KW  - IEEE Standards
+KW  - Delays
+KW  - Calculus
+KW  - Bandwidth
+KW  - Standards
+KW  - Real-time systems
+KW  - Time-Sensitive Networks
+KW  - Quality of Service
+KW  - Shaper
+KW  - Simulation
+DO  - 10.1109/CITS49457.2020.9232618
+JO  - 2020 International Conference on Computer, Information and Telecommunication Systems (CITS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Computer, Information and Telecommunication Systems (CITS)
+Y1  - 5-7 Oct. 2020
+AB  - To fulfill the real-time requirement in various scenarios, such as Industrial Automation and Control Systems (IACS) and Advanced Driver Assistance Systems (ADAS), Time-Sensitive Networking (TSN) Task Group (TG) have been proposing flow control strategies. As an implementation of per-class flow control strategy, Credit Based Shaping (CBS) space out the Audio/Video (A/V) frames to reduce bursting and bunching as well as protect A/V frames from being interfered. However, CBS provides coarse-grained service, which means the real-time performance for each flow cannot be provided individually. In this paper, we propose Token Regulated Credit Based Shaper (TRCBS), which is an extension of CBS. Unlike CBS, TRCBS operates each flow and can provide the fine-grained service. Based on simulations and evaluations operated in OMNeT++, the performance of TRCBS was qualified analyzed. Furthermore, the comparison between CBS and TRCBS was shown. And TRCBS can even provide better real-time guarantee as well as fine-grained QoS for the flows in the network.
+ER  - 
+
+TY  - CONF
+TI  - Learning-based Automatic Report Generation for Scheduling Performance in Time-Sensitive Networking
+T2  - 2022 IEEE 20th International Conference on Industrial Informatics (INDIN)
+SP  - 566
+EP  - 571
+AU  - L. Li
+AU  - Q. Xu
+AU  - Y. Zhang
+AU  - L. Xu
+AU  - Y. Chen
+AU  - C. Chen
+PY  - 2022
+KW  - Performance evaluation
+KW  - Training
+KW  - Job shop scheduling
+KW  - Scheduling algorithms
+KW  - Production equipment
+KW  - Data models
+KW  - Real-time systems
+KW  - automatic report generation
+KW  - performance evaluation
+KW  - OPC UA
+KW  - time-sensitive networking
+DO  - 10.1109/INDIN51773.2022.9976085
+JO  - 2022 IEEE 20th International Conference on Industrial Informatics (INDIN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 20th International Conference on Industrial Informatics (INDIN)
+Y1  - 25-28 July 2022
+AB  - As the global industrial upgrading requires higher reliability and real-time performance of data communication, Time-sensitive Networking (TSN) has been widely studied. Al-though many TSN scheduling algorithms are designed, there is no standardized analysis report after scheduling and comprehensive scheduling performance evaluation. This paper presents a complete automatic report generation system to analyze the scheduling performance. To standardize various data in TSN-based manufacturing, a uniform auto-generated report model is defined based on the Open Platform Communication Unified Architecture (OPC UA). A learning-based performance evaluation (LPE) method is established to comprehensively analyze the performance of TSN scheduling. In LPE, analytical hierarchy process (AHP) and entropy weight method (EWM) is adopted to optimize the weight distribution of performance indexes objectively, and convolutional neural network (CNN) is used to get the final evaluation result rapidly. Compared with the previous evaluation methods, simulations show the training time of the evaluation method is significantly reduced.
+ER  - 
+
+TY  - CONF
+TI  - Cost-effective Delay-bounded Topology Construction of Time-Sensitive Networking for Industrial Internet Applications
+T2  - 2022 Asia Communications and Photonics Conference (ACP)
+SP  - 1124
+EP  - 1126
+AU  - H. Ma
+AU  - G. Shou
+AU  - J. Xue
+AU  - Y. Liu
+AU  - Y. Hu
+PY  - 2022
+KW  - Network topology
+KW  - Asia
+KW  - Optical fiber networks
+KW  - Topology
+KW  - Delays
+KW  - Internet
+KW  - Photonics
+KW  - Bounded delay
+KW  - Time-Sensitive networking
+KW  - Complex network
+KW  - Deterministic applications
+DO  - 10.1109/ACP55869.2022.10088645
+JO  - 2022 Asia Communications and Photonics Conference (ACP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 Asia Communications and Photonics Conference (ACP)
+Y1  - 5-8 Nov. 2022
+AB  - We propose a cost-effective delay-bounded topology construction method that expands local network via preferential attachment with delay constraint. The experiments show that the method is effective, and the node degree is regulated with fitness parameter.
+ER  - 
+
+TY  - CONF
+TI  - High-Level Availability Analysis of FPGA-Based Time-Sensitive Networks
+T2  - 2019 17th IEEE International New Circuits and Systems Conference (NEWCAS)
+SP  - 1
+EP  - 4
+AU  - A. A. Atallah
+AU  - G. B. Hamad
+AU  - O. A. Mohamed
+AU  - M. Boukadoum
+PY  - 2019
+KW  - Time-Sensitive Networks
+KW  - Availability Analysis
+KW  - Single Event Upset
+KW  - Statistical Model Checking
+DO  - 10.1109/NEWCAS44328.2019.8961274
+JO  - 2019 17th IEEE International New Circuits and Systems Conference (NEWCAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 17th IEEE International New Circuits and Systems Conference (NEWCAS)
+Y1  - 23-26 June 2019
+AB  - The IEEE Time-Sensitive Network (TSN) provides a scalable solution for real-time communication using Ethernet technology. In this paper, we address the availability of FPGA-based TSN under a harsh radiation environment. In particular, the impact of periodic repair mechanisms and the transmission redundancy on the communication availability is investigated. To achieve our goal, we propose a Timed Automata (TA) model of the TSN to capture the impact of periodic repair on communication reliability. As a result, the proposed analysis framework allows the designer to set up the appropriate repair cycle and redundancy level according to the application criticality and required system reliability. To demonstrate the proposed analysis framework, we consider a case study based on the switched network deployed in the Orion Multi-Purpose Crew Vehicle (MPCV) American-European interplanetary spacecraft. Our analysis results show a specific optimal scrubbing rate for each radiation environment regardless the network utilization conditions.
+ER  - 
+
+TY  - CONF
+TI  - Deterministic Overlay Networking for Edge Computing Distributed Cloud in Optical Networks
+T2  - 2023 Asia Communications and Photonics Conference/2023 International Photonics and Optoelectronics Meetings (ACP/POEM)
+SP  - 1
+EP  - 5
+AU  - M. Liu
+AU  - G. Shou
+AU  - J. Xue
+AU  - M. Guo
+AU  - H. Li
+AU  - Y. Liu
+AU  - Y. Hu
+PY  - 2023
+KW  - Overlay networks
+KW  - Scalability
+KW  - Distributed databases
+KW  - Prototypes
+KW  - Optical fiber networks
+KW  - Logic gates
+KW  - Jitter
+KW  - time-sensitive networking
+KW  - software-defined networking
+KW  - distributed cloud
+KW  - edge computing
+DO  - 10.1109/ACP/POEM59049.2023.10368864
+JO  - 2023 Asia Communications and Photonics Conference/2023 International Photonics and Optoelectronics Meetings (ACP/POEM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 Asia Communications and Photonics Conference/2023 International Photonics and Optoelectronics Meetings (ACP/POEM)
+Y1  - 4-7 Nov. 2023
+AB  - We propose a SD-TSN-based overlay network scheme to realize deterministic transmission for edge computing distributed cloud in optical network. A gateway is implemented to establish data transmission tunnels among clouds with low latency and jitter.
+ER  - 
+
+TY  - CONF
+TI  - Performance Assessment of the IEEE 802.1Q in Automotive Applications
+T2  - 2019 AEIT International Conference of Electrical and Electronic Technologies for Automotive (AEIT AUTOMOTIVE)
+SP  - 1
+EP  - 6
+AU  - G. Patti
+AU  - L. L. Bello
+PY  - 2019
+KW  - Standards
+KW  - Streaming media
+KW  - Delays
+KW  - Automotive engineering
+KW  - Telematics
+KW  - Jitter
+KW  - Ethernet
+KW  - IEEE 802.1
+KW  - Time-Sensitive Networking (TSN)
+KW  - Automotive Communications
+KW  - Real-time networks
+KW  - In-vehicle networks
+KW  - Performance evaluation
+DO  - 10.23919/EETA.2019.8804536
+JO  - 2019 AEIT International Conference of Electrical and Electronic Technologies for Automotive (AEIT AUTOMOTIVE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 AEIT International Conference of Electrical and Electronic Technologies for Automotive (AEIT AUTOMOTIVE)
+Y1  - 2-4 July 2019
+AB  - Ethernet is nowadays a promising communication technology for automotive applications as, comparing with the existing in-vehicle networks, it offers high bandwidth and a significant reduction of cabling costs, while meeting the EMC/EMI requirements of automotive communications. The IEEE 802.1Q standard is one of the base standards of Time-Sensitive Networking. It offers several benefits, such as the real-time support, as it provides bounded latency to time-constrained traffic classes, with zero jitter and congestion-free transmissions, and the capability to handle multiple traffic classes on the same channel. The IEEE 802.1Q standard specifies multiple features, that support different ways to handle the transmission of Ethernet frames. In this paper a comparative performance assessment of three network configurations defined in the IEEE 802.1Q standard for automotive applications are presented. The assessment results are obtained using the OMNeT++ framework. The comparison between the results of these three different network configurations, using realistic traffic patterns, provides a quantitative evaluation of the network performance in terms of maximum end-to-end delays and absolute jitter.
+ER  - 
+
+TY  - CONF
+TI  - Queueing Delay Analysis of Mixed Traffic in Time Sensitive Networks
+T2  - 2021 6th International Conference on Control, Robotics and Cybernetics (CRC)
+SP  - 327
+EP  - 332
+AU  - R. Jurdi
+AU  - J. Guo
+AU  - K. J. Kim
+AU  - P. Orlik
+AU  - Y. Nagai
+PY  - 2021
+KW  - Computational modeling
+KW  - Industrial control
+KW  - Markov processes
+KW  - Robot sensing systems
+KW  - Probability distribution
+KW  - Delays
+KW  - Servers
+KW  - Time sensitive networking
+KW  - queueing delay
+KW  - mixed traffic
+KW  - (M+D)/M/1 queue
+KW  - QoS
+DO  - 10.1109/CRC52766.2021.9620150
+JO  - 2021 6th International Conference on Control, Robotics and Cybernetics (CRC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 6th International Conference on Control, Robotics and Cybernetics (CRC)
+Y1  - 9-11 Oct. 2021
+AB  - In many emerging Time Sensitive Networking (TSN) applications such as industrial control and automotive, periodic traffic with end-to-end latency constraints is buffered with nonmission-critical aperiodic traffic. As queueing delay is a central component of end-to-end latency, we study the effect of aperiodic traffic on the queueing delay of periodic traffic via characterizing the probability distribution of queue size and delay in an (M + D)/M/1 queue, a queue with Poisson and periodic inputs, infinite waiting capacity and a single memoryless server. Since obtaining the closed form distributions of the queue size and delay is intractable, we approximate the behavior of the (M + D)/M/1 queue when the service and arrival rates are close. We use a Markov chain with a quasitoeplitz matrix, enabling us to use an existing technique to study this class of Markov chains. We determine the transition matrix of the Markov chain, investigate the setting in which the approximation works well, and compute the stationary distribution. We plot and compare the stationary distributions of queue size and delay between the (M + D)/M/1 queue and our model; we observe that our model is a favorable match.
+ER  - 
+
+TY  - JOUR
+TI  - Data Flow Control for Network Load Balancing in IEEE Time Sensitive Networks for Automation
+T2  - IEEE Access
+SP  - 14044
+EP  - 14060
+AU  - T. Weichlein
+AU  - S. Zhang
+AU  - P. Li
+AU  - X. Zhang
+PY  - 2023
+KW  - Automation
+KW  - Delays
+KW  - Routing protocols
+KW  - Load management
+KW  - Prediction algorithms
+KW  - Throughput
+KW  - Synchronization
+KW  - Sensitivity
+KW  - Timing analysis
+KW  - Automation networks
+KW  - data flow control
+KW  - load balancing
+KW  - time sensitive networks
+DO  - 10.1109/ACCESS.2023.3243286
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - IEEE time sensitive networks (TSN) offer redundant paths for automation networks that are essential preconditions for network load balancing (NLB) or distribution. They also provide several traffic shapers and schedulers with different impacts on the data flow control. The selection of the right traffic shaper or scheduler for an automation network is challenging. Their influence depends on various network parameters such as network extension, network cycles, application cycles, and the amount of data per traffic class and network cycle. In this study, data flow control for NLB in automation TSN using different traffic shapers and schedulers was investigated. The effects of the network parameters on the shapers and schedulers were derived and imported into the data flow control model of the automation network. The sample networks were simulated, and performance comparisons were made. The results show that the enhancements for scheduled traffic (EST), strict priority queuing (SPQ), and the combination of SPQ with frame preemption (FP) are better scheduler selections in connection with larger networks, fast network cycles, and fast application cycles. The cyclic queuing and forwarding (CQF) shaper and asynchronous traffic shaper (ATS) are rather an alternative for load control in small networks or in conjunction with slow applications.
+ER  - 
+
+TY  - CONF
+TI  - Formal and simulation-based timing analysis of Industrial-Ethernet sercos III over TSN
+T2  - 2017 IEEE/ACM 21st International Symposium on Distributed Simulation and Real Time Applications (DS-RT)
+SP  - 1
+EP  - 8
+AU  - S. Nsaibi
+AU  - L. Leurs
+AU  - H. D. Schotten
+PY  - 2017
+KW  - Topology
+KW  - Synchronization
+KW  - Real-time systems
+KW  - Protocols
+KW  - Delays
+KW  - Network topology
+KW  - Switches
+KW  - Industrial-Ethernet
+KW  - Time-Sensitive Networking
+KW  - Gigabit
+KW  - Topologies
+KW  - OMNEST Network Simulation
+KW  - Real-Time Communication
+KW  - End-To-End Latency
+DO  - 10.1109/DISTRA.2017.8167670
+JO  - 2017 IEEE/ACM 21st International Symposium on Distributed Simulation and Real Time Applications (DS-RT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE/ACM 21st International Symposium on Distributed Simulation and Real Time Applications (DS-RT)
+Y1  - 18-20 Oct. 2017
+AB  - Time-Sensitive Networking (TSN) is becoming more important in automotive and industrial sectors. There is no clear strategy how to use TSN to improve and migrate the established real-time protocols without excluding legacy devices. This paper presents a realistic concept to integrate TSN into automation networks. We choose Sercos as a deterministic Industrial-Ethernet protocol to be extended with the TSN Standards IEEE 802.1AS-Rev and IEEE 802.1Qbv. By simulating the Sercos over TSN network, we investigate the impact of integrating a TSN-capable switch in a Sercos network to enable a topology extension from line/ring to star/tree. By comparing the impact of: increasing the data rate and topology extension, we demonstrate the improvement of Industrial-Ethernet timing performance.
+ER  - 
+
+TY  - CONF
+TI  - Real-time capable CAN to AVB ethernet gateway using frame aggregation and scheduling
+T2  - 2015 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+SP  - 61
+EP  - 66
+AU  - C. Herber
+AU  - A. Richter
+AU  - T. Wild
+AU  - A. Herkersdorf
+PY  - 2015
+KW  - Logic gates
+KW  - Bandwidth
+KW  - Real-time systems
+KW  - Delays
+KW  - Automotive engineering
+KW  - Payloads
+KW  - Protocols
+KW  - Audio/Video Bridging
+KW  - Controller Area Network
+KW  - automotive electronics
+KW  - gateway
+DO  - 10.7873/DATE.2015.0266
+JO  - 2015 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+IS  - 
+SN  - 1558-1101
+VO  - 
+VL  - 
+JA  - 2015 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+Y1  - 9-13 March 2015
+AB  - Ethernet is a key technology to satisfy the communication requirements of future automotive embedded systems. Audio/Video Bridging (AVB) Ethernet is a set of IEEE standards that allows synchronous and time-sensitive communication. It is the favored candidate for backbone and camera applications, but is not expected to replace Controller Area Network (CAN). Instead, both have to coexist in future architectures. No research has been conducted regarding CAN to AVB gateways, and approaches for similar protocols are either not fit or inefficient. In this paper, we present a CAN to AVB Ethernet gateway that allows efficient, real-time capable forwarding. We aggregate and schedule multiple CAN frames into a single AVB Ethernet frame to minimize bandwidth requirements. We evaluate static and dynamic scheduling approaches and determine optimal gateway configurations, showing that the necessary bandwidth reservation is reduced by 72% compared to similar approaches.
+ER  - 
+
+TY  - CONF
+TI  - Design and Evaluation of a Low-Latency AVB Ethernet Endpoint Based on ARM SoC
+T2  - 2015 IEEE 17th International Conference on High Performance Computing and Communications, 2015 IEEE 7th International Symposium on Cyberspace Safety and Security, and 2015 IEEE 12th International Conference on Embedded Software and Systems
+SP  - 1128
+EP  - 1134
+AU  - C. Herber
+AU  - A. Saeed
+AU  - A. Herkersdorf
+PY  - 2015
+KW  - Synchronization
+KW  - Hardware
+KW  - Automotive engineering
+KW  - Software
+KW  - Random access memory
+KW  - Field programmable gate arrays
+KW  - Linux
+KW  - Audio Video Bridging
+KW  - Ethernet
+KW  - Automotive Electronics
+DO  - 10.1109/HPCC-CSS-ICESS.2015.52
+JO  - 2015 IEEE 17th International Conference on High Performance Computing and Communications, 2015 IEEE 7th International Symposium on Cyberspace Safety and Security, and 2015 IEEE 12th International Conference on Embedded Software and Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE 17th International Conference on High Performance Computing and Communications, 2015 IEEE 7th International Symposium on Cyberspace Safety and Security, and 2015 IEEE 12th International Conference on Embedded Software and Systems
+Y1  - 24-26 Aug. 2015
+AB  - Communication requirements in automotive electronics are steadily increasing. To satisfy this demand and enable future automotive embedded architectures, new interconnect technologies are needed. Audio Video Bridging (AVB) Ethernet is a promising candidate to accomplish this as it features timesensitive and synchronous communication in combination with high bit rates. However, there is a lack of commercial products as well as research regarding AVB-capable system-on-chips (SoCs). In this paper, we investigate how and at what cost a legacy Ethernet MAC can be enhanced into an AVB Ethernet controller. Using FPGA prototyping and a real system based on an ARM Cortex-A9 SoC running Linux, we conducted a series of experiments to evaluate important performance metrics and to validate our design decisions. We achieved frame release latencies of less than 6 μs and time-synchronization with an endpoint-induced inaccuracy of up to 8 μs.
+ER  - 
+
+TY  - CONF
+TI  - Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks
+T2  - 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+SP  - 1
+EP  - 9
+AU  - X. Dai
+AU  - S. Zhao
+AU  - Y. Jiang
+AU  - X. Jiao
+AU  - X. S. Hu
+AU  - W. Chang
+PY  - 2020
+KW  - Scheduling
+KW  - Switches
+KW  - Logic gates
+KW  - Schedules
+KW  - Real-time systems
+KW  - Control systems
+KW  - Delays
+KW  - Time-sensitive networks
+KW  - real-time communication
+KW  - fixed-priority scheduling
+KW  - scheduling-controller co-design
+DO  - 
+JO  - 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+IS  - 
+SN  - 1558-2434
+VO  - 
+VL  - 
+JA  - 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+Y1  - 2-5 Nov. 2020
+AB  - Time-sensitive networking (TSN) is a set of standardised communication protocols developed under the IEEE 802.1 working group. TSN aims to support deterministic communication based on network schedules that are distributively configured. It is widely considered as the future in-vehicle network solution for highly automated driving, where the requirement on timing guarantee is alongside the demand of high communication bandwidth. In this work, we study a setting of periodic control and non-control packets, with implicit and arbitrary deadlines, respectively. As the FIFO (first-in, first-out) queues in the 802.1Qbv switch incur long delay in the worst case, which prevents the control tasks from achieving short sampling periods and thus impedes control performance optimisation, we propose the first fixed-priority scheduling (FPS) approach for TSN by leveraging its gate control features. In this context, we develop a finer-grained frame-level response time analysis, which provides a tighter bound than the conventional packet-level analysis. Building upon FPS and the above analysis, we formulate a co-design optimisation problem to decide the sampling periods and poles of real-time controllers with settling time as the objective to minimise, whilst satisfying the schedulability constraint.
+ER  - 
+
+TY  - JOUR
+TI  - Ultra-Low Latency (ULL) Networks: The IEEE TSN and IETF DetNet Standards and Related 5G ULL Research
+T2  - IEEE Communications Surveys & Tutorials
+SP  - 88
+EP  - 145
+AU  - A. Nasrallah
+AU  - A. S. Thyagaturu
+AU  - Z. Alharbi
+AU  - C. Wang
+AU  - X. Shao
+AU  - M. Reisslein
+AU  - H. ElBakoury
+PY  - 2019
+KW  - 5G mobile communication
+KW  - Wireless communication
+KW  - Delays
+KW  - Protocols
+KW  - Jitter
+KW  - Quality of service
+KW  - Deterministic networking (DetNet)
+KW  - preemption
+KW  - time-sensitive networking (TSN)
+KW  - time synchronization
+KW  - ultra-low delay
+DO  - 10.1109/COMST.2018.2869350
+JO  - IEEE Communications Surveys & Tutorials
+IS  - 1
+SN  - 1553-877X
+VO  - 21
+VL  - 21
+JA  - IEEE Communications Surveys & Tutorials
+Y1  - Firstquarter 2019
+AB  - Many network applications, e.g., industrial control, demand ultra-low latency (ULL). However, traditional packet networks can only reduce the end-to-end latencies to the order of tens of milliseconds. The IEEE 802.1 time sensitive networking (TSN) standard and related research studies have sought to provide link layer support for ULL networking, while the emerging IETF deterministic networking (DetNet) standards seek to provide the complementary network layer ULL support. This paper provides an up-to-date comprehensive survey of the IEEE TSN and IETF DetNet standards and the related research studies. The survey of these standards and research studies is organized according to the main categories of flow concept, flow synchronization, flow management, flow control, and flow integrity. ULL networking mechanisms play a critical role in the emerging fifth generation (5G) network access chain from wireless devices via access, backhaul, and core networks. We survey the studies that specifically target the support of ULL in 5G networks, with the main categories of fronthaul, backhaul, and network management. Throughout, we identify the pitfalls and limitations of the existing standards and research studies. This survey can thus serve as a basis for the development of standards enhancements and future ULL research studies that address the identified pitfalls and limitations.
+ER  - 
+
+TY  - JOUR
+TI  - Industrial Communication Systems and Their Future Challenges: Next-Generation Ethernet, IIoT, and 5G
+T2  - Proceedings of the IEEE
+SP  - 944
+EP  - 961
+AU  - S. Vitturi
+AU  - C. Zunino
+AU  - T. Sauter
+PY  - 2019
+KW  - Wireless sensor networks
+KW  - Real-time systems
+KW  - Protocols
+KW  - Ethernet
+KW  - Industrial communication
+KW  - Wireless communication
+KW  - Manufacturing automation
+KW  - Determinism
+KW  - industrial communication systems
+KW  - Industrial Internet of Things (IIoT)
+KW  - industrial wireless networks
+KW  - real time
+KW  - time-sensitive networking (TSN)
+DO  - 10.1109/JPROC.2019.2913443
+JO  - Proceedings of the IEEE
+IS  - 6
+SN  - 1558-2256
+VO  - 107
+VL  - 107
+JA  - Proceedings of the IEEE
+Y1  - June 2019
+AB  - Industrial communication systems represent one of the most important innovations of the last decades in the context of factory and process automation systems. They are networks specifically designed to cope with the tight requirements of these challenging application fields such as real time, determinism, and reliability. Moreover, industrial networks are often deployed in environments characterized by strong electromagnetic interference, mechanical stress, critical temperature, and humidity. Over the last three decades, different classes of industrial networks have been developed according to changing requirements and available communication and information technologies. In this paper, we first provide an account of the state of the art, reviewing classical fieldbuses, real-time Ethernet networks, and industrial wireless networks, along with their most relevant features, applications, and performance figures. We introduce the complex standardization framework and analyze the market status and assumptions for future development. In the second part, we address the future perspectives focusing on new technologies, standards, and fields of application. In particular, we consider the time-sensitive networking (TSN) family of standards, Industrial Internet-of-Things (IIoT) systems, high-performance wireless LANs, industrial applications of cellular networks, and Ethernet networks for automotive communication.
+ER  - 
+
+TY  - CONF
+TI  - NeSTiNg: Simulating IEEE Time-sensitive Networking (TSN) in OMNeT++
+T2  - 2019 International Conference on Networked Systems (NetSys)
+SP  - 1
+EP  - 8
+AU  - J. Falk
+AU  - D. Hellmanns
+AU  - B. Carabelli
+AU  - N. Nayak
+AU  - F. Dürr
+AU  - S. Kehrer
+AU  - K. Rothermel
+PY  - 2019
+KW  - Logic gates
+KW  - IEEE Standards
+KW  - Real-time systems
+KW  - Schedules
+KW  - Delays
+KW  - Analytical models
+KW  - Time-sensitive Networking (TSN)
+KW  - real-time communication
+KW  - network simulator
+KW  - scheduling
+KW  - quality of service
+DO  - 10.1109/NetSys.2019.8854500
+JO  - 2019 International Conference on Networked Systems (NetSys)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Networked Systems (NetSys)
+Y1  - 18-21 March 2019
+AB  - IEEE 802.1 Time-sensitive Networking (TSN) enables real-time communication with deterministically bounded network delay and jitter over standard IEEE 802.3 networks (“Ethernet”). In particular, TSN specifies a time-triggered scheduling mechanism in IEEE Std 802.1Qbv implemented by switches to control when outgoing queues get access to switch ports. Besides this time-triggered scheduling mechanism, other scheduling mechanisms can be active in the network at the same time including priority queuing and a credit-based shaper. Moreover, further supporting mechanisms such as the possibility to interrupt frames already in transmission (frame preemption) are specified by the TSN standards. Overall, this leads to a complex network infrastructure transporting both, real-time and non-real-time traffic in one converged network, making it hard to analyze the behavior of converged networks. To facilitate the analysis of TSN networks, we present TSN-specific extensions to the popular OMNeT++/INET framework for network simulations in this paper including, in particular, the time-triggered scheduling mechanism of IEEE Std 802.1Qbv. Besides the design of the TSN simulator, we present a proof-of-concept implementation and exemplary evaluation of TSN networks.
+ER  - 
+
+TY  - JOUR
+TI  - Timely Survey of Time-Sensitive Networking: Past and Future Directions
+T2  - IEEE Access
+SP  - 142506
+EP  - 142527
+AU  - Y. Seol
+AU  - D. Hyeon
+AU  - J. Min
+AU  - M. Kim
+AU  - J. Paek
+PY  - 2021
+KW  - Ethernet
+KW  - Protocols
+KW  - Real-time systems
+KW  - Synchronization
+KW  - Task analysis
+KW  - Reliability
+KW  - Switches
+KW  - Time-sensitive networking (TSN)
+KW  - industrial network
+KW  - real-time Ethernet
+KW  - local area network (LAN)
+KW  - the Internet of Things (IoT)
+DO  - 10.1109/ACCESS.2021.3120769
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Time-sensitive networking (TSN) is a next generation local area network technology for the coexistence of information and operation technology, targeted to industrial automation, in-vehicle networks, and avionic networks in the industrial Internet of Things. This paper presents an up-to-date survey of the research efforts in TSN over the past few years, including the latest efforts in standardization by the IEEE. We review more than 170 TSN-related academic research papers published by major academic publishers and categorize these studies according to the topic, purpose, and methodology, analyzing research trends in TSN. The TSN core function deals with the functional and internal perspective to achieve ultra-low latency/jitter and ultra-reliability. Network management includes work with macroscopic and external views, such as configuration, management, and maintenance of TSN-enabled networks. In particular, we analyze the characteristics of existing studies that have evaluated the TSN network and propose future directions to advance the limits of TSN for real-world deployment. We aim this study to be a cornerstone for fellow and new researchers.
+ER  - 
+
+TY  - JOUR
+TI  - 5G New Radio Fronthaul Network Design for eCPRI-IEEE 802.1CM and Extreme Latency Percentiles
+T2  - IEEE Access
+SP  - 82218
+EP  - 82230
+AU  - G. Otero Pérez
+AU  - D. Larrabeiti López
+AU  - J. A. Hernández
+PY  - 2019
+KW  - 5G mobile communication
+KW  - Delays
+KW  - Ethernet
+KW  - Jitter
+KW  - Bandwidth
+KW  - Baseband
+KW  - 5G
+KW  - C-RAN
+KW  - delay percentiles
+KW  - eCPRI
+KW  - fronthaul networks
+KW  - G/G/1
+KW  - IEEE 802.1CM
+KW  - N*D/D/1
+KW  - new radio (NR)
+KW  - time-sensitive networking (TSN)
+DO  - 10.1109/ACCESS.2019.2923020
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 7
+VL  - 7
+JA  - IEEE Access
+Y1  - 2019
+AB  - Packet-switched fronthaul networks are often designed following the rule that the worst-case network delay must be below a given target end-to-end network latency budget. However, the theoretical maximum delay can be too pessimistic in particular scenarios, where the latency budget needs to be a very small or there is a need to stretch the distance between the radio heads and the baseband units. In this paper, we propose to use a very high packet delay percentiles as an alternative to the maximum theoretical delay in order to stretch the range of the fronthaul links at the expense of a higher frame loss ratio (FLR), within the limits established by eCPRI and the IEEE 802.1 CM. Several methods to estimate the percentiles for the IU/IID eCPRI functional splits are analyzed. Namely, G/G/1 and N*D/D/1 queueing models are tested and compared with simulation as dimensioning tools. The results support that the N*D/D/1 queue is able to model the behavior of a packet-switch fronthaul aggregator using the eCPRI standard for 5g New Radio (NR) Fronthaul streams and can be used as a tool to dimension the length of the links. The experiments show that the fronthaul links' lengths can be increased by 60% and 10% for 50- and 100-MHz NR channels, respectively, while keeping the latency budget and frame loss ratio within the IEEE 802.1 CM limits.
+ER  - 
+
+TY  - JOUR
+TI  - Online Scheduling for Dynamic VM Migration in Multicast Time-Sensitive Networks
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 3778
+EP  - 3788
+AU  - Q. Yu
+AU  - H. Wan
+AU  - X. Zhao
+AU  - Y. Gao
+AU  - M. Gu
+PY  - 2020
+KW  - Job shop scheduling
+KW  - Schedules
+KW  - Real-time systems
+KW  - Routing
+KW  - Dynamic scheduling
+KW  - Multicast algorithms
+KW  - Processor scheduling
+KW  - Online scheduling
+KW  - real time
+KW  - time-sensitive network (TSN)
+KW  - virtual machine (VM) migration
+DO  - 10.1109/TII.2019.2925538
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 6
+SN  - 1941-0050
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - June 2020
+AB  - With the development of hardware virtualization and cloud computing, modern industry has a tendency to upgrade from the traditional industrial networks to virtual machine (VM) based networks. To provide firm latency guarantees for control messages in these networks, the time-sensitive network (TSN) is a promising technology due to its determinacy for real-time applications. However, TSN faces the challenge of providing a rapid response to dynamic transmission requirement changes incurred by VM migrations. In this paper, we proposed an online scheduling approach to deal with dynamic VM migrations in multicast TSN. In this approach, we devise a novel online scheduling framework [minimal distance tree (MDT) construction - heuristic breadth first search] containing an offline scheduling phase and an online rescheduling phase. While the offline phase introduces a MDT to increase reusable scheduling results, the online phase proposes a heuristic scheduling approach to reuse the results of the offline phase as much as possible to accelerate the rescheduling process. Experiments show that our framework can provide a rapid response to dynamic VM migrations compared with the existing approaches where the amount of control data does not exceed 50% of the bandwidth.
+ER  - 
+
+TY  - JOUR
+TI  - An Intelligent Deterministic Scheduling Method for Ultralow Latency Communication in Edge Enabled Industrial Internet of Things
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 1756
+EP  - 1767
+AU  - Y. Lu
+AU  - L. Yang
+AU  - S. X. Yang
+AU  - Q. Hua
+AU  - A. K. Sangaiah
+AU  - T. Guo
+AU  - K. Yu
+PY  - 2023
+KW  - Job shop scheduling
+KW  - Industrial Internet of Things
+KW  - Bandwidth
+KW  - Low latency communication
+KW  - Schedules
+KW  - Jitter
+KW  - Delays
+KW  - Edge intelligence
+KW  - Industrial Internet of Things (IIoT)
+KW  - scheduling
+KW  - smart industry
+KW  - time sensitive network (TSN)
+KW  - ultralow latency communication
+DO  - 10.1109/TII.2022.3186891
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 2
+SN  - 1941-0050
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Feb. 2023
+AB  - Edge enabled Industrial Internet of Things (IIoT) platform is of great significance to accelerate the development of smart industry. However, with the dramatic increase in real-time IIoT applications, it is a great challenge to support fast response time, low latency, and efficient bandwidth utilization. To address this issue, time sensitive network (TSN) is recently researched to realize low latency communication via deterministic scheduling. To the best of our knowledge, the combinability of multiple flows, which can significantly affect the scheduling performance, has never been systematically analyzed before. In this article, we first analyze the combinability problem. Then, a noncollision theory based deterministic scheduling (NDS) method is proposed to achieve ultralow latency communication for the time-sensitive flows. Moreover, to improve bandwidth utilization, a dynamic queue scheduling (DQS) method is presented for the best-effort flows. Experiment results demonstrate that NDS/DQS can well support deterministic ultralow latency services and guarantee efficient bandwidth utilization.
+ER  - 
+
+TY  - CONF
+TI  - ILP-Based Routing and Scheduling of Multicast Realtime Traffic in Time-Sensitive Networks
+T2  - 2020 IEEE 26th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+SP  - 1
+EP  - 11
+AU  - E. Schweissguth
+AU  - D. Timmermann
+AU  - H. Parzyjegla
+AU  - P. Danielis
+AU  - G. Mühl
+PY  - 2020
+KW  - Routing
+KW  - Schedules
+KW  - Network topology
+KW  - Optimization
+KW  - Runtime
+KW  - Switches
+KW  - Delays
+KW  - Industrial Ethernet
+KW  - joint routing and scheduling
+KW  - Integer Linear Programming
+KW  - ILP
+KW  - time-triggered networks
+KW  - Time-Sensitive Networking
+KW  - TSN
+KW  - hard realtime
+DO  - 10.1109/RTCSA50079.2020.9203662
+JO  - 2020 IEEE 26th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+IS  - 
+SN  - 2325-1301
+VO  - 
+VL  - 
+JA  - 2020 IEEE 26th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+Y1  - 19-21 Aug. 2020
+AB  - Future applications of the Industrial Internet of Things will increasingly depend on the timely exchange of information and data. Time-Sensitive Networking, which is currently being standardized, therefore extends switched Ethernet networks by realtime communication capabilities offering deterministic message delays. In its time-triggered communication variant, a network path needs to be planned for each realtime data flow and corresponding transmission time slots have to be reserved on the network links along that path. In this paper, we present the first joint mathematical model for path routing and time slot scheduling that combines multicast support with an individual transmission scheduling on each link along a flow's path. We provide a formalization as an Integer Linear Programming (ILP) problem and discuss several optimizations to significantly reduce the ILP solver's runtime without affecting the solution quality. In a thorough evaluation, we show the applicability of our approach and analyze the effects and trade-offs of different objective functions.
+ER  - 
+
+TY  - STD
+TI  - IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks
+T2  - IEEE Std 802.1Q-2022 (Revision of IEEE Std 802.1Q-2018)
+SP  - 1
+EP  - 2163
+PY  - 2022
+KW  - IEEE Standards
+KW  - Local area networks
+KW  - Metropolitan area networks
+KW  - Bridge circuits
+KW  - Media Access Protocol
+KW  - Bridged Network
+KW  - IEEE 802.1Q
+KW  - LAN
+KW  - local area network
+KW  - MAC Bridge
+KW  - metropolitan area network
+KW  - MSTP
+KW  - Multiple Spanning Tree Protocol
+KW  - Rapid Spanning Tree Protocol
+KW  - RSTP
+KW  - PBN
+KW  - Provider Bridged Network
+KW  - Shortest Path Bridging Protocol
+KW  - SPB Protocol
+KW  - Time-Sensitive Networking
+KW  - TSN
+KW  - Virtual Bridged Network
+KW  - virtual LAN
+KW  - VLAN Bridge
+DO  - 10.1109/IEEESTD.2022.10004498
+JO  - IEEE Std 802.1Q-2022 (Revision of IEEE Std 802.1Q-2018)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Std 802.1Q-2022 (Revision of IEEE Std 802.1Q-2018)
+Y1  - 22 Dec. 2022
+AB  - This standard specifies how the Media Access Control (MAC) Service is supported by Bridged Networks, the principles of operation of those networks, and the operation of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms. (The PDF of this standard is available at no cost compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Scheduling and Routing for TSN based In-vehicle Networks
+T2  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+SP  - 1
+EP  - 6
+AU  - A. A. Syed
+AU  - S. Ayaz
+AU  - T. Leinmüller
+AU  - M. Chandra
+PY  - 2021
+KW  - Schedules
+KW  - Runtime
+KW  - Conferences
+KW  - Heuristic algorithms
+KW  - Routing
+KW  - Dynamic scheduling
+KW  - Time factors
+KW  - time-sensitive network (TSN)
+KW  - in-vehicle network (IVN)
+KW  - vector bin packing (VBP)
+KW  - area control unit (ACU)
+KW  - telematic control unit (TCU)
+KW  - gate control list (GCL)
+DO  - 10.1109/ICCWorkshops50388.2021.9473810
+JO  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+IS  - 
+SN  - 2694-2941
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+Y1  - 14-23 June 2021
+AB  - The future autonomous vehicle is not only processing the copious amount of indispensable data generated by its onboard sensors but also utilizing the data from other vehicles, roadside unit (RSU) etc. Managing the mixed-criticality data requires intelligent time-sensitive scheduling and routing within the in-vehicle network (IVN) infrastructure. Use-cases related to self-adaptivity (including vehicular communication), partial networking and embedded virtualization require to change the configuration of the IVN at runtime. State-of-the-art IEEE Time-Sensitive Networking (TSN) standards possess a grave challenge in handling runtime reconfigurations. Above mentioned use-cases foster the development of scalable and efficient dynamic scheduling and routing algorithms for TSN based IVN. In this paper, four meticulously designed heuristics are analyzed for dynamic scheduling and routing on-the-fly in TSN based IVN. One of the algorithms, Bottleneck heuristic outperforms others in term of schedulability and response time. It schedules around 16 − 22% more flows as compared to other developed heuristics depending on the network load.
+ER  - 
+
+TY  - JOUR
+TI  - IndustEdge: A Time-Sensitive Networking Enabled Edge-Cloud Collaborative Intelligent Platform for Smart Industry
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 2386
+EP  - 2398
+AU  - Y. Wang
+AU  - S. Yang
+AU  - X. Ren
+AU  - P. Zhao
+AU  - C. Zhao
+AU  - X. Yang
+PY  - 2022
+KW  - Collaboration
+KW  - Cloud computing
+KW  - Industries
+KW  - Emulation
+KW  - Real-time systems
+KW  - Bridges
+KW  - Prototypes
+KW  - Edge cloud collaborative intelligence (ECCI)
+KW  - edge computing platform
+KW  - Industry 4.0
+KW  - smart industry
+KW  - time -sensitive networking (TSN)
+DO  - 10.1109/TII.2021.3104003
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 4
+SN  - 1941-0050
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - April 2022
+AB  - An edge-cloud collaborative intelligent (ECCI) platform is of great significance for the agile development and rapid deployment of ECCI applications, which are essential for realizing smart industry in the era of Industry 4.0. However, the existing platforms lack considering the high real-time latency demand of industrial operations, which severely hinders the development of smart industry and may even lead to severe industrial accidents. To effectively reduce the response latency of industrial applications, in this article, we propose an ECCI platform IndustEdge. It takes time-sensitive networking as the deterministic transport for the link layer, and provides an extensible ECCI orchestration component to reduce the system level latency. Furthermore, IndustEdge has an ECCI algorithm library for different collaborative modes and provides the complete life cycle management for ECCI applications. We implement platforms for both the real-world prototype and emulated-world emulation, and conduct two case studies to evaluate the effectiveness of IndustEdge.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of TSN for Industrial Automation based on Network Calculus
+T2  - 2019 24th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+SP  - 240
+EP  - 247
+AU  - J. Zhang
+AU  - L. Chen
+AU  - T. Wang
+AU  - X. Wang
+PY  - 2019
+KW  - Delays
+KW  - Automation
+KW  - Calculus
+KW  - Ethernet
+KW  - Quality of service
+KW  - Bandwidth
+KW  - Upper bound
+KW  - Time-Sensitive Networking (TSN)
+KW  - Network Calculus (NC)
+KW  - Industrial Automation network
+KW  - Bounded Latency
+KW  - Quality of Service (QoS)
+DO  - 10.1109/ETFA.2019.8869053
+JO  - 2019 24th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 
+VL  - 
+JA  - 2019 24th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+Y1  - 10-13 Sept. 2019
+AB  - Time-Sensitive Networking (TSN) Ethernet is becoming a primary industrial networking technology, since it provides bounded latency capability with broad reaching ecosystem, supporting both real-time communications and non-time-critical communications in a factory. In TSN, QoS-based shaping is a core technology to provide bounded latency. Network calculus is a theory which aims at worst-case performance analysis in the network. In the paper, latency upper bound of TSN for industrial automation scenario is analyzed based on Network Calculus. Credit-based Shaping (CBS) combined with Strict Priority (SP) is used as the specific QoS-based shaping mechanism of TSN. Relating factors that influence the latency upper bound of TSN are also studied.
+ER  - 
+
+TY  - JOUR
+TI  - Bandwidth Allocation of Stream-Reservation Traffic in TSN
+T2  - IEEE Transactions on Network and Service Management
+SP  - 741
+EP  - 755
+AU  - E. Li
+AU  - F. He
+AU  - Q. Li
+AU  - H. Xiong
+PY  - 2022
+KW  - Bandwidth
+KW  - Channel allocation
+KW  - Delays
+KW  - Real-time systems
+KW  - Resource management
+KW  - Calculus
+KW  - Performance analysis
+KW  - Time-sensitive networking (TSN)
+KW  - credit-based shaping (CBS)
+KW  - bandwidth allocation
+KW  - stream-reservation traffic
+KW  - delay bound
+DO  - 10.1109/TNSM.2021.3113039
+JO  - IEEE Transactions on Network and Service Management
+IS  - 1
+SN  - 1932-4537
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Network and Service Management
+Y1  - March 2022
+AB  - Time-Sensitive Networking (TSN) evolves from Ethernet AVB in which the Credit-Based Shaping (CBS) is employed to guarantee the deterministic transmission of traffic. In CBS, the real-time performance of traffic associated with the credits can practicably settle the uncertainty of queueing and forwarding for stream-reservation traffic. Hence, the optimization of bandwidth allocation under the CBS becomes a key point to ensure guaranteed performance in the network. In this paper, a bandwidth allocation method is proposed for stream-reservation traffic while the real-time requirements are satisfied. We first illustrate the significance of appropriate bandwidth allocation for traffic under the CBS and construct a general schema for its bandwidth allocation. Also, the influences of the protected window for Control Data Traffic (CDT) on stream-reservation traffic are considered in our method. Further, mathematical models are constructed to analyze the delay bounds and backlogs of traffic to form the feedback for the optimal bandwidth allocation process. Finally, two node-level cases with different bandwidth utilization and a synthetic industrial networking scenario are carried out to demonstrate our method. The results confirm that the excessive reserved bandwidth does not necessarily decrease the delay bound, especially under the high traffic loads scenario. A more desirable bandwidth allocation strategy under the CBS mechanism is that the reserved bandwidth should be just enough according to the traffic loads to ensure the deterministic transmission of traffic.
+ER  - 
+
+TY  - JOUR
+TI  - A Survey on In-Vehicle Time-Sensitive Networking
+T2  - IEEE Internet of Things Journal
+SP  - 14375
+EP  - 14396
+AU  - Y. Peng
+AU  - B. Shi
+AU  - T. Jiang
+AU  - X. Tu
+AU  - D. Xu
+AU  - K. Hua
+PY  - 2023
+KW  - Reliability
+KW  - Quality of service
+KW  - Bandwidth
+KW  - Protocols
+KW  - Switches
+KW  - Analytical models
+KW  - Planning
+KW  - Deterministic network
+KW  - in-vehicle networks (IVNs)
+KW  - real-time Ethernet
+KW  - time-sensitive network (TSN)
+KW  - vehicle Ethernet
+DO  - 10.1109/JIOT.2023.3264909
+JO  - IEEE Internet of Things Journal
+IS  - 16
+SN  - 2327-4662
+VO  - 10
+VL  - 10
+JA  - IEEE Internet of Things Journal
+Y1  - 15 Aug.15, 2023
+AB  - With the continued evolution of autonomous driving, the communication demand for in-vehicle networks (IVNs) has dramatically increased, and the traditional IVN solutions have become ineligible for the needs of new in-vehicle applications. Time-sensitive network (TSN) with the characteristics of determinism, low latency, high reliability, large bandwidth, and open industry standards, has been considered as the most promising technology for the next-generation IVNs. This article summarizes the current state and methodologies of in-vehicle TSN research through the following five aspects: 1) Quality of Service (QoS) strategy; 2) reliability; 3) clock synchronization; 4) network planning; and 5) network management. The corresponding research priorities and technical challenges are also addressed, respectively.
+ER  - 
+
+TY  - JOUR
+TI  - Online Rerouting and Rescheduling of Time-Triggered Flows for Fault Tolerance in Time-Sensitive Networking
+T2  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+SP  - 4253
+EP  - 4264
+AU  - Z. Feng
+AU  - Z. Gu
+AU  - H. Yu
+AU  - Q. Deng
+AU  - L. Niu
+PY  - 2022
+KW  - Routing
+KW  - Logic gates
+KW  - Fault tolerant systems
+KW  - Redundancy
+KW  - Schedules
+KW  - Delays
+KW  - Circuit faults
+KW  - Fault tolerance
+KW  - online recovery
+KW  - time-sensitive networking (TSN)
+DO  - 10.1109/TCAD.2022.3197523
+JO  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+IS  - 11
+SN  - 1937-4151
+VO  - 41
+VL  - 41
+JA  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Y1  - Nov. 2022
+AB  - Time-sensitive networking (TSN) is an industry-standard networking protocol that is widely deployed in safety-critical industrial and automotive networks thanks to its quality-of-service (QoS) mechanisms, esp. deterministic transmission and bounded end-to-end delay for time-triggered (TT) flows. In this article, we focus on TT flows and address the issue of fault tolerance against permanent and transient faults with both spatial and temporal redundancy. We present an efficient heuristic algorithm for online incremental rerouting and rescheduling of disrupted flows, assuming the paths and schedules of existing flows stay fixed. It is complementary to and can be combined with offline routing and scheduling algorithms for achieving fault tolerance based on frame replication and elimination for reliability (FRER) (IEEE 802.1CB). Performance evaluation shows that our approach is able to better recover the system’s degree of redundancy (DoR) and has a higher acceptance rate than related work.
+ER  - 
+
+TY  - CONF
+TI  - Simulative Assessments of Credit-Based Shaping and Asynchronous Traffic Shaping in Time-Sensitive Networking
+T2  - 2020 12th International Conference on Advanced Infocomm Technology (ICAIT)
+SP  - 111
+EP  - 118
+AU  - B. Fang
+AU  - Q. Li
+AU  - Z. Gong
+AU  - H. Xiong
+PY  - 2020
+KW  - Delays
+KW  - Bandwidth
+KW  - Ethernet
+KW  - Quality of service
+KW  - Switches
+KW  - Computational modeling
+KW  - Real-time systems
+KW  - Time-Sensitive Networking (TSN)
+KW  - Quality of Service (QoS)
+KW  - performance evaluation
+DO  - 10.1109/ICAIT51223.2020.9315374
+JO  - 2020 12th International Conference on Advanced Infocomm Technology (ICAIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 12th International Conference on Advanced Infocomm Technology (ICAIT)
+Y1  - 23-25 Nov. 2020
+AB  - To extend industrial Ethernet to guarantee real-time quality-of-service (QoS), the IEEE 802.1 Time-Sensitive Networking (TSN) task group has been developing a series of specifications, including the flow control series, of which Credit-Based Shaping (CBS) and Asynchronous Traffic Shaping (ATS) were defined in IEEE 802.1 Qav standard and IEEE 802.1 Qcr draft respectively. While CBS is a per-class scheduling strategy, ATS is a per-flow scheduling. To analyze performance of these flow control strategies, comparison among CBS, ATS and Strict Priority Queuing (SPQ) is performed using a suite of self-developed models. Models were implemented and operated in the OMNeT++ simulation platform. Moreover, CBS and ATS are implied in different network load. And the results show that ATS flow control strategy can provide better real time performance guarantee for aperiodic traffics than CBS in heavy network load.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of the TSN Standards for Utilization in Long-life Industrial Distributed Control Systems
+T2  - 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+SP  - 190
+EP  - 197
+AU  - D. Hallmans
+AU  - M. Ashjaei
+AU  - T. Nolte
+PY  - 2020
+KW  - System verification
+KW  - Conferences
+KW  - Decentralized control
+KW  - Power distribution
+KW  - Maintenance engineering
+KW  - Standards
+KW  - System analysis and design
+KW  - long-life systems
+KW  - distributed constrol systems
+KW  - DCS
+KW  - time-sensitive networking
+KW  - TSN
+KW  - standards
+DO  - 10.1109/ETFA46521.2020.9212162
+JO  - 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 1
+VL  - 1
+JA  - 2020 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+Y1  - 8-11 Sept. 2020
+AB  - Large complex industrial Distributed Control Systems (DCS), e.g., power distribution systems, are expected to function for long time, up to 40 years. Therefore, besides having a long system verification phase for all subsystems, the design phase should consider various aspects when it comes to selection of which technologies to utilize when implementing such systems. In this paper, we study and investigate key challenges of using the Time Sensitive Networking (TSN) technology when it comes to design, maintenance and evolution of long life-span complex DCS. We also identify issues and challenges, and propose mitigation strategies for using the TSN technology in long-life system design. Our investigation and analysis shows that many of the TSN standards are in their evolution phase and may as a consequence be subject to different interpretations and implementations. Therefore, achieving a full capacity of using the TSN technology may not be possible, in particular when it comes to design of systems having an expected long life.
+ER  - 
+
+TY  - JOUR
+TI  - Enabling Delegation of Control Plane Functionalities for Time Sensitive Networks
+T2  - IEEE Access
+SP  - 136151
+EP  - 136163
+AU  - N. Sambo
+AU  - S. Fichera
+AU  - A. Sgambelluri
+AU  - G. Fioccola
+AU  - P. Castoldi
+AU  - K. Katsalis
+PY  - 2021
+KW  - Switches
+KW  - Delays
+KW  - Reliability
+KW  - Routing
+KW  - Protocols
+KW  - Logic gates
+KW  - Control systems
+KW  - TSN
+KW  - time sensitive networking
+KW  - IEEE 802.1
+KW  - SDN
+KW  - NETCONF
+KW  - YANG
+KW  - recovery
+KW  - restoration
+KW  - FRER
+DO  - 10.1109/ACCESS.2021.3116880
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - This paper proposes a new paradigm for control plane in Time Sensitive Networks (TSN). An SDN controller proactively instructs network elements on the reconfigurations to perform locally if some specific events occur (e.g., failures, performance degradations). Instructions are given in the form of Finite State Machines (FSMs), which store information related to the actions that each network element should execute to react against a specific event. Thus, if such event occurs, the SDN controller is by-passed reducing reaction (e.g., recovery) time. Such an approach is here implemented for recovery upon failures in TSN. Experiments of failure recovery are carried out and measurements are presented comparing the FSM-based solution with a fully-centralized reactive restoration. Moreover, the proposed approach is compared through simulations against Frame Replication and Elimination for Reliability. Results will show how proactive FSM manipulation can strongly reduce recovery time in SDN-based TSN networks without overloading the network with frame replicas.
+ER  - 
+
+TY  - CONF
+TI  - Integrated Industrial Ethernet Networks: Time-sensitive Networking over SDN Infrastructure for mixed Applications
+T2  - 2020 IFIP Networking Conference (Networking)
+SP  - 803
+EP  - 808
+AU  - M. A. Metaal
+AU  - R. Guillaume
+AU  - R. Steinmetz
+AU  - A. Rizk
+PY  - 2020
+KW  - Switches
+KW  - Job shop scheduling
+KW  - Quality of service
+KW  - Schedules
+KW  - Processor scheduling
+KW  - Real-time systems
+KW  - Time Sensitive Networking (TSN)
+KW  - Softwaredefined Networking (SDN)
+KW  - Quality of Service (QoS)
+DO  - 
+JO  - 2020 IFIP Networking Conference (Networking)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IFIP Networking Conference (Networking)
+Y1  - 22-26 June 2020
+AB  - A unified network architecture, allowing for simultaneous transmission of multiple real-time (RT) and non-RT traffic classes, is becoming increasingly important for the realization of industrial IoT. There is yet no clear approach allowing multiple state-of-the-art Industrial Ethernet applications, exhibiting different isochronous hard real-time traffic patterns, to share the same network resources alongside best-effort traffic. This paper presents an approach to integrating heterogeneous Industrial Ethernet applications over Time-Sensitive Networks (TSN). We deploy different real-time schedulers that are embedded in a Software-defined Network (SDN) controller to allow different applications with various traffic patterns and Qualityof-Service (QoS) requirements to share the same network. This integration is accomplished by providing an abstraction that combines the requirements of the Industrial Ethernet application and the TSN network capabilities and constraints.
+ER  - 
+
+TY  - JOUR
+TI  - reTSN: Resilient and Efficient Time-Sensitive Network for Automotive In-Vehicle Communication
+T2  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+SP  - 754
+EP  - 767
+AU  - J. Zou
+AU  - X. Dai
+AU  - J. A. McDermid
+PY  - 2023
+KW  - Switches
+KW  - Bandwidth
+KW  - Schedules
+KW  - Circuit faults
+KW  - Uncertainty
+KW  - Time factors
+KW  - Standards
+KW  - Event-triggered traffic
+KW  - in-vehicle communication
+KW  - network scheduling
+KW  - resilience
+KW  - temporal fault
+KW  - time-sensitive networking (TSN)
+DO  - 10.1109/TCAD.2022.3190235
+JO  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+IS  - 3
+SN  - 1937-4151
+VO  - 42
+VL  - 42
+JA  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Y1  - March 2023
+AB  - Time-sensitive networking (TSN) is being widely investigated to provide Ethernet capabilities for in-vehicle backbone communication. However, the gate control list (GCL), as a simple mechanism for achieving timing determinism for safety-critical traffic (ST) frames with hard deadlines, is too rigid to handle the intrinsic timing uncertainty of automated driving systems (ADSs). Due to the complexity and the unpredictable operating environment, there can be delayed ST frames that can disrupt the solidly fixed timing behavior. In this work, we present one novel approach to effectively use bandwidth resources to deal with delayed ST frames, which cannot be handled by a traditional fixed GCL, and the discarding of them should be reduced to improve the system’s integrity. An acceptance test is implemented to report to the application layer when an ST frame will miss its deadline and hence be rejected, i.e., prevented from entering the switch. To further improve the efficiency of bandwidth usage, we investigate how to improve the performance of the more important Class A frames in an audio-video-bridging (AVB) switch, which adopts a credit-based shaper mechanism, and we propose a constant bandwidth server to replace the credit-based shaper while taking fairness into consideration. Evaluation with extensive experiments shows that both resilience and efficiency of the TSN are significantly enhanced compared with a credit-based shaper, especially when the traffic load is relatively high. For the delayed ST frames and event-triggered traffic, our approach is able to schedule more than the solution using the AVB switch even with a high network load.
+ER  - 
+
+TY  - STD
+TI  - IEEE Standard for Local and metropolitan area networks -- Time-Sensitive Networking for Fronthaul - Amendment 1: Enhancements to Fronthaul Profiles to Support New Fronthaul Interface, Synchronization, and Syntonization Standards
+T2  - IEEE Std 802.1CMde-2020 (Amendment to IEEE Std 802.1CM-2018
+SP  - 1
+EP  - 35
+PY  - 2020
+KW  - IEEE Standards
+KW  - Local area networks
+KW  - Metropolitan area networks
+KW  - Synchronization
+KW  - Time measurement
+KW  - amendment
+KW  - bridged network
+KW  - CPRI
+KW  - eCPRI
+KW  - F1
+KW  - fronthaul
+KW  - IEEE 802®
+KW  - IEEE 802.1™
+KW  - IEEE 802.1CM™
+KW  - IEEE 802.1CMde™
+KW  - synchronization
+KW  - time-sensitive networking
+KW  - TSN
+KW  - Virtual Local Area Network
+KW  - VLAN
+KW  - VLAN Bridge
+DO  - 10.1109/IEEESTD.2020.9228956
+JO  - IEEE Std 802.1CMde-2020 (Amendment to IEEE Std 802.1CM-2018
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Std 802.1CMde-2020 (Amendment to IEEE Std 802.1CM-2018
+Y1  - 16 Oct. 2020
+AB  - Enhancements to fronthaul profiles are defined in this amendment to IEEE Std 802.1CM-2018 in order to address new developments in fronthaul interface standards and in related synchronization and syntonization standards.
+ER  - 
+
+TY  - JOUR
+TI  - Delay-Based Shaper With Dynamic Token Bucket Algorithm for Deterministic Networks
+T2  - IEEE Access
+SP  - 114424
+EP  - 114433
+AU  - T. Fukui
+AU  - Y. Sakaue
+AU  - K. Minami
+AU  - T. Taniguchi
+PY  - 2022
+KW  - Delays
+KW  - Satellite broadcasting
+KW  - Upper bound
+KW  - Heuristic algorithms
+KW  - Bit rate
+KW  - Behavioral sciences
+KW  - Streaming media
+KW  - Traffic shaping
+KW  - packet delay
+KW  - time-sensitive networking (TSN)
+KW  - deterministic networks
+KW  - bounded delay
+DO  - 10.1109/ACCESS.2022.3217489
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - To improve the experience of real-time interactive applications based on video and audio, there is a growing demand to realize deterministic networks that can transmit these media with low latency. In recent years, various deterministic network technologies have been studied such as Time Sensitive Networking (TSN). Time slot allocation type schemes such as Time-Aware Shaper (TAS) offer guaranteed delayed determinism and zero-jitter, but suffer from low network accommodation efficiency. Shaper-based techniques such as Asynchronous Traffic Shaping (ATS) provide high network accommodation efficiency and delay determinism inside the network. However, if the input traffic from the sender is bursty, End-to-End delay increases due to the shaping delay caused by the shapers at the edges of the network. In this paper, we propose Delay-Based Shaper (DBS), which dynamically controls the bandwidth while shaping the bursts so that the upper bound of the shaping delay is protected. In addition, we also propose a Dynamic Token Bucket Algorithm (DTBA) that extends the conventional token bucket algorithm to implement DBS. We show that DBS can both shape bursts and comply with the upper bound of shaping delay by comparing the behavior when bursts are input via a conventional shaper. We also demonstrate good End-to-End delay determinism and high network accommodation efficiency by applying DBS to the edge of the network.
+ER  - 
+
+TY  - CONF
+TI  - Impact of Packet Filtering on Time-Sensitive Networking Traffic
+T2  - 2021 17th IEEE International Conference on Factory Communication Systems (WFCS)
+SP  - 59
+EP  - 66
+AU  - L. Wüsteney
+AU  - M. Menth
+AU  - R. Hummen
+AU  - T. Heer
+PY  - 2021
+KW  - Schedules
+KW  - Filtering
+KW  - Firewalls (computing)
+KW  - Jitter
+KW  - Market research
+KW  - Real-time systems
+KW  - Delays
+KW  - Industry 4.0
+KW  - TSN
+KW  - Time-Sensitive Networking
+KW  - Security
+KW  - Network Security
+KW  - Network Segmentation
+KW  - IoT
+DO  - 10.1109/WFCS46889.2021.9483611
+JO  - 2021 17th IEEE International Conference on Factory Communication Systems (WFCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 17th IEEE International Conference on Factory Communication Systems (WFCS)
+Y1  - 9-11 June 2021
+AB  - The Industrial Internet of Things, Industry 4.0 and cloud computing are fundamentally transforming today's industrial networks towards high connectivity. At the same time, the number of cyber-attacks against industrial infrastructure increased drastically over the last years, requiring to tightly limit the connectivity between the networked devices of a plant. For both of these trends, there are mechanisms evolving and partially already in place. Network segmentation with packet filters is a key mechanism for achieving improved network security while Time-Sensitive Networking (TSN) is a promising option to realize advanced real-time applications in future industrial networks. However, although being built based on widely accepted standards and despite their practical relevance, these two concepts don't play together well. In this paper, we analyze the problems that arise when TSN networks are segmented using today's firewalls and packet filters. In particular, we discuss and quantify the impact of delay and jitter caused by packet filters on TSN traffic. We also show that the delays and jitter introduced by CPU-based filtering can be prohibitively high in real-time scenarios. Based on our analysis, we present and compare three approaches to overcome the challenges created by the combination of these two major trends in industrial networks.
+ER  - 
+
+TY  - JOUR
+TI  - Recent trends of in-vehicle time sensitive networking technologies, applications and challenges
+T2  - China Communications
+SP  - 30
+EP  - 55
+AU  - Y. Xu
+AU  - J. Shang
+AU  - H. Tang
+PY  - 2023
+KW  - Ethernet
+KW  - Computer architecture
+KW  - Costs
+KW  - Bandwidth
+KW  - Standards
+KW  - Protocols
+KW  - Low latency communication
+KW  - automobile industry
+KW  - deterministic transmission
+KW  - in-vehicle network
+KW  - low latency
+KW  - time sensitive networking (TSN)
+DO  - 10.23919/JCC.ea.2021-0888.202302
+JO  - China Communications
+IS  - 11
+SN  - 1673-5447
+VO  - 20
+VL  - 20
+JA  - China Communications
+Y1  - Nov. 2023
+AB  - With the vigorous development of automobile industry, in-vehicle network is also constantly upgraded to meet data transmission requirements of emerging applications. The main transmission requirements are low latency and certainty especially for autonomous driving. Time sensitive networking (TSN) based on Ethernet gives a possible solution to these requirements. Previous surveys usually investigated TSN from a general perspective, which referred to TSN of various application fields. In this paper, we focus on the application of TSN to the in-vehicle networks. For in-vehicle networks, we discuss all related TSN standards specified by IEEE 802.1 work group up to now. We further overview and analyze recent literature on various aspects of TSN for automotive applications, including synchronization, resource reservation, scheduling, certainty, software and hardware. Application scenarios of TSN for in-vehicle networks are analyzed one by one. Since TSN of in-vehicle network is still at a very initial stage, this paper also gives insights on open issues, future research directions and possible solutions.
+ER  - 
+
+TY  - CONF
+TI  - Moving a step forward in the quest for Deterministic Networks (DetNet)
+T2  - 2020 IFIP Networking Conference (Networking)
+SP  - 458
+EP  - 466
+AU  - V. Addanki
+AU  - L. Iannone
+PY  - 2020
+KW  - Logic gates
+KW  - Standards
+KW  - Bandwidth
+KW  - Scheduling
+KW  - Internet
+KW  - Resource management
+KW  - Scheduling algorithms
+KW  - Deterministic Network (DetNet)
+KW  - Time Sensitive Network (TSN)
+KW  - simulation
+KW  - queuing.
+DO  - 
+JO  - 2020 IFIP Networking Conference (Networking)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IFIP Networking Conference (Networking)
+Y1  - 22-26 June 2020
+AB  - Recent years witnessed a fast-growing demand, in the context of industrial use-cases, for the so-called Deterministic Networks (DetNet). IEEE 802.1 TSN architecture provides linklayer services and IETF DetNet provides network-layer services for deterministic and reliable forwarding. In such a context, in the first part of this paper, we tackle the problem of misbehaving flows and propose a novel queuing and scheduling mechanism, based on Push-In-First-Out (PIFO) queues. Differently from the original DetNet/TSN specifications, our solution is able to guarantee performance of priority flows in spite of misbehaving flows. In the second part of this paper, we present our simulator DeNS:DetNet Simulator, based on OMNET++ and NeSTiNG, providing building blocks for link-layer TSN and network-layer DetNet. Existing simulators have important limitations that do not allow simulating the full DetNeyTSN protocol stack. We overcome these limitations, making easy DetNet/TSN evaluations possible. Our simulations clearly show that our solution is able to satisfy constraints of deterministic networks, namely, guarantee zero packet loss and low latency, while at the same time allowing best-effort flows to co-exist. Furthermore, we show how our newly-proposed queuing and scheduling solution successfully limits the impact of misbehaving flows.
+ER  - 
+
+TY  - JOUR
+TI  - A High-Flexibility CAN-TSN Gateway With a Low-Congestion TSN-to-CAN Scheduler
+T2  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+SP  - 5072
+EP  - 5083
+AU  - G. Xie
+AU  - Y. Zhang
+AU  - N. Chen
+AU  - W. Chang
+PY  - 2023
+KW  - Logic gates
+KW  - Switches
+KW  - Ethernet
+KW  - Multiprocessor interconnection
+KW  - Delays
+KW  - Prototypes
+KW  - Protocols
+KW  - Time measurement
+KW  - Controller area network (CAN)
+KW  - gateway development
+KW  - time-sensitive networking (TSN)
+DO  - 10.1109/TCAD.2023.3277812
+JO  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+IS  - 12
+SN  - 1937-4151
+VO  - 42
+VL  - 42
+JA  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Y1  - Dec. 2023
+AB  - The network architecture with the controller area network (CAN) as the domain bus in most domains and time-sensitive networking (TSN) as the backbone network is called the CAN-TSN interconnection network architecture, which has been or will be employed in industrial embedded networks (e.g., automobiles, spacecraft, and factory automation). In this architecture, the CAN-TSN gateway acts as a transmission hub handling a large number of communications between the CAN domains and TSN. However, most commercial CAN-TSN gateways are highly integrated with low flexibility, such that they are hard to accommodate different time planning mechanisms from TSN. In addition, these CAN-TSN gateways suffer from high congestion when TSN frames are sent from the TSN side to a CAN domain (i.e., TSN-to-CAN transmission) because of at least 100 times in the transmission rate between CAN and TSN. In this study, we propose a high-flexibility CAN-TSN gateway, where the CAN side can be easily adapted to different bus protocols, and the TSN side can be easily adapted to different configurations. In the gateway, we develop a low-congestion TSN-to-CAN scheduler, which executes a maximum awaiting time (MAT)-based scheduling strategy to alleviate the congestion. Experiments on the prototype platform show the advantages of the proposed CAN-TSN gateway and the developed MAT-based scheduling strategy.
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Deterministic Quality of Service Model with Behavior-Adaptive Latency Bounds
+T2  - 2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+SP  - 127
+EP  - 136
+AU  - R. Laidig
+AU  - F. Dürr
+AU  - K. Rothermel
+AU  - S. Wildhagen
+AU  - F. Allgöwer
+PY  - 2023
+KW  - Scheduling algorithms
+KW  - Networked control systems
+KW  - Computational modeling
+KW  - Emulation
+KW  - Quality of service
+KW  - Dynamic scheduling
+KW  - Real-time systems
+KW  - quality of service
+KW  - token bucket
+KW  - QoS model
+KW  - Time Sensitive Networking
+KW  - TSN
+DO  - 10.1109/RTCSA58653.2023.00024
+JO  - 2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+IS  - 
+SN  - 2325-1301
+VO  - 
+VL  - 
+JA  - 2023 IEEE 29th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)
+Y1  - 30 Aug.-1 Sept. 2023
+AB  - Many time-sensitive networked systems, such as networked control systems or other cyber/physical systems, require well-defined Quality of Service (QoS) with guaranteed deterministic bounds on network delay. Existing QoS models typically provide no guarantees for excess traffic beyond the traffic specified during the initial admission process. This can lead to a waste of resources when applications overcompensate during resource reservation to avoid traffic violations. In this work, we propose the Dynamic Priority Token Bucket (DPTB), a fundamentally different new QoS model. DPTB permits short-time violations without immediately dropping to best-effort guarantees for excess traffic. Instead, the priority of the application gets degraded to weaker but still deterministic guarantees. At any point in time, the application can calculate the currently guaranteed delay bounds, which depend only on its own past sending behavior, to enable application-level adaptation of the sending rate and application-side prediction of the implications onto the application performance. We designed DPTB as a token bucket extension that can be used on top of several existing scheduling mechanisms, such as the Asynchronous Traffic Shaper of IEEE Time-Sensitive Networking (TSN). Our evaluations show that DPTB is more resilient to bursty cross-traffic, resulting in significantly lower average delays than regular reservations.
+ER  - 
+
+TY  - STD
+TI  - IEEE/ISO/IEC International Standard - Telecommunications and exchange between information technology systems--Requirements for local and metropolitan area networks--Part 1Q: Bridges and bridged networks
+T2  - ISO/IEC/IEEE 8802-1Q:2020(E)
+SP  - 1
+EP  - 1996
+PY  - 2020
+KW  - IEEE Standards
+KW  - Local area networks
+KW  - Metropolitan area networks
+KW  - Media Access Protocol
+KW  - Information exchange
+KW  - Information and communications technology
+KW  - Wireless LAN
+KW  - Virtualization
+KW  - Bridged Network
+KW  - IEEE 802.1Q
+KW  - LAN
+KW  - local area network
+KW  - MAC Bridge
+KW  - metropolitan area network
+KW  - MSTP
+KW  - Multiple Spanning Tree Protocol
+KW  - Rapid Spanning Tree Protocol
+KW  - RSTP
+KW  - PBN
+KW  - Provider Bridged Network
+KW  - Shortest Path Bridging Protocol
+KW  - SPB Protocol
+KW  - Time-Sensitive Networking
+KW  - TSN
+KW  - Virtual Bridged Network
+KW  - virtual LAN
+KW  - VLAN Bridge
+DO  - 10.1109/IEEESTD.2020.9179121
+JO  - ISO/IEC/IEEE 8802-1Q:2020(E)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ISO/IEC/IEEE 8802-1Q:2020(E)
+Y1  - 21 Aug. 2020
+AB  - This standard specifies how the Media Access Control (MAC) Service is supported by Bridged Networks, the principles of operation of those networks, and the operation of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms.
+ER  - 
+
+TY  - JOUR
+TI  - On the Scheduling of Fault-Tolerant Time-Sensitive Networking With IEEE 802.1CB
+T2  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+SP  - 1715
+EP  - 1728
+AU  - Z. Feng
+AU  - C. Wu
+AU  - Q. Deng
+AU  - Y. Lin
+AU  - S. Gao
+AU  - Z. Gu
+PY  - 2024
+KW  - Reliability
+KW  - Fault tolerant systems
+KW  - Fault tolerance
+KW  - Transient analysis
+KW  - Computer network reliability
+KW  - Job shop scheduling
+KW  - Circuit faults
+KW  - Fault-tolerant scheduling
+KW  - number of redundant routes
+KW  - service degradation
+KW  - time-triggered streams
+KW  - time-sensitive networking (TSN)
+DO  - 10.1109/TCAD.2024.3352925
+JO  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+IS  - 6
+SN  - 1937-4151
+VO  - 43
+VL  - 43
+JA  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Y1  - June 2024
+AB  - TSN has become the most popular technique in modern safety-critical automotive and industrial automation networks by providing deterministic transmission policies. However, the data of TSN messages may be affected by transient faults. IEEE 802.1CB, a reliability standard in TSN, protects against such faults by providing disjoint redundant routes for each stream. However, the unique assumption may present a new challenge, i.e., an inadequate number of redundant routes that may negatively impact stream scheduling. This article presents an offline fault-tolerant TSN scheduling approach that considers such impacts for real-time streams (such as time-trigger (TT) and audio video bridging (AVB) streams). Specifically, we intend to calculate the minimum upper bound number of disjoint routes required for each stream to meet the reliability requirements, subsequently enhancing the network’s schedulability. We also propose a service degradation function for AVB streams when the network is under heavy load caused by redundant transmissions of TT streams. This function will maintain schedulability and reliability for AVB streams. Experiments with small- and large-scale synthetic networks show the efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Wireless TSN Extension to Enable Deterministic Connectivity: Implementation and Performance Evaluation
+T2  - 2023 IEEE 9th World Forum on Internet of Things (WF-IoT)
+SP  - 1
+EP  - 7
+AU  - M. Seliem
+AU  - A. Zahran
+AU  - D. Pesch
+PY  - 2023
+KW  - Wireless communication
+KW  - Industries
+KW  - Automation
+KW  - Service robots
+KW  - Reliability engineering
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Time-Sensitive Networking (TSN)
+KW  - Industrial networks
+KW  - Wi-Fi
+KW  - Collaborative robots
+KW  - Deterministic Latency
+DO  - 10.1109/WF-IoT58464.2023.10539420
+JO  - 2023 IEEE 9th World Forum on Internet of Things (WF-IoT)
+IS  - 
+SN  - 2768-1734
+VO  - 
+VL  - 
+JA  - 2023 IEEE 9th World Forum on Internet of Things (WF-IoT)
+Y1  - 12-27 Oct. 2023
+AB  - Wi-Fi promises to revolutionize wireless connectivity through the integration of time-sensitive networking (TSN) capabilities, ensuring low latency and unmatched reliability within license-exempt spectrum bands. This study delves into the seamless amalgamation of TSN functionalities with Wi-Fi, with a particular focus on its implications for Internet of Things (IoT) applications, notably industrial automation and collaborative robots. In this paper, we examine diverse network configurations to assess their impact on latency and reliability in industrial automation scenarios. Furthermore, the efficacy of prioritization, preemption, and credit-based shaping policies is evaluated to optimize time-sensitive traffic management and enhance overall performance. The findings highlight Wi-Fi's enhanced suitability for industrial automation, showcasing how collaborative robots can leverage reduced latency and real-time communication to achieve height-ened precision, safety, and seamless human-robot interaction. By considering several network setups and traffic shaping policies, this paper provides invaluable insights for industrial practitioners and researchers, shedding light on the potential impact of Wi-Fi in industrial automation and collaborative robotics domains.
+ER  - 
+
+TY  - STD
+TI  - IEEE Standard for Local and Metropolitan Area Network--Bridges and Bridged Networks - Redline
+T2  - IEEE Std 802.1Q-2018 (Revision of IEEE Std 802.1Q-2014) - Redline
+SP  - 1
+EP  - 3654
+PY  - 2018
+KW  - IEEE Standards
+KW  - Bridge circuits
+KW  - Local area networks
+KW  - Metropolitan area networks
+KW  - Bridged Network
+KW  - IEEE 802.1Q™
+KW  - LAN
+KW  - local area network
+KW  - MAC Bridge
+KW  - metropolitan area network
+KW  - MSTP
+KW  - Multiple Spanning Tree Protocol
+KW  - Rapid Spanning Tree Protocol
+KW  - RSTP
+KW  - PBN
+KW  - Provider Bridged Network
+KW  - Shortest Path Bridging Protocol
+KW  - SPB Protocol
+KW  - Time-Sensitive Networking
+KW  - TSN
+KW  - Virtual Bridged Network
+KW  - virtual LAN
+KW  - VLAN Bridge
+DO  - 
+JO  - IEEE Std 802.1Q-2018 (Revision of IEEE Std 802.1Q-2014) - Redline
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Std 802.1Q-2018 (Revision of IEEE Std 802.1Q-2014) - Redline
+Y1  - 6 July 2018
+AB  - This standard specifies how the Media Access Control (MAC) Service is supported by Bridged Networks, the principles of operation of those networks, and the operation of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms. Supersedes 802.1Q-2014. IEEE 802.1Qcd-2015, IEEE 802.1Qca-2015,IEEE 802.1Q-2014_Cor-1-2015, IEEE 802.1Qbv-2015, IEEE 802.1Qbu-2016, IEEE 802-1Qbz-2016, IEEE 802.1Qci-2017 and IEEE 802.1Qch-2017.
+ER  - 
+
+TY  - CONF
+TI  - Scheduling of Integrated 5G and Time Sensitive Network for Deterministic Communication
+T2  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+SP  - 1
+EP  - 8
+AU  - Y. -Y. Shih
+AU  - H. -C. Liu
+AU  - C. -C. Chuang
+AU  - A. -C. Pang
+PY  - 2023
+KW  - Wireless communication
+KW  - Bridges
+KW  - Wireless sensor networks
+KW  - Schedules
+KW  - Job shop scheduling
+KW  - 5G mobile communication
+KW  - Ethernet
+KW  - time-sensitive networking (TSN)
+KW  - 5G
+KW  - schedulability
+DO  - 10.1109/ETFA54631.2023.10275610
+JO  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 
+VL  - 
+JA  - 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA)
+Y1  - 12-15 Sept. 2023
+AB  - Various modern industrial applications necessitate deterministic communication, assuring that each packet of a data flow arrives at a specific time. Most existing Time-Sensitive Networking (TSN) scheduling mechanisms enforce temporary isolation (any two flows cannot simultaneously be in the same queue in a network device) to ensure such deterministic property. This approach has no significant side effects in a wired Ethernet environment. However, recent calls have been made for incorporating TSN and wireless technology, such as 5th generation (5G) network, due to the device’s mobility and desire for flexibility of many emerging industrial applications. In wireless environments, the fickle nature of wireless communication will cause the existing approach to require more network resources to maintain the deterministic property, resulting in decreased schedulability. Thus, this paper aims to propose a more efficient scheduling mechanism for deterministic communication under integrated 5G and TSN environments. First, we parameterize the residence time of the bridges and analyze the requirements of deterministic communication. Then, based on the analysis, we extend and develop new scheduling rules to improve schedulability while maintaining determinism. Finally, Our evaluation via performing a set of experiments in realistic settings showcases the improved schedulability of our method with the preservation of the deterministic property.
+ER  - 
+
+TY  - STD
+TI  - IEEE Draft Time-Sensitive Networking for Fronthaul
+T2  - IEEE P802.1CM/D2.2, March 2018
+SP  - 1
+EP  - 55
+PY  - 2018
+KW  - IEEE Standards
+KW  - Local area networks
+KW  - Synchronization
+KW  - Bridges
+KW  - Metropolitan area networks
+KW  - bridged network
+KW  - fronthaul
+KW  - IEEE 802(TM)
+KW  - IEEE 802.1(TM)
+KW  - IEEE 802.1CM(TM)
+KW  - synchronization
+KW  - time-sensitive networking
+KW  - TSN
+KW  - Virtual Local Area Network
+KW  - VLAN
+KW  - VLAN Bridge
+DO  - 
+JO  - IEEE P802.1CM/D2.2, March 2018
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE P802.1CM/D2.2, March 2018
+Y1  - 16 March 2018
+AB  - This standard defines profiles that select features, options, configurations, defaults, protocols, and procedures of bridges, stations, and LANs that are necessary to build networks that are capable of transporting fronthaul streams, which are time sensitive. (The PDF of this standard is available at not cost compliments of the IEEE GET Program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
+ER  - 
+
+TY  - STD
+TI  - IEEE Approved Draft Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks
+T2  - IEEE P802.1Q-Rev/D1.2, May 2022
+SP  - 1
+EP  - 2166
+PY  - 2022
+KW  - IEEE Standards
+KW  - Local area networks
+KW  - Metropolitan area networks
+KW  - Sensitivity
+KW  - Time measurement
+KW  - Bridge circuits
+KW  - Bridged Network
+KW  - IEEE 802.1Q
+KW  - LAN
+KW  - local area network
+KW  - MAC Bridge
+KW  - metropolitan area network
+KW  - MSTP
+KW  - Multiple Spanning Tree Protocol
+KW  - Rapid Spanning Tree Protocol
+KW  - RSTP
+KW  - PBN
+KW  - Provider Bridged Network
+KW  - Shortest Path Bridging Protocol
+KW  - SPB Protocol
+KW  - Time-Sensitive Networking
+KW  - TSN
+KW  - Virtual Bridged Network
+KW  - virtual LAN
+KW  - VLAN Bridge
+DO  - 
+JO  - IEEE P802.1Q-Rev/D1.2, May 2022
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE P802.1Q-Rev/D1.2, May 2022
+Y1  - 26 Sept. 2022
+AB  - This standard specifies how the Media Access Control (MAC) Service is supported by Bridged Networks, the principles of operation of those networks, and the operation of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms.
+ER  - 
+
+TY  - CONF
+TI  - Comparative assessment of Time-Sensitive Networking transmission schemes in automotive applications
+T2  - 2023 AEIT International Conference on Electrical and Electronic Technologies for Automotive (AEIT AUTOMOTIVE)
+SP  - 1
+EP  - 6
+AU  - G. Testa
+AU  - G. Canzonieri
+AU  - L. Leonardi
+AU  - L. L. Bello
+AU  - G. Patti
+PY  - 2023
+KW  - Performance evaluation
+KW  - Protocols
+KW  - Automotive applications
+KW  - Real-time systems
+KW  - Communications technology
+KW  - Timing
+KW  - Standards
+KW  - Automotive communications
+KW  - Deadline-aware scheduling
+KW  - Time-Sensitive-Networking (TSN)
+DO  - 10.23919/AEITAUTOMOTIVE58986.2023.10217195
+JO  - 2023 AEIT International Conference on Electrical and Electronic Technologies for Automotive (AEIT AUTOMOTIVE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 AEIT International Conference on Electrical and Electronic Technologies for Automotive (AEIT AUTOMOTIVE)
+Y1  - 17-19 July 2023
+AB  - Time-Sensitive Networking (TSN) has emerged as a promising communication technology for automotive applications. The TSN standards provide a flexible toolkit, enabling network designers to select the features and mechanisms that best suit the application context requirements. TSN facilitates the management of diverse traffic flows through a single channel by defining transmission schemes and protocols. However, some automotive applications, such as the automated driving ones, require the support for event-driven real-time traffic, but the TSN support for this kind of flows is limited. To overcome this limitation, a recent research proposed an online Earliest Deadline First-based scheduling approach, called Deadline-TSN, able to handle various traffic classes (including the event-driven ones) in a uniform way. Deadline-TSN supports real-time traffic, but is not designed to support deterministic communications. For this reason, this paper investigates the adoption of TSN to build network setups for managing diverse kinds of in-car traffic flows, i.e., periodic and event-driven, with diverse timing constraints and presents a comparative performance evaluation between a configuration exploiting a combination of multiple TSN transmission schemes and Deadline-TSN in a realistic automotive scenario.
+ER  - 
+
+TY  - STD
+TI  - IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks
+T2  - IEEE P802.1Q-Rev/D1.1, March 2022
+SP  - 1
+EP  - 2166
+PY  - 2022
+KW  - IEEE Standards
+KW  - Local area networks
+KW  - Metropolitan area networs
+KW  - Bridge circuits
+KW  - Media Access Protocol
+KW  - Bridged Network
+KW  - IEEE 802.1Q
+KW  - LAN
+KW  - local area network
+KW  - MAC Bridge
+KW  - metropolitan area network
+KW  - MSTP
+KW  - Multiple Spanning Tree Protocol
+KW  - Rapid Spanning Tree Protocol
+KW  - RSTP
+KW  - PBN
+KW  - Provider Bridged Network
+KW  - Shortest Path Bridging Protocol
+KW  - SPB Protocol
+KW  - Time-Sensitive Networking
+KW  - TSN
+KW  - Virtual Bridged Network
+KW  - virtual LAN
+KW  - VLAN Bridge
+DO  - 
+JO  - IEEE P802.1Q-Rev/D1.1, March 2022
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE P802.1Q-Rev/D1.1, March 2022
+Y1  - 11 April 2022
+AB  - This standard specifies how the Media Access Control (MAC) Service is supported by Bridged Networks, the principles of operation of those networks, and the operation of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms.
+ER  - 
+
+TY  - STD
+TI  - IEEE Draft Time-Sensitive Networking for Fronthaul
+T2  - IEEE P802.1CM/D2.0, January 2018
+SP  - 1
+EP  - 72
+PY  - 2018
+KW  - IEEE Standards
+KW  - Local area networks
+KW  - Licenses
+KW  - Warranties
+KW  - Metropolitan area networks
+KW  - bridged network
+KW  - fronthaul
+KW  - IEEE 802
+KW  - IEEE 802.1(TM)
+KW  - IEEE 802.1CM(TM)
+KW  - synchronization
+KW  - time-sensitive networking
+KW  - TSN
+KW  - Virtual Local Area Network
+KW  - VLAN
+KW  - VLAN Bridge
+DO  - 
+JO  - IEEE P802.1CM/D2.0, January 2018
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE P802.1CM/D2.0, January 2018
+Y1  - 1 Jan. 2018
+AB  - This standard defines profiles that select features, options, configurations, defaults, protocols, and procedures of bridges, stations, and LANs that are necessary to build networks that are capable of transporting fronthaul streams, which are time sensitive.
+ER  - 
+
+TY  - CONF
+TI  - Time-Predictable Software-Based TSN-Enabled Network Stack for Mixed Criticality Traffic
+T2  - 2024 IEEE 20th International Conference on Factory Communication Systems (WFCS)
+SP  - 1
+EP  - 8
+AU  - P. Denzler
+AU  - T. Frühwirth
+AU  - C. Lehr
+AU  - J. Auffray
+PY  - 2024
+KW  - Automation
+KW  - Communication systems
+KW  - Real-time systems
+KW  - Production facilities
+KW  - Time-Sensitive Networking (TSN)
+KW  - real-time communication
+KW  - time-predictable network stack
+DO  - 10.1109/WFCS60972.2024.10540916
+JO  - 2024 IEEE 20th International Conference on Factory Communication Systems (WFCS)
+IS  - 
+SN  - 2835-8414
+VO  - 
+VL  - 
+JA  - 2024 IEEE 20th International Conference on Factory Communication Systems (WFCS)
+Y1  - 17-19 April 2024
+AB  - The ongoing transition in industrial automation towards a highly interconnected architecture underscores the importance of time-sensitive networking (TSN). This paper addresses the implementation of a time-predictable software-based TSN-enabled network stack for mixed criticality traffic in TSN end stations. The findings demonstrate the network stack’s worst-case execution time (WCET) analysability, effective management of mixed critical traffic, and real-time transmission of UDP frames. Additionally, the stack offers modularity, configurability, and TSN support for transferring messages across different priorities using either UDP or TCP. Evaluation on the time-predictable open-source T-CREST platform yields representative WCET estimates comparable to related research. The paper concludes by outlining further research.
+ER  - 
+
+TY  - JOUR
+TI  - Graph Attention Network–Based Deep Reinforcement Learning Scheduling Framework for in-Vehicle Time-Sensitive Networking
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 1
+EP  - 12
+AU  - W. Sun
+AU  - Y. Zou
+AU  - N. Guan
+AU  - X. Zhang
+AU  - G. Du
+AU  - Y. Wen
+PY  - 2024
+KW  - Scheduling
+KW  - Job shop scheduling
+KW  - Processor scheduling
+KW  - Delays
+KW  - Optimization
+KW  - Dynamic scheduling
+KW  - Routing
+KW  - Deep reinforcement learning (DRL)
+KW  - in-vehicle networks (IVN)
+KW  - link failure
+KW  - time-sensitive networking (TSN)
+KW  - traffic scheduling
+DO  - 10.1109/TII.2024.3388669
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 
+SN  - 1941-0050
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - 
+AB  - Time-sensitive networking (TSN) can offer deterministic low-latency communication, making it a critical solution for high-level autonomous vehicle's in-vehicle network. The deterministic transmission of TSN relies on TSN traffic scheduling. To ensure real-time transmission performance and vehicle functional safety, in-vehicle TSN scheduling aims to reduce end-to-end delay. Despite the promising potential of graph neural networks and deep reinforcement learning (DRL) in navigating complex TSN scheduling environments, its application has predominantly been limited to enhancing schedulability without a targeted focus on minimizing delays. This article introduces a DRL in-vehicle TSN scheduling framework based on the graph attention network (GAT). The scheduling problem is abstracted as a delay optimization problem and mapped to a Markov decision process (MDP), which is solved using the proximal policy optimization (PPO) algorithm. The GAT with attention mechanism is incorporated to extract critical information to enhance feature extraction and improve scheduling accuracy. This GAT-based PPO method can achieve high-precision offline scheduling through training, producing low-delay scheduling results. Simulation results demonstrate that the proposed method improves offline scheduling performance compared to other DRL-based scheduling methods. Leveraging the trained neural network, the proposed method can also deliver high robustness in online scheduling under link failure scenarios. It can produce a scheduling solution in just 3.8 s, and the scheduling results for all failure scenarios surpass those of rule-based benchmarking methods.
+ER  - 
+
+TY  - JOUR
+TI  - Integrated LKA and DYC control of Four-Wheel-Independent-Drive Electric Vehicles with A Central-Zonal Electronic and Electrical Architecture
+T2  - IEEE Transactions on Vehicular Technology
+SP  - 1
+EP  - 11
+AU  - W. Cao
+AU  - C. Liu
+AU  - Z. Liu
+AU  - Z. Wei
+PY  - 2024
+KW  - Delays
+KW  - Computer architecture
+KW  - Motors
+KW  - Ethernet
+KW  - Roads
+KW  - Stability criteria
+KW  - Electric vehicles
+KW  - lane-keeping assistance (LKA)
+KW  - central-zonal E/E architecture
+KW  - multiple time-varying delays
+KW  - time-sensitive networking (TSN)
+KW  - loop delay
+DO  - 10.1109/TVT.2024.3398297
+JO  - IEEE Transactions on Vehicular Technology
+IS  - 
+SN  - 1939-9359
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Vehicular Technology
+Y1  - 
+AB  - This paper deals with the integration of lane keeping assistance (LKA) and direct yaw-moment control (DYC) for smart four-wheel-independent-drive electric vehicles (FWID-EVs) using a new central-zonal electronic and electrical (E/E) architecture with multi-path asynchronization (MPA) loop delays. The central-zonal E/E architecture with grouped components by their physical positions in the vehicle results significant improvement of computing power, data transmission and harness simplification. However, the MPA loop delays in the central-zonal E/E architecture may degrade or even deteriorate the stability of the system. Firstly, a new analysis model on the MPA loop delays is constructed to describe the network-induced delays. A mathematical upper-bound equation is derived to determine the worst-case loop delays. Secondly, in order to deal with the MPA loop delays and simplify the robust controller design, a novel co-design method of control and scheduling is proposed, in which a time-sensitive networking (TSN) with flexible time-triggered scheduling (FTTS) scheme is developed for improving the communication effectiveness, and a model predictive control (MPC) is adopted to make decisions instantly for improving the control accuracy. Furthermore, a Lyapunov-based pole assignment theory is applied to verify the system stability. Finally, the results of the Hardware-in-the-Loop (HIL) experiment validate the effectiveness of the proposed method.
+ER  - 
+
+TY  - CONF
+TI  - Selection of FDI-Tolerant Time-Sensitive Networking (TSN)-Based Architecture for Preserving Determinism of Safety-Critical Applications
+T2  - 2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+SP  - 1
+EP  - 8
+AU  - V. Gavriluţ
+AU  - C. E. L. Madsen
+AU  - M. Stübert Berger
+PY  - 2023
+KW  - Protocols
+KW  - Mechatronics
+KW  - Filtering
+KW  - Quality of service
+KW  - Ethernet
+KW  - Delays
+KW  - Reliability
+KW  - Architecture Selection
+KW  - Time-Sensitive Networking (TSN)
+KW  - Fake-Data Injection (FDI)
+KW  - Ingress Policing
+KW  - Egress Shaping
+KW  - Simulation
+DO  - 10.1109/ICECCME57830.2023.10253364
+JO  - 2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+Y1  - 19-21 July 2023
+AB  - The communication in safety-critical networked systems, disregarding usage areas, has to meet stringent reliability and timeliness requirements (colloquially known as deterministic requirements). The fake news can affect even the safety-critical networked systems; the networked systems used in safety-critical areas are usually dynamic. The on-fly addition of components and traffic increases the vulnerability of the networked system exposing it to cyber-attacks. Example of these attacks are: denial of service, Fake-Data Injection (FDI) and replay.The goal of this paper is to determine an FDI-tolerant communication architecture. For this work, Time-Sensitive Networking (TSN) is chosen as communication protocol. TSN is a set of IEEE 802.1 standards and amendments that extend Ethernet for providing deterministic requirements on most of the safety-critical areas. The general applicability of TSN means that multiple mechanisms must be combined in order to address the requirements of an area. Therefore, the determination of an FDI-tolerant TSN-based architecture means to select the sub-set of TSN mechanisms that preserves the determinism even in the presence of faulty traffic. For evaluating the deterministic requirements on different TSN-based architectures, it is used the network simulation tool OM-NeT++ adapted for TSN.
+ER  - 
+
+TY  - CONF
+TI  - Joint Resource Allocation and Scheduling Optimization in Wireless Time-Sensitive Networks Based on IEEE 802.11
+T2  - 2023 9th International Conference on Computer and Communications (ICCC)
+SP  - 306
+EP  - 312
+AU  - H. Li
+AU  - W. Jing
+AU  - H. Wang
+AU  - P. Liu
+AU  - S. Cao
+PY  - 2023
+KW  - Wireless sensor networks
+KW  - Sensitivity
+KW  - Scheduling algorithms
+KW  - Heuristic algorithms
+KW  - Wireless networks
+KW  - Dynamic scheduling
+KW  - Delays
+KW  - Time-sensitive networking (TSN)
+KW  - IEEE 802.11
+KW  - Orthogonal Frequency Division Multiple Access (OFDMA)
+KW  - Resource Allocation and Scheduling
+DO  - 10.1109/ICCC59590.2023.10507394
+JO  - 2023 9th International Conference on Computer and Communications (ICCC)
+IS  - 
+SN  - 2837-7109
+VO  - 
+VL  - 
+JA  - 2023 9th International Conference on Computer and Communications (ICCC)
+Y1  - 8-11 Dec. 2023
+AB  - Time-Sensitive Networking (TSN) is an emerging solution for deterministic transmission of time-sensitive services in wired/Ethernet and wireless networks and is considered to be the next generation of Ethernet. Due to the dynamic nature in its physical layer, wireless communications in general and wireless TSN (WTSN) in particular face more technical challenges than wired transmission. This paper proposes a wireless dynamic flow scheduling algorithm that is coined as PA-WTSN and deals with joint power and resource allocation based on OFDMA channel access. The algorithm is formulated as a mixed integer linear programming (MILP) problem with time sensitivity constraints and consideration of power allocation which is necessary for time-varying wireless channels. With the proposed algorithm, the end-to-end delay is optimized. and the effectiveness of the algorithm is validated by simulation.
+ER  - 
+
+TY  - JOUR
+TI  - Joint Algorithm of Message Fragmentation and No-Wait Scheduling for Time-Sensitive Networks
+T2  - IEEE/CAA Journal of Automatica Sinica
+SP  - 478
+EP  - 490
+AU  - X. Jin
+AU  - C. Xia
+AU  - N. Guan
+AU  - P. Zeng
+PY  - 2021
+KW  - Schedules
+KW  - Networked control systems
+KW  - Heuristic algorithms
+KW  - Scalability
+KW  - Scheduling
+KW  - Real-time systems
+KW  - Delays
+KW  - Message fragmentation
+KW  - networked control system
+KW  - real-time scheduling
+KW  - time sensitive network
+DO  - 10.1109/JAS.2021.1003844
+JO  - IEEE/CAA Journal of Automatica Sinica
+IS  - 2
+SN  - 2329-9274
+VO  - 8
+VL  - 8
+JA  - IEEE/CAA Journal of Automatica Sinica
+Y1  - February 2021
+AB  - Time-sensitive networks (TSNs) support not only traditional best-effort communications but also deterministic communications, which send each packet at a deterministic time so that the data transmissions of networked control systems can be precisely scheduled to guarantee hard real-time constraints. No-wait scheduling is suitable for such TSNs and generates the schedules of deterministic communications with the minimal network resources so that all of the remaining resources can be used to improve the throughput of best-effort communications. However, due to inappropriate message fragmentation, the realtime performance of no-wait scheduling algorithms is reduced. Therefore, in this paper, joint algorithms of message fragmentation and no-wait scheduling are proposed. First, a specification for the joint problem based on optimization modulo theories is proposed so that off-the-shelf solvers can be used to find optimal solutions. Second, to improve the scalability of our algorithm, the worst-case delay of messages is analyzed, and then, based on the analysis, a heuristic algorithm is proposed to construct low-delay schedules. Finally, we conduct extensive test cases to evaluate our proposed algorithms. The evaluation results indicate that, compared to existing algorithms, the proposed joint algorithm improves schedulability by up to 50%.
+ER  - 
+
+TY  - CONF
+TI  - Run-time Per-Class Routing of AVB Flows in In-Vehicle TSN via Composable Delay Analysis
+T2  - 2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring)
+SP  - 1
+EP  - 7
+AU  - W. Kong
+AU  - M. Nabi
+AU  - K. Goossens
+PY  - 2022
+KW  - Vehicular and wireless technologies
+KW  - Technological innovation
+KW  - Costs
+KW  - Heuristic algorithms
+KW  - Parallel processing
+KW  - Routing
+KW  - Market research
+KW  - In-Vehicle TSN
+KW  - SDN
+KW  - WCED
+KW  - Routing
+DO  - 10.1109/VTC2022-Spring54318.2022.9861007
+JO  - 2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring)
+IS  - 
+SN  - 2577-2465
+VO  - 
+VL  - 
+JA  - 2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring)
+Y1  - 19-22 June 2022
+AB  - Time-Sensitive Networking (TSN) is a promising solution for the next generation in-vehicle networks. To enable innovations in adaptability, there is a strong trend to integrate TSN with Software-Defined Networking (SDN). Software-defined TSN requires fast routing algorithms that guarantee the Worst-Case End-to-End Delay (WCED) of the Audio Video Bridging (AVB) flows. However, current AVB flow routing algorithms execute WCED analysis for an exponential amount of route candidates, which is not feasible at run-time. Current WCED analysis of the AVB flows depends on the specific flow setup of other traffic classes. When high-priority flows change, low-priority flows must be adjusted as well to maintain deadline guarantees. In this paper, we propose a per-class flow management scheme to enable run-time routing of the AVB flows. Our composable analysis computes a formal WCED bound of the AVB flows. It does not rely on the flow setup of other traffic classes. So, the WCED and routes can be computed for each traffic class independently and in parallel. Based on the analysis, we develop a fast heuristic algorithm to incrementally route the AVB flows with guaranteed deadlines. Our experiments demonstrate that, compared to the existing solutions, the composable analysis is 2.6x faster. The cost is that the WCED bound can be up to 31% higher. When given a similar run-time as existing solutions, the proposed routing algorithm can set up 1.6x more flows. The average time to set up one flow is within 0.14s.
+ER  - 
+
+TY  - CONF
+TI  - Work-in-Progress: Best-Case Response Time Analysis for Ethernet AVB
+T2  - 2017 IEEE Real-Time Systems Symposium (RTSS)
+SP  - 378
+EP  - 380
+AU  - H. J. Rivera Verduzco
+AU  - P. J. L. Cuijpers
+AU  - J. Cao
+PY  - 2017
+KW  - Schedules
+KW  - Time factors
+KW  - Interference
+KW  - Bandwidth
+KW  - Switches
+KW  - Standards
+KW  - Real-time systems
+KW  - Ethernet AVB
+KW  - best-case
+KW  - response time
+DO  - 10.1109/RTSS.2017.00043
+JO  - 2017 IEEE Real-Time Systems Symposium (RTSS)
+IS  - 
+SN  - 2576-3172
+VO  - 
+VL  - 
+JA  - 2017 IEEE Real-Time Systems Symposium (RTSS)
+Y1  - 5-8 Dec. 2017
+AB  - In the automotive industry, Ethernet is currently being introduced as a viable solution for real-time communication with high bandwidth requirements. In this paper, we present and prove a tight bound for the relative best-case response time of a frame in an Ethernet AVB switch compared to its response time in a schedule without interference. Our analysis is based on the observation that frames in a burst, scheduled using a credit shaping policy, may be scheduled earlier in case of interference than in a schedule without interference. We show how an upper bound on the build up of credit may be used to bound this relative speed-up of frames.
+ER  - 
+
+TY  - CONF
+TI  - Independent WCRT analysis for the Best-Effort class BE in Ethernet AVB
+T2  - 2022 IEEE 18th International Conference on Factory Communication Systems (WFCS)
+SP  - 1
+EP  - 4
+AU  - R. J. Bril
+PY  - 2022
+KW  - Conferences
+KW  - Ethernet
+KW  - Quality of service
+KW  - Bandwidth
+KW  - Real-time systems
+KW  - Production facilities
+KW  - Time factors
+KW  - Ethernet AVB
+KW  - WCRT analysis
+KW  - eligible inter-vals
+KW  - credit-based shaping (CBS)
+DO  - 10.1109/WFCS53837.2022.9779169
+JO  - 2022 IEEE 18th International Conference on Factory Communication Systems (WFCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 18th International Conference on Factory Communication Systems (WFCS)
+Y1  - 27-29 April 2022
+AB  - Existing papers on worst-case response time analysis for individual classes in Ethernet AVB typically focus on classes under credit-based shaping (CBS). There also exist industrial applications that use the Best-Effort class BE for non-hard real-time traffic with a minimum quality-of-service (QoS) require-ment, however. In this paper, we therefore present a conjecture for worst-case response time analysis for that class BE, stating that the existing analysis based on eligible intervals can be equally well applied to a single (highest-priority) stream without CBS, by simply assuming the remaining bandwidth to be available to that stream. The conjecture is illustrated using a figure.
+ER  - 
+
+TY  - CONF
+TI  - Operational Impacts of IEEE 802.1Qbv Scheduling on a Collaborative Robotic Scenario
+T2  - IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society
+SP  - 1
+EP  - 7
+AU  - R. Candell
+AU  - K. Montgomery
+AU  - M. Kashef Hany
+AU  - S. Sudhakaran
+AU  - J. Albrecht
+AU  - D. Cavalcanti
+PY  - 2022
+KW  - Schedules
+KW  - Wireless LAN
+KW  - Job shop scheduling
+KW  - Service robots
+KW  - Operating systems
+KW  - Collaboration
+KW  - Real-time systems
+KW  - Wireless
+KW  - TSN
+KW  - factory communications
+KW  - IEEE 802.11
+KW  - IEEE 802.1Qbv
+KW  - WLAN
+DO  - 10.1109/IECON49645.2022.9968494
+JO  - IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society
+IS  - 
+SN  - 2577-1647
+VO  - 
+VL  - 
+JA  - IECON 2022 – 48th Annual Conference of the IEEE Industrial Electronics Society
+Y1  - 17-20 Oct. 2022
+AB  - Time-sensitive networking (TSN) is an emerging topic for the advancement of wireless networking for industrial applications. TSN, as defined under the umbrella of IEEE 802.1 working group standards, addresses issues related to providing deterministic communications over IEEE 802-based Local Area Networks (LANs). TSN was originally designed to support real-time audio/video applications over Ethernet providing better reliability and lower, more deterministic latency with traffic shaping capabilities. TSN has since expanded its scope and applicability to other applications such as those in industrial environments and automotive applications. Industrial examples include machine-machine communications for robot control, end-effector actuation, real-time sensing, and safety integrated systems. Applications utilizing a wireless local area network (WLAN) can also benefit from scheduling and traffic shaping as defined in the 802.1Qbv standard; however, factors such as clock stability, synchronization, resource requirements and protocol options come into play when selecting a schedule to support multiple application types on the same network. In this article, we present a scenario for a collaborative robot heavy lift operation, in which, two robots communicate over an IEEE 802.11 WLAN with TSN capabilities to lift a rigid body in three dimensions. Scheduling is performed using 802.1Qbv over WLAN with the robot operating system (ROS) used as the software middleware utilizing the transport control protocol (TCP). As a part of the research, we describe our process for schedule selection to accommodate the time-sensitive traffic of the robotic scenario while allowing an industrial internet of things (IIoT) high data rate traffic to coexist. We then provide an analysis of the impacts of TSN schedule selection on the operational performance of the collaborative robot application.
+ER  - 
+
+TY  - JOUR
+TI  - Improving Latency Analysis for Flexible Window-Based GCL Scheduling in TSN Networks by Integration of Consecutive Nodes Offsets
+T2  - IEEE Internet of Things Journal
+SP  - 5574
+EP  - 5584
+AU  - L. Zhao
+AU  - P. Pop
+AU  - Z. Gong
+AU  - B. Fang
+PY  - 2021
+KW  - Logic gates
+KW  - Internet of Things
+KW  - Real-time systems
+KW  - Calculus
+KW  - Scheduling
+KW  - Performance analysis
+KW  - Delays
+KW  - Delay bounds
+KW  - IEEE 802.1Qbv
+KW  - performance analysis
+KW  - real-time
+KW  - unscheduled end-systems
+DO  - 10.1109/JIOT.2020.3031932
+JO  - IEEE Internet of Things Journal
+IS  - 7
+SN  - 2327-4662
+VO  - 8
+VL  - 8
+JA  - IEEE Internet of Things Journal
+Y1  - 1 April1, 2021
+AB  - Time-sensitive networking (TSN) is an upcoming set of Ethernet standards designed for real-time and safety-critical Internet-of-Things (IoT) applications in automotive, aerospace, and industrial automation domains. With the combination, complexity, and flexibility of flow control mechanisms in TSN connected systems, the performance analysis for mixed-critical messages is becoming a difficult challenge. The flexible window-based gate control list (GCL) scheduling model has been proposed as a relaxation to assumptions on frames-to-window allocation, mutually exclusive gates opening, and scheduled end systems and switches, which offers more flexibility in the configuration of GCLs. In this article, we are interested in providing a reliable verification method based on the network calculus theory to drive GCL configurations for TSN networks. To the best of our knowledge, this is the first performance analysis method suitable for the general flexible window-based GCLs in entire TSN networks, by reflecting the relative positional relationships of windows for same priority queues on consecutive nodes and constructing the window limitations into the shaper curve, in order to reduce the pessimism of the latency bounds. We validate the proposed method through Industrial IoT synthetics test cases and two large realistic cases, showing the significant reduction in pessimism on delay bounds, and the correctness and scalability by comparing with results from the previous work and simulation results.
+ER  - 
+
+TY  - CONF
+TI  - Comparison of Time Sensitive Networking (TSN) and TTEthernet
+T2  - 2018 IEEE/AIAA 37th Digital Avionics Systems Conference (DASC)
+SP  - 1
+EP  - 7
+AU  - L. Zhao
+AU  - F. He
+AU  - E. Li
+AU  - J. Lu
+PY  - 2018
+KW  - Synchronization
+KW  - Bandwidth
+KW  - Ethernet
+KW  - Real-time systems
+KW  - Standards
+KW  - Schedules
+KW  - TTEthernet
+KW  - TSN
+KW  - network performance evaluation
+KW  - deterministic delay analysis
+DO  - 10.1109/DASC.2018.8569454
+JO  - 2018 IEEE/AIAA 37th Digital Avionics Systems Conference (DASC)
+IS  - 
+SN  - 2155-7209
+VO  - 
+VL  - 
+JA  - 2018 IEEE/AIAA 37th Digital Avionics Systems Conference (DASC)
+Y1  - 23-27 Sept. 2018
+AB  - Time-Triggered Ethernet (TTEthernet) is a time-critical network for industrial and avionics applications improved from the Avionics Full Duplex Switched Ethernet (AFDX). It is standardized by SAE AS6802 and satisfies strict timing transmission by use of a mixture infrastructure to support Time-Triggered (TT), Rate-Constraint (RC) and Best-Effort (BE) traffics. The key feature is a time-triggered communication paradigm according to off-line schedule table based on global synchronization. Three integration methods (preemption, timely block and shuffling) are used to resolve conflict when a TT message gets ready and a RC message is already in transmission. Besides several real-time Ethernet solutions, Time Sensitive Networking (TSN) shows great interests and attractions to satisfy the increasing and variable transmission requirements for automotive and aeronautical industry. TSN is comprised of several IEEE standards developed under IEEE 802.1 TSN Task Group, such as 802.1AS, 802.1Qav, 802.1Qat, 802.1BA, 802.1Qbv and 802.1Qbu. On top of SPQ (Static Priority Queuing) scheduling mechanism, with best effort traffics in parallel, TSN introduces guaranteed timing behavior with focus on the transportation for Control Data traffic (CDT) under Time Aware Shaper (TAS) and audio video streams under Credit-Based Shaper (CBS). This paper introduces the basic principles of TSN standard in details, compares it with the properties of the TTEthernet standard. In particular, we first investigate their clock synchronization algorithms and discuss their shaping and scheduling strategies for traffic types with individual timing requirements. Then we show the impact the hard real-time traffic has on soft real-time traffic and give the worst case end-to-end latency calculation. Finally, we determine whether TSN offers flexibility for the requirements of avionic.
+ER  - 
+
+TY  - CONF
+TI  - Improved and Comparative End to End Delay Analysis in CBS and TAS using Data Compression for Time Sensitive Network
+T2  - 2021 3rd International Conference on Applied Machine Learning (ICAML)
+SP  - 195
+EP  - 201
+AU  - M. M. Hasan
+AU  - H. Feng
+AU  - M. T. Hasan
+AU  - B. Gain
+AU  - M. I. Ullah
+AU  - S. Khan
+PY  - 2021
+KW  - Machine learning algorithms
+KW  - Job shop scheduling
+KW  - Network topology
+KW  - Data compression
+KW  - Quality of service
+KW  - Machine learning
+KW  - Real-time systems
+KW  - TSN
+KW  - CBS
+KW  - CBS+TAS
+KW  - Data compression
+KW  - End-to-End delay
+DO  - 10.1109/ICAML54311.2021.00049
+JO  - 2021 3rd International Conference on Applied Machine Learning (ICAML)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 3rd International Conference on Applied Machine Learning (ICAML)
+Y1  - 23-25 July 2021
+AB  - TSN, or Time-Sensitive Network, is a set of standards that allows an Ethernet network to be extended to serve real-time applications while ensuring safety-critical hardware delivery. TSN uses a variety of shaping and scheduling techniques, like Credit-Based Shaping, Asynchronous Traffic Shaping (ATS), Burst-Limiting Shaper (BLS), and Time Aware Shaper (TAS), to improve real-time guarantees. In modern industries, the increasing number of traffic and data are causing the latency to increase significantly. To minimize the end-to-end delay, it is highly required to have lossless compress data. This paper proposes some pre-existing lossless compression algorithms (Huffman, LZW, RLE), which are well suited for the TSN network. It can improve the end-to-end delay despite increasing data and is applicable for the worst-case scenarios. So, the focus of this research is confined to CBS and CBS+TAS shaping mechanism. For the validation of our statement, we have simulated various traffics such as Control Data Traffic (CDT), Audio & Video Bridging (AVB) class A, AVB class B and best-effort by OMNeT++. Comparisons are shown in terms of end-to-end delay between the compressed and uncompressed data and end-to-end delay have been improved for all classes.
+ER  - 
+
+TY  - CONF
+TI  - Research on Maximum Delay of Time-sensitive Network Based on GCL Adaptive Adjustment
+T2  - 2023 4th International Conference on Advanced Electrical and Energy Systems (AEES)
+SP  - 172
+EP  - 178
+AU  - Y. Zhang
+AU  - L. Qiu
+AU  - Y. Xu
+AU  - X. Wang
+PY  - 2023
+KW  - Analytical models
+KW  - Adaptation models
+KW  - Logic gates
+KW  - Mathematical models
+KW  - Real-time systems
+KW  - Calculus
+KW  - Delays
+KW  - network calculus
+KW  - time-sensitive network
+KW  - upper bound on delay
+KW  - gate control list
+DO  - 10.1109/AEES59800.2023.10468845
+JO  - 2023 4th International Conference on Advanced Electrical and Energy Systems (AEES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 4th International Conference on Advanced Electrical and Energy Systems (AEES)
+Y1  - 1-3 Dec. 2023
+AB  - 5G+ deterministic network plays important role in the power system. Time sensitive network(TSN) related technologies meet the real time transmission of time-triggered power flows. In this paper, we firstly propose a network calculus based model for analyzing network maximum delays, which utilizing service curves and arrival curves to determine the upper threshold of TSN end-to-end delays by the time-aware shaper (TAS) mechanism. This model simplifies the evaluation of delay performance when compared to conventional random queuing methods. Secondly, since the service curve relies on the gate control list (GCL) configuration, this requires accurately calculating gate durations for different service flows and the precise open/close time for each queue. To tackle this challenge, this paper presents a GCL adaptive adjustment algorithm, which can identify the minimum of maximum delays by configuring gating parameters optimally. Thirdly, we use Matlab to analyze high-priority flow maximum delays across different GCL configurations, examining the effects of service flows, overlap times, gate open durations, and time intervals. Furthermore, we employ the OMNeT++ platform to conduct network simulations under predefined GCL gating settings. The results show that high-priority flows maintain an end-to-end delay below the optimized maximum delay value, consistently confirming the effectiveness of the proposed TSN delay analysis model and GCL adaptive adjustment algorithm.
+ER  - 
+
+TY  - JOUR
+TI  - preDQN-Based TAS Traffic Scheduling in Intelligence Endogenous Networks
+T2  - IEEE Systems Journal
+SP  - 1
+EP  - 12
+AU  - B. Li
+AU  - L. Chen
+AU  - Z. Yang
+AU  - H. Xiang
+PY  - 2024
+KW  - Scheduling
+KW  - Predictive models
+KW  - Prediction algorithms
+KW  - Training
+KW  - Standards
+KW  - Processor scheduling
+KW  - Intelligent networks
+KW  - Deep reinforcement learning (DRL)
+KW  - intelligent endogenous network
+KW  - time aware shaper (TAS)
+KW  - traffic scheduling
+DO  - 10.1109/JSYST.2024.3402664
+JO  - IEEE Systems Journal
+IS  - 
+SN  - 1937-9234
+VO  - 
+VL  - 
+JA  - IEEE Systems Journal
+Y1  - 
+AB  - The time-sensitive networking (TSN) working group standardizes time-aware shapes (TAS) to reduce network latency, but the traditional TAS standard lacks adaptability and cannot perform well in dynamically changing environments. The continuously developing artificial intelligence techniques can be combined with TSN to better adapt the dynamically changing environments. Therefore, we utilize deep reinforcement learning (DRL) algorithms to dynamically configure the network to improve its adaptability. Meanwhile, we propose the queuing transmission method in TAS by incorporating transmission windows for different types of traffic, to make resource allocation simpler and more efficient. However, DRL algorithms usually take a lot of time to train, which is contrary to the delay sensitivity of TAS. Hence, we propose an improved DRL algorithm, called preDQN, where the network prediction is used to help the agent explore the environment more efficiently. Experimental validation is carried out in a simulation environment, and the experimental results show that the scheme can significantly improve the resource utilization, reduce the end-to-end delay and packet loss rate.
+ER  - 
+
+TY  - JOUR
+TI  - Current Status and Directions of IEEE 802.11be, the Future Wi-Fi 7
+T2  - IEEE Access
+SP  - 88664
+EP  - 88688
+AU  - E. Khorov
+AU  - I. Levitsky
+AU  - I. F. Akyildiz
+PY  - 2020
+KW  - Wireless fidelity
+KW  - IEEE 802.11 Standard
+KW  - MIMO communication
+KW  - Throughput
+KW  - Media Access Protocol
+KW  - OFDM
+KW  - 802.11be
+KW  - extremely high throughput
+KW  - 4096 QAM
+KW  - 320 MHz
+KW  - MU-MIMO
+KW  - time-sensitive networking
+KW  - multi-link operation
+KW  - implicit sounding
+KW  - distributed MU-MIMO
+DO  - 10.1109/ACCESS.2020.2993448
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - While customers rivet their eyes on Wi-Fi 6, in the bowels of the IEEE 802.11 Working Group that creates Wi-Fi standards, the next generation Wi-Fi is being developed. At the very first sight, the new IEEE 802.11be amendment to the Wi-Fi standard is nothing but scaled 11ax with doubled bandwidth and the increased number of spatial streams, which together provide data rates as high as 40 Gbps. A bit deeper dive into the 802.11 activities reveals that 11be will support real-time applications. In reality, 11be introduces many more revolutionary changes to Wi-Fi, which will form a basement for further Wi-Fi evolution. Although by now (May 2020), the development process is at the very early phase without any draft specification, the analysis of the discussion in the 802.11 Working Group gives insights into the main innovations of 11be. In addition to the ones above, they include native multi-link operation, channel sounding optimization that opens the door for massive MIMO, advanced PHY and MAC techniques, the cooperation of various access points. The paper analyzes hundreds of features proposed for the new technology, focusing on the open problems that can be solved by the researchers who want to contribute to the development of 802.11be.
+ER  - 
+
+TY  - JOUR
+TI  - Recent Advances and Trends in On-Board Embedded and Networked Automotive Systems
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 1038
+EP  - 1051
+AU  - L. L. Bello
+AU  - R. Mariani
+AU  - S. Mubeen
+AU  - S. Saponara
+PY  - 2019
+KW  - Automotive engineering
+KW  - Automobiles
+KW  - Standards
+KW  - Safety
+KW  - Computer architecture
+KW  - Software
+KW  - Automotive Ethernet
+KW  - automotive software (SW)
+KW  - embedded systems
+KW  - functional safety
+KW  - on-board security
+KW  - real-time (RT) networks
+KW  - time-sensitive networking
+DO  - 10.1109/TII.2018.2879544
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 2
+SN  - 1941-0050
+VO  - 15
+VL  - 15
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Feb. 2019
+AB  - Modern cars consist of a number of complex embedded and networked systems with steadily increasing requirements in terms of processing and communication resources. Novel automotive applications, such as automated driving, rise new needs and novel design challenges that cover a broad range of hardware/software engineering aspects. In this context, this paper provides an overview of the current technological challenges in on-board and networked automotive systems. This paper encompasses both the state-of-the-art design strategies and the upcoming hardware/software solutions for the next generation of automotive systems, with a special focus on embedded and networked technologies. In particular, this paper surveys current solutions and future trends on models and languages for automotive software development, on-board computational platforms, in-car network architectures and communication protocols, and novel design strategies for cybersecurity and functional safety.
+ER  - 
+
+TY  - JOUR
+TI  - Routing and Scheduling of Time-Triggered Traffic in Time-Sensitive Networks
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 4525
+EP  - 4534
+AU  - A. A. Atallah
+AU  - G. B. Hamad
+AU  - O. A. Mohamed
+PY  - 2020
+KW  - Routing
+KW  - Schedules
+KW  - Job shop scheduling
+KW  - Logic gates
+KW  - Bridges
+KW  - Processor scheduling
+KW  - Fault tolerance
+KW  - Graph cut
+KW  - integer linear programming (ILP)
+KW  - no-wait scheduling
+KW  - routing
+KW  - streams partitioning
+KW  - time-sensitive networks (TSNs)
+DO  - 10.1109/TII.2019.2950887
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 7
+SN  - 1941-0050
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - July 2020
+AB  - This article addresses the following research question: How to compute no-wait schedules and multipath routings for large-scale time-sensitive networks (TSNs)? TSN must guarantee low latency and fault tolerance. The former requirement is achieved by sending the messages according to a no-wait schedule, whereas the latter is achieved by routing each message through multiple streams of disjoint paths. Computing such schedule and routing is an NP-hard problem. In this article, the aforementioned question is addressed by a three-fold solution: An iterated integer linear programming based scheduling (IIS) technique for scalability; the Degree of Conflict (DoC) between the IIS iterations is minimized by the DoC-aware streams partitioning (DASP) technique, which improves the success rate of the IIS; the fault-tolerance is guaranteed by a DoC-aware multipath routing technique, which integrates the DASP for further improvement in the success rate. Two hundred synthetic test cases are used for performance evaluation. The proposed method scales well, i.e., it handled networks of 21 bridges and 480 messages under 40 min timeout. The success rate of the highly utilized instances raised from 47% by random streams partitioning to 90% by the proposed method.
+ER  - 
+
+TY  - JOUR
+TI  - AVB-Aware Routing and Scheduling of Time-Triggered Traffic for TSN
+T2  - IEEE Access
+SP  - 75229
+EP  - 75243
+AU  - V. Gavriluţ
+AU  - L. Zhao
+AU  - M. L. Raagaard
+AU  - P. Pop
+PY  - 2018
+KW  - Routing
+KW  - Real-time systems
+KW  - Standards
+KW  - Schedules
+KW  - Ethernet
+KW  - Timing
+KW  - Logic gates
+KW  - IEEE 802.1 Time-sensitive networking
+KW  - deterministic ethernet
+KW  - real-time networks
+KW  - routing
+KW  - scheduling
+KW  - meta-heuristic optimization
+DO  - 10.1109/ACCESS.2018.2883644
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 6
+VL  - 6
+JA  - IEEE Access
+Y1  - 2018
+AB  - IEEE 802.1 time-sensitive networking (TSN) is a set of amendments to the IEEE 802.1 standard that enable safety-critical and real-time behavior over Ethernet for the industrial automation and automotive domains. Selected TSN mechanisms offer the possibility to emulate the well-known traffic classes found in mixed-criticality distributed systems: Time-triggered (TT) communication with low jitter and bounded endto-end latency, audio-video-bridging (AVB) streams with bounded end-to-end latency, and general besteffort messages, which have no timing guarantees. Critical traffic is guaranteed via the global network schedule which is stored in so-called gate control lists (GCLs) and controls the timely behavior of frames for each queue of an egress port. Although researchers have started to propose approaches for the routing and scheduling (i.e., GCL synthesis) of TT traffic, all previous research has ignored lower priority realtime traffic, such as AVB, resulting in TT configurations that may increase the worst-case delays of AVB traffic, rendering it unschedulable. In this paper, we propose a joint routing and scheduling approach for TT traffic, which takes into account the AVB traffic, such that both TT and the AVB traffic are schedulable. We extensively evaluate our approach on a number of synthetic and realistic test cases.
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing Schedulability and Throughput of Time-Triggered Traffic in IEEE 802.1Qbv Time-Sensitive Networks
+T2  - IEEE Transactions on Communications
+SP  - 7023
+EP  - 7038
+AU  - M. Vlk
+AU  - Z. Hanzálek
+AU  - K. Brejchová
+AU  - S. Tang
+AU  - S. Bhattacharjee
+AU  - S. Fu
+PY  - 2020
+KW  - Switches
+KW  - Logic gates
+KW  - Schedules
+KW  - Standards
+KW  - Jitter
+KW  - Computational modeling
+KW  - Throughput
+KW  - Time-triggered scheduling
+KW  - time-sensitive networking
+KW  - isochronous traffic
+KW  - switch enhancement
+KW  - integer linear programming
+DO  - 10.1109/TCOMM.2020.3014105
+JO  - IEEE Transactions on Communications
+IS  - 11
+SN  - 1558-0857
+VO  - 68
+VL  - 68
+JA  - IEEE Transactions on Communications
+Y1  - Nov. 2020
+AB  - Thanks to the standards being developed by IEEE Time-Sensitive Networking (TSN) Task Group, the classical IEEE 802.1 Ethernet architecture is now enhanced to accommodate real-time and safety-critical requirements emerging in various cyber-physical systems. The deterministic nature of the communication is achieved through the time-triggered traffic, which requires introducing strict scheduling constraints that may be an obstacle in finding a feasible schedule. In this article, we propose a simple hardware enhancement of a switch along with a relaxed scheduling constraint that increases schedulability and throughput of the time-triggered traffic but maintains the deterministic nature and timeliness guarantees in a TSN network. We give a formal proof to justify the claims and an algorithm benchmarking and experimental validation to demonstrate the gains. The results show that the number of flows that can be scheduled in the model with the relaxed constraint is on average by 75.1 % larger than in the traditional model.
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive Group Routing and Scheduling in Multicast Time-Sensitive Networks
+T2  - IEEE Access
+SP  - 37855
+EP  - 37865
+AU  - Q. Yu
+AU  - M. Gu
+PY  - 2020
+KW  - Schedules
+KW  - Routing
+KW  - Real-time systems
+KW  - Processor scheduling
+KW  - Jitter
+KW  - Job shop scheduling
+KW  - Integer linear programming
+KW  - real-time scheduling
+KW  - time-sensitive networks
+DO  - 10.1109/ACCESS.2020.2974580
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - Traditionally, industrial networks rely on field bus to support real-time applications. In the trend of industrial internet of things (IIoT), traffic load has increased dramatically, and industrial networks are moving towards time-sensitive networking (TSN), which is based on the widely used Ethernet. In TSN, the time-triggered mechanism is a promising technology for real-time control due to its ability to provide deterministic latency and jitter guarantees. However, this mechanism is mainly based on offline computed schedules, making it difficult to satisfy dynamic requirements in data transmission of IIoT. In this paper, we propose an adaptive group routing and scheduling (AGRS) approach in multicast time-sensitive networks. The framework of this approach contains three phases including pre-processing, schedule synthesis, and post-processing phases. While the pre-processing phase first prunes unnecessary links and adaptively groups qualified complete subgraphs of the network to obtain a simplified topology, the schedule synthesis phase then jointly considers routing and scheduling processes based on the simplified topology to improve schedulability. Finally, the post-processing phase handles the scheduling results of previous phases to generate a feasible schedule. Experiments show that our approach improves schedulability by 68% and reduces execution time by 74% for multicast time-sensitive networks compared with existing approaches.
+ER  - 
+
+TY  - JOUR
+TI  - Real-Time Scheduling of Massive Data in Time Sensitive Networks With a Limited Number of Schedule Entries
+T2  - IEEE Access
+SP  - 6751
+EP  - 6767
+AU  - X. Jin
+AU  - C. Xia
+AU  - N. Guan
+AU  - C. Xu
+AU  - D. Li
+AU  - Y. Yin
+AU  - P. Zeng
+PY  - 2020
+KW  - Schedules
+KW  - Real-time systems
+KW  - Wireless sensor networks
+KW  - Wireless communication
+KW  - Job shop scheduling
+KW  - Heuristic algorithms
+KW  - Industrial Internet of Things
+KW  - massive data
+KW  - real-time scheduling
+KW  - time sensitive networks
+DO  - 10.1109/ACCESS.2020.2964690
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+AB  - Time sensitive networks support deterministic schedules over Ethernet networks. Due to their high determinism, high reliability and high bandwidth, they have been considered as a good choice for the backbone network of industrial internet of things. In industrial applications, the backbone network connects multiple industrial field networks together and has to carry massive real-time packets. However, the off-the-shelf time-sensitive network (TSN) switches can deterministically schedule no more than 1024 real-time flows due to the limited number of schedule table entries. The excess real-time flows have to be delivered by best-effort services because the switch only supports the two scheduling services. The best-effort services can reduce average delay, but cannot guarantee the hard real-time constraints of industrial applications. To make the limited number of schedule table entries support more real-time flows, first, we relax scheduling rules to reduce the requirement for schedule table entries and formulate the process of transmitting packets as a satisfiability modulo theories (SMT) specification. Then, we divide the SMT specification into multiple optimization modulo theories (OMT) specifications so that the execution time of solvers can be reduced to an acceptable range. Second, we propose fast heuristic algorithms that combine schedule tables and packet injection control to eliminate scheduling conflicts. Finally, we conduct extensive evaluations. The evaluation results indicate that, compared to existing algorithms, our proposed algorithm requires only one-twentieth the number of schedule entries to schedule the same flow set.
+ER  - 
+
+TY  - CONF
+TI  - Next Generation Intra-Vehicle Backbone Network Architectures
+T2  - 2021 IEEE 22nd International Conference on High Performance Switching and Routing (HPSR)
+SP  - 1
+EP  - 7
+AU  - O. Alparslan
+AU  - S. Arakawa
+AU  - M. Murata
+PY  - 2021
+KW  - Scheduling algorithms
+KW  - Optical switches
+KW  - Computer architecture
+KW  - IEEE 802.3 Standard
+KW  - Optical fiber networks
+KW  - Network architecture
+KW  - EPON
+KW  - Vehicle backbone
+KW  - In-vehicle networks
+KW  - Quality of service
+KW  - Ethernet
+KW  - Time-Sensitive Networking
+KW  - Optical networks
+KW  - Autonomous vehicles
+DO  - 10.1109/HPSR52026.2021.9481803
+JO  - 2021 IEEE 22nd International Conference on High Performance Switching and Routing (HPSR)
+IS  - 
+SN  - 2325-5609
+VO  - 
+VL  - 
+JA  - 2021 IEEE 22nd International Conference on High Performance Switching and Routing (HPSR)
+Y1  - 7-10 June 2021
+AB  - Increasing bandwidth requirements in vehicles are pushing the backbone architectures to use faster switching technologies like Ethernet. However, the traditional Ethernet cannot satisfy the strict latency requirements in a vehicle. As a solution, switched Ethernet variants like Time-Sensitive Networking (TSN) and Audio Video Bridging (AVB) are being standardized for automotive Ethernet. Moreover, it is expected that the intravehicle backbone architectures will shift to a zonal architecture for more centralizing the processing and decreasing the costs. In this paper, we present the recent trends, advances and challenges in intra-vehicle backbone networks. Moreover, we compare a TSN+AVB Ethernet backbone architecture with an alternative cut-through switching optical backbone network architecture by simulation and show that the cut-through switching optical architecture may achieve lower latency.
+ER  - 
+
+TY  - CONF
+TI  - Network Calculus Results for TSN: An Introduction
+T2  - 2020 Information Communication Technologies Conference (ICTC)
+SP  - 131
+EP  - 140
+AU  - L. Maile
+AU  - K. -S. Hielscher
+AU  - R. German
+PY  - 2020
+KW  - Delays
+KW  - Standards
+KW  - Real-time systems
+KW  - Ethernet
+KW  - Calculus
+KW  - Upper bound
+KW  - Computer science
+KW  - Delay
+KW  - Guarantees
+KW  - Latency
+KW  - Network Calculus
+KW  - Time-Sensitive Networking
+KW  - Worst-Case
+DO  - 10.1109/ICTC49638.2020.9123308
+JO  - 2020 Information Communication Technologies Conference (ICTC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 Information Communication Technologies Conference (ICTC)
+Y1  - 29-31 May 2020
+AB  - Time-Sensitive Networking (TSN) is a set of standards that enables the industry to provide real-time guarantees for time-critical communications with Ethernet hardware. TSN supports various queuing and scheduling mechanisms and allows the integration of multiple traffic types in a single network. Network Calculus (NC) can be used to calculate upper bounds for latencies and buffer sizes within these networks, for example, for safety or real-time traffic. We explain the relevance of NC for TSN-based computer communications and potential areas of application. Different NC analysis approaches have been published to examine different parts of TSN and this paper provides a survey of these publications and presents their main results, dependencies, and differences. We present a consistent presentation of the most important results and suggest an improvement to model the output of sending end-devices. To ease access to the current research status, we introduce a common notation to show how all results depend on each other and also identify common assumptions. Thus, we offer a comprehensive overview of NC for industrial networks and identify possible areas for future work.
+ER  - 
+
+TY  - CONF
+TI  - On the adequacy of SDN and TSN for Industry 4.0
+T2  - 2019 IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC)
+SP  - 43
+EP  - 51
+AU  - L. Silva
+AU  - P. Pedreiras
+AU  - P. Fonseca
+AU  - L. Almeida
+PY  - 2019
+KW  - Real-time systems
+KW  - Industries
+KW  - Protocols
+KW  - Ethernet
+KW  - Control systems
+KW  - Production systems
+KW  - Industry 4.0
+KW  - Time-Sensitive Networking
+KW  - Software-Defined Networking
+KW  - Real-Time Communications
+DO  - 10.1109/ISORC.2019.00017
+JO  - 2019 IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC)
+IS  - 
+SN  - 2375-5261
+VO  - 
+VL  - 
+JA  - 2019 IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC)
+Y1  - 7-9 May 2019
+AB  - Industry 4.0, Industrial Internet of Things, Cyber-Physical Production Systems and Smart Factories are closely related emerging concepts expected to drive significant improvements in industrial production systems, with gains in efficiency, cost and customer satisfaction. These concepts are intimately associated with highly distributed and cooperative architectures that rely, naturally, on the network infrastructure. However, traditional industrial communication technologies hardly provide the required level of integration, flexibility and performance. Seeking a solution to this mismatch, we assess two technologies that appeared recently in the industrial realm, namely IEEE 802.1 Time-Sensitive Networking (TSN) and Software-Defined Networking (SDN). TSN and SDN are fundamentally different, thus having distinct strengths and weaknesses. This paper reviews their fundamental operation principles, evaluating them qualitatively against the specific requirements posed by Industry 4.0.
+ER  - 
+
+TY  - JOUR
+TI  - Burst-Aware Time-Triggered Flow Scheduling With Enhanced Multi-CQF in Time-Sensitive Networks
+T2  - IEEE/ACM Transactions on Networking
+SP  - 2809
+EP  - 2824
+AU  - D. Yang
+AU  - Z. Cheng
+AU  - W. Zhang
+AU  - H. Zhang
+AU  - X. Shen
+PY  - 2023
+KW  - Jitter
+KW  - Job shop scheduling
+KW  - Scheduling algorithms
+KW  - Computational modeling
+KW  - Load modeling
+KW  - Heuristic algorithms
+KW  - Delays
+KW  - Time-sensitive networks
+KW  - resource scheduling
+KW  - enhanced Multi-CQF
+KW  - deep reinforcement learning
+DO  - 10.1109/TNET.2023.3264583
+JO  - IEEE/ACM Transactions on Networking
+IS  - 6
+SN  - 1558-2566
+VO  - 31
+VL  - 31
+JA  - IEEE/ACM Transactions on Networking
+Y1  - Dec. 2023
+AB  - Deterministic transmission guarantee in time-sensitive networks (TSN) relies on queue models (such as CQF, TAS, ATS) and resource scheduling algorithms. Thanks to its ease of use, the CQF queue model has been widely adopted. However, the existing resource scheduling algorithms of CQF model only focus on periodic time-triggered (TT) flows without consideration of bursting flows. Considering that the bursting flows often carry high-priority data in real systems, in this paper we investigate the mixed-flow (i.e., TT and bursting flows) scheduling problem in CQF-based TSN aiming to maximize the number of schedulable flows and system load balance while satisfying the deterministic demands of delay, jitter, and reliability for both TT and bursting flows. Unfortunately, it is challenging to schedule the mixed flows with the original CQF model because of the huge difference between TT and bursting flows. To resolve this problem, we firstly design an enhanced Multi-CQF model to satisfy the basic demands of bursting flows sent at any time without affecting the deterministic transmission of TT flows. Given the complexity of mixed-flow scheduling and the proposed queue model, it is difficult for traditional algorithms to fully utilize network resources. Thus, we further propose a uline time-correlated uline DRL uline resource uline scheduling (TimeDRS) algorithm to optimize the resource allocation. TimeDRS can be extended to other time-related resource scheduling scenarios, such as TDMA-based scheduling. Experimental results demonstrate that our proposed approaches can greatly reduce frame loss and end-to-end latency for bursting flows, and well balance runtime and schedulability compared with state-of-the-art benchmarks.
+ER  - 
+
+TY  - CONF
+TI  - On-line Traffic Scheduling optimization in IEEE 802.1Qch based Time-Sensitive Networks
+T2  - 2020 IEEE 22nd International Conference on High Performance Computing and Communications; IEEE 18th International Conference on Smart City; IEEE 6th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+SP  - 369
+EP  - 376
+AU  - W. Quan
+AU  - J. Yan
+AU  - X. Jiang
+AU  - Z. Sun
+PY  - 2020
+KW  - Schedules
+KW  - Job shop scheduling
+KW  - Scheduling algorithms
+KW  - Heuristic algorithms
+KW  - High performance computing
+KW  - Dynamic scheduling
+KW  - Resource management
+KW  - Time-Sensitive Networking
+KW  - Resource Mapping
+KW  - CQF Model
+KW  - Traffic Scheduling
+DO  - 10.1109/HPCC-SmartCity-DSS50907.2020.00045
+JO  - 2020 IEEE 22nd International Conference on High Performance Computing and Communications; IEEE 18th International Conference on Smart City; IEEE 6th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE 22nd International Conference on High Performance Computing and Communications; IEEE 18th International Conference on Smart City; IEEE 6th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+Y1  - 14-16 Dec. 2020
+AB  - Time-sensitive networking (TSN) enables deterministic transmission on standard Ethernet with the time-aware shaping enhancements. The time-aware shaper usually requires complex schedules to control the input and output of packet queues of switches, and is applied in TSN systems with static time-sensitive traffic. However, for scenarios with dynamic deterministic transmission requirements, like industrial Internet of Things (IoT), such shaper may no longer be applicable as the heavy recomputation and reload overhead of scheduling configurations for each switch. To solve this problem, IEEE 802.1Qch recently proposed a Cyclic Queuing and Forwarding (CQF) based shaper that does not require complicated configurations. But currently no scheduling algorithm can be directly applied to the CQF based shaper with dynamic time-sensitive traffic. To make CQF practical in the dynamic TSN application scenarios, new scheduling algorithms are urgently required.In this paper, we propose an on-line flow injection time scheduling algorithm, namely Fits, to fully explore the deterministic transmission ability of IEEE 802.1 Qch based TSN networks. It incrementally generates traffic schedules for new time-sensitive flows by adjusting the sending time on the network adapter based on network resource utilization. There is no need to reconFigure previously scheduled flows. To evaluate this algorithm, it is compared with two counterparts Naive and Tabu under various TSN system settings. The experimental results show that the successfully scheduled time-sensitive flows of the proposed algorithm is 82.5% more and 29.7% less on average than Naive and Tabu respectively. And the computation time of Fits is two orders less than Tabu in a few seconds level, which is acceptable at system run time.
+ER  - 
+
+TY  - CONF
+TI  - On the Reliability of IEEE 802.1CB FRER
+T2  - IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+SP  - 1
+EP  - 10
+AU  - D. Ergenç
+AU  - M. Fischer
+PY  - 2021
+KW  - Measurement
+KW  - Fault tolerance
+KW  - Simulation
+KW  - Fault tolerant systems
+KW  - Tools
+KW  - Reliability engineering
+KW  - Real-time systems
+KW  - time-sensitive networks
+KW  - fault-tolerance
+KW  - FRER
+DO  - 10.1109/INFOCOM42981.2021.9488750
+JO  - IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+IS  - 
+SN  - 2641-9874
+VO  - 
+VL  - 
+JA  - IEEE INFOCOM 2021 - IEEE Conference on Computer Communications
+Y1  - 10-13 May 2021
+AB  - The introduction of IEEE Time-sensitive Networking (TSN) enables the design of real-time and mission-critical networks based on Ethernet technologies. Apart from providing necessary tools for near-deterministic scheduling, TSN comes with further functionalities for configurability, security, and reliability. IEEE 802.1CB Frame Replication and Elimination (FRER) is the only protocol in the TSN toolbox for adding fault-tolerance via sending the same packets via redundant paths. Although its core functions are defined by the standard, its effective use mainly depends on the actual deployment scenario and the path selection strategy. In this paper, we show that FRER can induce unintentional elimination of packets packets when the paths chosen for a particular packet flow are non-disjoint. We propose the new metric reassurance that can be used in FRER path selection. Besides, we propose an additional enhancement to FRER that can prevent unintended packet eliminations independent from the deployment scenario. Our simulation results indicate that the reassurance-based path selection performs better than random or maximum-disjoint path selection in random failure scenarios.
+ER  - 
+
+TY  - CONF
+TI  - Joint Routing and Scheduling for Dynamic Applications in Multicast Time-Sensitive Networks
+T2  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+SP  - 1
+EP  - 6
+AU  - C. Li
+AU  - C. Zhang
+AU  - W. Zheng
+AU  - X. Wen
+AU  - Z. Lu
+AU  - J. Zhao
+PY  - 2021
+KW  - Schedules
+KW  - Job shop scheduling
+KW  - Runtime
+KW  - Conferences
+KW  - Heuristic algorithms
+KW  - Dynamic scheduling
+KW  - Routing
+KW  - Time-sensitive Networking
+KW  - joint routing and scheduling
+KW  - dynamic applications
+KW  - Industry 4.0
+KW  - traffic cluster
+DO  - 10.1109/ICCWorkshops50388.2021.9473540
+JO  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+IS  - 
+SN  - 2694-2941
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+Y1  - 14-23 June 2021
+AB  - Time-Sensitive Networking (TSN) is appealing to Industrial Internet of Things (IIoT) due to its support for deterministic real-time communication based on Ethernet. The deterministic transmission of time-sensitive traffic is achieved through a time-triggered mechanism, which requires precise schedule synthesis. However, existing approaches mostly focus on the static schedule, which cannot guarantee rapid response to dynamic requirements due to long runtime. Moreover, the multicast scheduling problem required for distributed applications in IIoT has been ignored. In this paper, we formulate the joint routing and scheduling problem for multicast time-sensitive traffic based on Integer Linear Programming (ILP) and extend it to cluster-ILP (CILP) to accelerate schedule synthesis. Firstly, an improved topology pruning is introduced to reduce the scale of the scheduling problem. Then flows are divided into several groups and schedules are calculated for flows in different groups incrementally. The evaluation results indicate that our proposed algorithm can reduce the runtime by 86.7% on average while ensuring the performance of resource utilization, thus increasing the schedulability for dynamic applications in TSN.
+ER  - 
+
+TY  - CONF
+TI  - Deep Reinforcement Learning aided No-wait Flow Scheduling in Time-Sensitive Networks
+T2  - 2022 IEEE Wireless Communications and Networking Conference (WCNC)
+SP  - 812
+EP  - 817
+AU  - X. Wang
+AU  - H. Yao
+AU  - T. Mai
+AU  - T. Nie
+AU  - L. Zhu
+AU  - Y. Liu
+PY  - 2022
+KW  - Schedules
+KW  - Job shop scheduling
+KW  - Scheduling algorithms
+KW  - Network topology
+KW  - Simulation
+KW  - Reinforcement learning
+KW  - Traffic control
+KW  - Time-sensitive networks
+KW  - deep reinforcement learning
+KW  - no-wait flow scheduling
+DO  - 10.1109/WCNC51071.2022.9771665
+JO  - 2022 IEEE Wireless Communications and Networking Conference (WCNC)
+IS  - 
+SN  - 1558-2612
+VO  - 
+VL  - 
+JA  - 2022 IEEE Wireless Communications and Networking Conference (WCNC)
+Y1  - 10-13 April 2022
+AB  - Emerging latency-sensitive applications (e.g., industrial control, in-vehicle networks) require that the networks guaranteed data delivery with low, bounded latency. To meet this requirement, the IEEE 802.1 Working Group developed the time-sensitive networks (TSN) standard to enable deterministic communication on standard Ethernet. TSN technology is developed to enable deterministic communication using traffic scheduling and shaping technology. However, while the TSN standards define the mechanisms to handle scheduled traffic, it does not specify algorithms to compute fine-grained traffic scheduling policy. Current TSN flow scheduling schemes largely rely on a manual process, requiring knowledge of the traffic pattern and network topology features. Inspired by recent successes in applying reinforcement learning in online control, we propose a deep reinforcement learning aided no-waiting flow scheduling algorithm in TSN. Extensive simulations are performed to verify that our algorithm can find the optimal solution in an acceptable time.
+ER  - 
+
+TY  - JOUR
+TI  - Joint Traffic Routing and Scheduling Algorithm Eliminating the Nondeterministic Interruption for TSN Networks Used in IIoT
+T2  - IEEE Internet of Things Journal
+SP  - 18663
+EP  - 18680
+AU  - Y. Li
+AU  - J. Jiang
+AU  - S. H. Hong
+PY  - 2022
+KW  - Routing
+KW  - Job shop scheduling
+KW  - Schedules
+KW  - Logic gates
+KW  - Standards
+KW  - Automation
+KW  - Time factors
+KW  - Industrial Internet of Things (IIoT)
+KW  - real time
+KW  - routing
+KW  - scheduling
+KW  - time-sensitive networks
+DO  - 10.1109/JIOT.2022.3163411
+JO  - IEEE Internet of Things Journal
+IS  - 19
+SN  - 2327-4662
+VO  - 9
+VL  - 9
+JA  - IEEE Internet of Things Journal
+Y1  - 1 Oct.1, 2022
+AB  - Recently, time-sensitive networking (TSN) has been developed to incorporate real-time capabilities to the standard Ethernet for the incompatible issue in existing industrial communication solutions and is considered a promising solution to satisfy the requirements of the Industrial Internet of Things (IIoT). However, the routing and scheduling methods are left out of the TSN standard. This study developed a novel joint traffic routing and scheduling algorithm to compute routes for time-critical flows and construct the schedules. The validity of the proposed algorithm was verified using a random synthetic test scenario. The simulation results demonstrated that the real-time requirements of time-critical traffic could be satisfied with the proposed algorithm. Subsequently, we evaluated the scalability of the proposed algorithm from the perspective of the number of flows that can be scheduled and the network size. The results showed that the computational times for 4000 flows in the realistic industrial network topology and random network topologies (with up to 21 switches and 105 end stations) are at the subsecond level, which indicated the perfect scalability of the proposed algorithm. In addition, compared with the well-known integer linear programming (ILP)-based approach, Degree of Conflict (DoC)-aware iterative routing and scheduling (DA/IRS) approach, and hybrid genetic algorithm (HGA)-based approach, the proposed algorithm is faster than the three approaches by at least an order of magnitude.
+ER  - 
+
+TY  - CONF
+TI  - Traffic Shaping Engine for Time Sensitive Networking Integration within In-Vehicle Networks
+T2  - 2021 IEEE Vehicular Networking Conference (VNC)
+SP  - 182
+EP  - 189
+AU  - A. G. Marino
+AU  - F. Fons
+AU  - Z. Haigang
+AU  - J. M. M. Arostegui
+PY  - 2021
+KW  - Software algorithms
+KW  - Quality of service
+KW  - Telecommunication traffic
+KW  - Tunneling
+KW  - Throughput
+KW  - Routing
+KW  - Software defined networking
+KW  - Time Sensitive Networking
+KW  - In-Vehicle Networks
+KW  - Traffic Shaping
+KW  - Quality of Service
+KW  - Hardware Accelerator
+DO  - 10.1109/VNC52810.2021.9644668
+JO  - 2021 IEEE Vehicular Networking Conference (VNC)
+IS  - 
+SN  - 2157-9865
+VO  - 
+VL  - 
+JA  - 2021 IEEE Vehicular Networking Conference (VNC)
+Y1  - 10-12 Nov. 2021
+AB  - In this work authors present a Traffic Shaping Engine (TSE) intended for the next generation of Time Sensitive Networking (TSN) compliant Network/System on Chip (NoC/SoC) devices, targeting especially the automotive industry. The TSE provides a new layer of abstraction that allows to integrate all the TSN standards related to traffic shaping that are applicable to In-Vehicle Networks (IVNs) according to IEEE P802.1DG, providing a common interface for the management of the shapers, independently of the TSN algorithms in place. The TSE provides a Hardware (HW) architecture that solves the traffic shaping processing and adaptation to network status (load balancing) fully autonomously, without intervention from the CPU. The TSE is designed as a coarse-grain configurable HW co-processor or HW Accelerator (HWA) that can be attached to the system CPU, which follows a Software Defined Networking approach. It provides the right interface and set of parameters to handle all the required traffic shaping algorithms in a common and centralized manner in the control plane, while keeping a common data plane regardless of the traffic shaping processing required. The proposed strategy allows to minimize latency and maximize throughput and Quality of Service, contributing towards future automotive Gateway solutions for IVNs with stringent real-time routing and tunneling constraints.
+ER  - 
+
+TY  - CONF
+TI  - A Framework for TSN-enabled Virtual Environments for Ultra-Low Latency 5G Scenarios
+T2  - ICC 2022 - IEEE International Conference on Communications
+SP  - 5023
+EP  - 5028
+AU  - A. Garbugli
+AU  - L. Rosa
+AU  - L. Foschini
+AU  - A. Corradi
+AU  - P. Bellavista
+PY  - 2022
+KW  - Cloud computing
+KW  - Protocols
+KW  - 5G mobile communication
+KW  - Perturbation methods
+KW  - Mission critical systems
+KW  - Quality of service
+KW  - Virtual machining
+KW  - time-sensitive networking
+KW  - cloud continuum
+KW  - network virtualization
+KW  - ultra-low latency
+DO  - 10.1109/ICC45855.2022.9839193
+JO  - ICC 2022 - IEEE International Conference on Communications
+IS  - 
+SN  - 1938-1883
+VO  - 
+VL  - 
+JA  - ICC 2022 - IEEE International Conference on Communications
+Y1  - 16-20 May 2022
+AB  - The recent trend of moving cloud computing capabilities to the edge of the network is reshaping the way applications and their middleware supports are designed, deployed, and operated. This new model envisions a continuum of virtual resources between the traditional cloud and the network edge, which is potentially more suitable to meet the heterogeneous Quality of Service (QoS) requirements of the supported application domains. Yet, mission-critical applications such as those in manufacturing, automation, or automotive, still rely on communication standards like the Time-Sensitive Networking (TSN) protocol and 5G to ensure a deterministic network behavior: in this context, virtualization might introduce unacceptable network perturbations. In this paper, we demonstrate that latency-sensitive applications can execute in virtual machines without disruptions to their network operations. We propose a novel approach to support the TSN protocol in virtual machines through a precise clock synchronization method and we implement it in integration with state-of-the-art and highly-efficient network virtualization techniques. Our experimental results show that it is possible to achieve deterministic and ultra-low latency end-to-end communication in the cloud continuum, for example providing a guaranteed sub-millisecond latency between remote virtual machines.
+ER  - 
+
+TY  - JOUR
+TI  - ITANS: Incremental Task and Network Scheduling for Time-Sensitive Networks
+T2  - IEEE Open Journal of Intelligent Transportation Systems
+SP  - 369
+EP  - 387
+AU  - A. Arestova
+AU  - W. Baron
+AU  - K. -S. J. Hielscher
+AU  - R. German
+PY  - 2022
+KW  - Task analysis
+KW  - Logic gates
+KW  - Real-time systems
+KW  - Ethernet
+KW  - Telecommunication traffic
+KW  - Job shop scheduling
+KW  - Jitter
+KW  - Cause-effect-chains
+KW  - real time
+KW  - task scheduling
+KW  - time-sensitive networks
+DO  - 10.1109/OJITS.2022.3171072
+JO  - IEEE Open Journal of Intelligent Transportation Systems
+IS  - 
+SN  - 2687-7813
+VO  - 3
+VL  - 3
+JA  - IEEE Open Journal of Intelligent Transportation Systems
+Y1  - 2022
+AB  - Recent trends such as automated driving in the automotive field and digitization in factory automation confront designers of real-time systems with new challenges. These challenges have arisen due to the increasing amount of data and an intensified interconnection of functions. For distributed safety-critical systems, this progression has the impact that the complexity of scheduling tasks with precedence constraints organized in so-called cause-effect chains increases the more data has to be exchanged between tasks and the more functions are involved. Especially when data has to be transmitted over an Ethernet-based communication network, the coordination between the tasks running on different end-devices and the network flows has to be ensured to meet strict end-to-end deadlines. In this work, we present an incremental heuristic approach that computes schedules for distributed and data-dependent cause-effect chains consisting of multi-rate tasks and network flows in time-sensitive networks. On the one hand, we provide a common task model for tasks and network flows. On the other hand, we introduce the concept of earliest and latest start times to speed up the solution discovery process and to discard infeasible solutions at an early stage. Our algorithm is able to solve large problems for synthetic network topologies with randomized data dependencies in a few seconds on average under strict end-to-end deadlines. We have achieved a high success rate for multi-rate cause-effect chains and an even better result for homogeneous or harmonic chains. Our approach also showed low jitter for homogeonous cause-effect chains.
+ER  - 
+
+TY  - CONF
+TI  - Fault-tolerant Clock Synchronization using Precise Time Protocol Multi-Domain Aggregation
+T2  - 2021 IEEE 24th International Symposium on Real-Time Distributed Computing (ISORC)
+SP  - 114
+EP  - 122
+AU  - E. Kyriakakis
+AU  - K. Tange
+AU  - N. Reusch
+AU  - E. O. Zaballa
+AU  - X. Fafoutis
+AU  - M. Schoeberl
+AU  - N. Dragoni
+PY  - 2021
+KW  - Protocols
+KW  - Network topology
+KW  - Fault tolerant systems
+KW  - Real-time systems
+KW  - Topology
+KW  - Security
+KW  - Synchronization
+KW  - time-sensitive networking
+KW  - precise time protocol
+KW  - clock synchronization
+KW  - fault tolerance
+KW  - availability
+KW  - safety
+DO  - 10.1109/ISORC52013.2021.00025
+JO  - 2021 IEEE 24th International Symposium on Real-Time Distributed Computing (ISORC)
+IS  - 
+SN  - 2375-5261
+VO  - 
+VL  - 
+JA  - 2021 IEEE 24th International Symposium on Real-Time Distributed Computing (ISORC)
+Y1  - 1-3 June 2021
+AB  - Distributed real-time systems often rely on time-triggered communication and task execution to guarantee end-to-end latency and time-predictable computation. Such systems require a reliable synchronized network time to be shared among end-systems. The IEEE 1588 Precision Time Protocol (PTP) enables such clock synchronization throughout an Ethernet-based network. While security was not addressed in previous versions of the IEEE 1588 standard, in its most recent iteration (IEEE 1588-2019), several security mechanisms and recommendations were included describing different measures that can be taken to improve system security and safety. One proposal to improve security and reliability is to add redundancy to the network through modifications in the topology. However, this recommendation omits implementation details and leaves the question open of how it affects synchronization quality. This work investigates the quality impact and security properties of redundant PTP deployment and proposes an observation window-based multi-domain, PTP end-system, design to increase fault-tolerance and security. We implement the proposed design inside a discrete-event network simulator and evaluate its clock synchronization quality using two test-case network topologies with simulated faults.
+ER  - 
+
+TY  - CONF
+TI  - Mix-Flow Scheduling for Concurrent Multipath Transmission in Time-Sensitive Networking
+T2  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+SP  - 1
+EP  - 6
+AU  - Y. Zheng
+AU  - S. Wang
+AU  - S. Yin
+AU  - B. Wu
+AU  - Y. Liu
+PY  - 2021
+KW  - Schedules
+KW  - Conferences
+KW  - Simulation
+KW  - Scalability
+KW  - Jitter
+KW  - Load management
+KW  - Scheduling
+KW  - Time-Sensitive Networking
+KW  - Concurrent Multipath Transmission
+KW  - Gate Control List
+KW  - Mix-flow
+DO  - 10.1109/ICCWorkshops50388.2021.9473893
+JO  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+IS  - 
+SN  - 2694-2941
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Communications Workshops (ICC Workshops)
+Y1  - 14-23 June 2021
+AB  - Time-Sensitive Networking (TSN) that promises bounded delay and jitter by realizing zero congestion has been looked upon as a promising technology for delay-critical applications. Most of the prior works on TSN implicitly adopt the single path transmission. The conventional algorithms for the calculation of gate control list waste bandwidth to satisfy the constraints of time slots. In this paper, we design an SDN-based architecture, which incorporates the Concurrent Multipath Transmission (CMT) mechanism. CMT transmits the packets through multiple paths so that it can improve link utilization by realizing load balancing, and increase the number of dispatchable flows. We propose an extensible heuristic algorithm, which is Multipath Mix-Flow Scheduling (MPMFS), for flows with various QoS requirements. MPMFS dynamically schedules the flow splitting, routing, and time slot configuration of CMT. MPMFS also solves the disorder problem caused by CMT. Using the single path scheduling as the baseline, we show that the proposed architecture has a better performance on delay, jitter, resource utilization, and dispatchable flows. The simulation results also show that the algorithm execution time is linearly related to the size of delay-critical traffic.
+ER  - 
+
+TY  - JOUR
+TI  - Toward Efficient Time-Sensitive Network Scheduling
+T2  - IEEE Transactions on Aerospace and Electronic Systems
+SP  - 1830
+EP  - 1842
+AU  - S. F. Bush
+PY  - 2022
+KW  - Logic gates
+KW  - Ethernet
+KW  - Switches
+KW  - Aerospace electronics
+KW  - Schedules
+KW  - Processor scheduling
+KW  - Reliability
+KW  - Avionics control network
+KW  - network configuration
+KW  - optimization
+KW  - scheduling
+KW  - time-sensitive networking
+DO  - 10.1109/TAES.2021.3127311
+JO  - IEEE Transactions on Aerospace and Electronic Systems
+IS  - 3
+SN  - 1557-9603
+VO  - 58
+VL  - 58
+JA  - IEEE Transactions on Aerospace and Electronic Systems
+Y1  - June 2022
+AB  - Time-sensitive networks (TSNs) provide reliable, deterministic message delivery, ideal for networked control systems. Such networks are increasingly implemented in dynamic, resource-constrained avionics environments. This places pressure on the TSN scheduler to compute network flow schedules faster with slower processors, less memory, and limited power consumption. Avionics full-duplex switched Ethernet and IEEE 802.1 Time-Sensitive Networking are briefly compared and found to be largely similar in concept except for mechanisms enforcing determinism (BAG versus IEEE 802.1Qbv gate control) and the added requirement for time synchronization in time-sensitive networking. A new form of reliability known as polymorphic reconfiguration is introduced and contrasted with static, preconfigured redundancy. Scalability issues impacting TSN scheduling for polymorphic reconfiguration are derived. Preconfiguring and storing the TSN schedule for every possible network failure is infeasible in terms of memory storage. IEEE 802.1CB and other redundancy mechanisms exacerbate the problem by further increasing the number of flows that have to be reconfigured and scheduled. The computational complexity of TSN scheduling is reviewed and the notion of a processing-storage tradeoff via a schedule seed is introduced. The resource constrained scheduling challenge is addressed by analyzing tradeoffs in efficient scheduling approaches where qualitative performance metrics are inferred, high-level computational methods are compared, and suggestions for future approaches are outlined. This article contributes to time-sensitive networking scheduling capable of operating in a resource-constrained, dynamically changing network environment rather than in fixed avionics network environments to which they are limited today. Finally, the need for standards for TSN scheduling performance profiling and benchmarks as well as partial schedules and distributed TSN scheduling protocol standards is highlighted.
+ER  - 
+
+TY  - CONF
+TI  - Do We Really Need TSN in Next-Generation Helicopters? Insights From a Case-Study
+T2  - 2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+SP  - 1
+EP  - 7
+AU  - C. Mauclair
+AU  - M. Gutiérrez
+AU  - J. Migge
+AU  - N. Navet
+PY  - 2021
+KW  - Protocols
+KW  - High-speed networks
+KW  - Helicopters
+KW  - Quality of service
+KW  - Ethernet
+KW  - Aerospace electronics
+KW  - Timing
+KW  - Helicopters networks
+KW  - Ethernet
+KW  - Time-Sensitive Networking
+KW  - IEEE802.1
+DO  - 10.1109/DASC52595.2021.9594349
+JO  - 2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+IS  - 
+SN  - 2155-7209
+VO  - 
+VL  - 
+JA  - 2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+Y1  - 3-7 Oct. 2021
+AB  - As Ethernet rapidly replaces legacy networks as the core high-speed network in helicopter’s avionics and mission systems, we ask in this paper the question of the technical benefits of migrating to Ethernet Time-Sensitive-Networking (TSN). Indeed, TSN has become a rich toolbox of mechanisms and protocols to address Quality-of-Service (QoS) requirements pertaining to timing and reliability. TSN is quickly becoming the prominent technology for wired high-speed communications in a variety of application domains like automotive, industry 4.0 and telecom. In this context, this work explores the use of TSN timing QoS mechanisms for helicopter’s avionics and mission systems on a case-study representative of the communication requirements of next-generation systems. This study aims to provide quantified insights into what can be expected from TSN in terms of timing, memory usage and extensibility.
+ER  - 
+
+
